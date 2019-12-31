@@ -1,0 +1,176 @@
+[
+    {
+        "chinese": "你",
+        "guid": "a0JCDG0qSF",
+        "meaning": "you",
+        "part-of-speech": "pronoun",
+        "pinyin": "nǐ",
+        "sentence": "你好",
+        "sentence-meaning": "Hello",
+        "sentence-pinyin": "nǐ hǎo"
+    },
+    {
+        "chinese": "您",
+        "guid": "ucizIH7XQH",
+        "meaning": "you (polite form)",
+        "part-of-speech": "pronoun",
+        "pinyin": "nín",
+        "sentence": "您好",
+        "sentence-meaning": "How do you do?",
+        "sentence-pinyin": "nín hǎo"
+    },
+    {
+        "chinese": "我",
+        "guid": "r5r6Pu2ISP",
+        "meaning": "I; me",
+        "part-of-speech": "pronoun",
+        "pinyin": "wǒ",
+        "sentence": "我很好",
+        "sentence-meaning": "I'm very well",
+        "sentence-pinyin": "wǒ hěn hǎo"
+    },
+    {
+        "chinese": "好",
+        "guid": "PHh4lt3HTM",
+        "meaning": "good; well",
+        "part-of-speech": "adjective",
+        "pinyin": "hǎo",
+        "sentence": "我很好",
+        "sentence-meaning": "I'm very well",
+        "sentence-pinyin": "wǒ hěn hǎo"
+    },
+    {
+        "chinese": "很",
+        "guid": "E05nncvJSP",
+        "meaning": "very, rather",
+        "part-of-speech": "adverb",
+        "pinyin": "hěn",
+        "sentence": "我很好",
+        "sentence-meaning": "I'm very well",
+        "sentence-pinyin": "wǒ hěn hǎo"
+    },
+    {
+        "chinese": "不",
+        "guid": "VoaUteV6R1",
+        "meaning": "no, not",
+        "part-of-speech": "adverb",
+        "pinyin": "bù",
+        "sentence": "不客气",
+        "sentence-meaning": "Not at all",
+        "sentence-pinyin": "bù kèqi"
+    },
+    {
+        "chinese": "谢",
+        "guid": "2e7bF2K/Qv",
+        "meaning": "thank; Xie (a surname)",
+        "part-of-speech": "verb/noun",
+        "pinyin": "xiè",
+        "sentence": "谢谢",
+        "sentence-meaning": "Thank you",
+        "sentence-pinyin": "xièxiè"
+    },
+    {
+        "chinese": "客气",
+        "guid": "91jPBBr9RD",
+        "meaning": "polite, courteous",
+        "part-of-speech": "adjective",
+        "pinyin": "kèqi",
+        "sentence": "不客气",
+        "sentence-meaning": "Not at all",
+        "sentence-pinyin": "bù kèqi"
+    },
+    {
+        "chinese": "再见",
+        "guid": "KcneoRfPT/",
+        "meaning": "bye, see you again",
+        "part-of-speech": "idiomatic expression",
+        "pinyin": "zàijiàn"
+    },
+    {
+        "chinese": "吗",
+        "guid": "3cUip4C8SU",
+        "meaning": "an interrogative particle",
+        "part-of-speech": "particle",
+        "pinyin": "ma",
+        "sentence": "你好吗？",
+        "sentence-meaning": "How are you?",
+        "sentence-pinyin": "nǐ hǎo ma"
+    },
+    {
+        "chinese": "零",
+        "guid": "l1iBuSvDTn",
+        "meaning": "zero",
+        "part-of-speech": "number",
+        "pinyin": "líng"
+    },
+    {
+        "chinese": "一",
+        "guid": "GhXu9wlbSI",
+        "meaning": "one",
+        "part-of-speech": "number",
+        "pinyin": "yī"
+    },
+    {
+        "chinese": "二",
+        "guid": "xKuR8sE3TP",
+        "meaning": "two",
+        "part-of-speech": "number",
+        "pinyin": "èr"
+    },
+    {
+        "chinese": "三",
+        "guid": "/+xIHKwXTB",
+        "meaning": "three",
+        "part-of-speech": "number",
+        "pinyin": "sān"
+    },
+    {
+        "chinese": "四",
+        "guid": "gI+5pZIDQ4",
+        "meaning": "four",
+        "part-of-speech": "number",
+        "pinyin": "sì"
+    },
+    {
+        "chinese": "五",
+        "guid": "GerEbWopT7",
+        "meaning": "five",
+        "part-of-speech": "number",
+        "pinyin": "wǔ"
+    },
+    {
+        "chinese": "六",
+        "guid": "3KrIC+S2T4",
+        "meaning": "six",
+        "part-of-speech": "number",
+        "pinyin": "liù"
+    },
+    {
+        "chinese": "七",
+        "guid": "FGzH31TBT7",
+        "meaning": "seven",
+        "part-of-speech": "number",
+        "pinyin": "qī"
+    },
+    {
+        "chinese": "八",
+        "guid": "EPMQQclWR5",
+        "meaning": "eight",
+        "part-of-speech": "number",
+        "pinyin": "bā"
+    },
+    {
+        "chinese": "九",
+        "guid": "ZGOo/+osRq",
+        "meaning": "nine",
+        "part-of-speech": "number",
+        "pinyin": "jiǔ"
+    },
+    {
+        "chinese": "十",
+        "guid": "ds96ABg9QS",
+        "meaning": "ten",
+        "part-of-speech": "number",
+        "pinyin": "shí"
+    }
+]
