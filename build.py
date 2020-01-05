@@ -81,7 +81,7 @@ def build_notes(data):
             entry['guid'],
             MODEL_ID,
             get_epoch_s(),
-            ' chinese-in-steps-1 lesson-1 ',
+            entry['tags'],
             build_fields(id, entry),
             id,
             build_checksum(id)

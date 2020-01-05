@@ -9,7 +9,8 @@
         "pinyin": "nǐ",
         "sentence": "你好",
         "sentence-meaning": "Hello",
-        "sentence-pinyin": "nǐ hǎo"
+        "sentence-pinyin": "nǐ hǎo",
+        "tags": " chinese-in-steps-1 lesson-1 "
     },
     {
         "chinese": "您",
@@ -21,7 +22,8 @@
         "pinyin": "nín",
         "sentence": "您好",
         "sentence-meaning": "How do you do?",
-        "sentence-pinyin": "nín hǎo"
+        "sentence-pinyin": "nín hǎo",
+        "tags": " chinese-in-steps-1 lesson-1 "
     },
     {
         "chinese": "我",
@@ -33,7 +35,8 @@
         "pinyin": "wǒ",
         "sentence": "我很好",
         "sentence-meaning": "I'm very well",
-        "sentence-pinyin": "wǒ hěn hǎo"
+        "sentence-pinyin": "wǒ hěn hǎo",
+        "tags": " chinese-in-steps-1 lesson-1 "
     },
     {
         "chinese": "好",
@@ -45,7 +48,8 @@
         "pinyin": "hǎo",
         "sentence": "我很好",
         "sentence-meaning": "I'm very well",
-        "sentence-pinyin": "wǒ hěn hǎo"
+        "sentence-pinyin": "wǒ hěn hǎo",
+        "tags": " chinese-in-steps-1 lesson-1 "
     },
     {
         "chinese": "很",
@@ -57,7 +61,8 @@
         "pinyin": "hěn",
         "sentence": "我很好",
         "sentence-meaning": "I'm very well",
-        "sentence-pinyin": "wǒ hěn hǎo"
+        "sentence-pinyin": "wǒ hěn hǎo",
+        "tags": " chinese-in-steps-1 lesson-1 "
     },
     {
         "chinese": "不",
@@ -69,7 +74,8 @@
         "pinyin": "bù",
         "sentence": "不客气",
         "sentence-meaning": "Not at all",
-        "sentence-pinyin": "bù kèqi"
+        "sentence-pinyin": "bù kèqi",
+        "tags": " chinese-in-steps-1 lesson-1 "
     },
     {
         "chinese": "谢",
@@ -81,7 +87,8 @@
         "pinyin": "xiè",
         "sentence": "谢谢",
         "sentence-meaning": "Thank you",
-        "sentence-pinyin": "xièxiè"
+        "sentence-pinyin": "xièxiè",
+        "tags": " chinese-in-steps-1 lesson-1 "
     },
     {
         "chinese": "客气",
@@ -93,7 +100,8 @@
         "pinyin": "kèqi",
         "sentence": "不客气",
         "sentence-meaning": "Not at all",
-        "sentence-pinyin": "bù kèqi"
+        "sentence-pinyin": "bù kèqi",
+        "tags": " chinese-in-steps-1 lesson-1 "
     },
     {
         "chinese": "再见",
@@ -102,7 +110,8 @@
         "meaning": "bye, see you again",
         "nid": 1578178009567,
         "part-of-speech": "idiomatic expression",
-        "pinyin": "zàijiàn"
+        "pinyin": "zàijiàn",
+        "tags": " chinese-in-steps-1 lesson-1 "
     },
     {
         "chinese": "吗",
@@ -114,7 +123,8 @@
         "pinyin": "ma",
         "sentence": "你好吗？",
         "sentence-meaning": "How are you?",
-        "sentence-pinyin": "nǐ hǎo ma"
+        "sentence-pinyin": "nǐ hǎo ma",
+        "tags": " chinese-in-steps-1 lesson-1 "
     },
     {
         "chinese": "零",
@@ -123,7 +133,8 @@
         "meaning": "zero",
         "nid": 1578178009571,
         "part-of-speech": "number",
-        "pinyin": "líng"
+        "pinyin": "líng",
+        "tags": " chinese-in-steps-1 lesson-1 "
     },
     {
         "chinese": "一",
@@ -132,7 +143,8 @@
         "meaning": "one",
         "nid": 1578178009573,
         "part-of-speech": "number",
-        "pinyin": "yī"
+        "pinyin": "yī",
+        "tags": " chinese-in-steps-1 lesson-1 "
     },
     {
         "chinese": "二",
@@ -141,7 +153,8 @@
         "meaning": "two",
         "nid": 1578178009575,
         "part-of-speech": "number",
-        "pinyin": "èr"
+        "pinyin": "èr",
+        "tags": " chinese-in-steps-1 lesson-1 "
     },
     {
         "chinese": "三",
@@ -150,7 +163,8 @@
         "meaning": "three",
         "nid": 1578178009577,
         "part-of-speech": "number",
-        "pinyin": "sān"
+        "pinyin": "sān",
+        "tags": " chinese-in-steps-1 lesson-1 "
     },
     {
         "chinese": "四",
@@ -159,7 +173,8 @@
         "meaning": "four",
         "nid": 1578178009579,
         "part-of-speech": "number",
-        "pinyin": "sì"
+        "pinyin": "sì",
+        "tags": " chinese-in-steps-1 lesson-1 "
     },
     {
         "chinese": "五",
@@ -168,7 +183,8 @@
         "meaning": "five",
         "nid": 1578178009581,
         "part-of-speech": "number",
-        "pinyin": "wǔ"
+        "pinyin": "wǔ",
+        "tags": " chinese-in-steps-1 lesson-1 "
     },
     {
         "chinese": "六",
@@ -177,7 +193,8 @@
         "meaning": "six",
         "nid": 1578178009583,
         "part-of-speech": "number",
-        "pinyin": "liù"
+        "pinyin": "liù",
+        "tags": " chinese-in-steps-1 lesson-1 "
     },
     {
         "chinese": "七",
@@ -186,7 +203,8 @@
         "meaning": "seven",
         "nid": 1578178009585,
         "part-of-speech": "number",
-        "pinyin": "qī"
+        "pinyin": "qī",
+        "tags": " chinese-in-steps-1 lesson-1 "
     },
     {
         "chinese": "八",
@@ -195,7 +213,8 @@
         "meaning": "eight",
         "nid": 1578178009587,
         "part-of-speech": "number",
-        "pinyin": "bā"
+        "pinyin": "bā",
+        "tags": " chinese-in-steps-1 lesson-1 "
     },
     {
         "chinese": "九",
@@ -204,7 +223,8 @@
         "meaning": "nine",
         "nid": 1578178009589,
         "part-of-speech": "number",
-        "pinyin": "jiǔ"
+        "pinyin": "jiǔ",
+        "tags": " chinese-in-steps-1 lesson-1 "
     },
     {
         "chinese": "十",
@@ -213,6 +233,7 @@
         "meaning": "ten",
         "nid": 1578178009591,
         "part-of-speech": "number",
-        "pinyin": "shí"
+        "pinyin": "shí",
+        "tags": " chinese-in-steps-1 lesson-1 "
     }
 ]
