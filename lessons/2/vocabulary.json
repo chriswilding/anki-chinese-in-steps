@@ -228,5 +228,125 @@
         "part-of-speech": "particle",
         "pinyin": "ní",
         "tags": " chinese-in-steps-1 lesson-2 "
+    },
+    {
+        "chinese": "陈",
+        "cid": 1578952316322,
+        "guid": "0tSiiIdzRe",
+        "meaning": "Chen (a surname)",
+        "nid": 1578952316323,
+        "part-of-speech": "noun",
+        "pinyin": "Chén",
+        "tags": " chinese-in-steps-1 lesson-2 additional-vocabulary "
+    },
+    {
+        "chinese": "钱",
+        "cid": 1578952316324,
+        "guid": "o3rAIgZ+TG",
+        "meaning": "Qian (a surname)",
+        "nid": 1578952316325,
+        "part-of-speech": "noun",
+        "pinyin": "Qián",
+        "tags": " chinese-in-steps-1 lesson-2 additional-vocabulary "
+    },
+    {
+        "chinese": "张",
+        "cid": 1578952316326,
+        "guid": "ifJMupC2TA",
+        "meaning": "Zhang (a surname)",
+        "nid": 1578952316327,
+        "part-of-speech": "noun",
+        "pinyin": "Zhāng",
+        "tags": " chinese-in-steps-1 lesson-2 additional-vocabulary "
+    },
+    {
+        "chinese": "成龙",
+        "cid": 1578952316328,
+        "guid": "WCtFv0ksQ5",
+        "meaning": "Cheng Long (Jackie Chan) (a name)",
+        "nid": 1578952316329,
+        "part-of-speech": "proper noun",
+        "pinyin": "Chéng Lóng",
+        "tags": " chinese-in-steps-1 lesson-2 additional-vocabulary "
+    },
+    {
+        "chinese": "李小龙",
+        "cid": 1578952316330,
+        "guid": "C+Usi/U3QW",
+        "meaning": "Li Xiaolong (Bruce Lee) (a name)",
+        "nid": 1578952316331,
+        "part-of-speech": "proper noun",
+        "pinyin": "Lǐ Xiǎolóng",
+        "tags": " chinese-in-steps-1 lesson-2 additional-vocabulary "
+    },
+    {
+        "chinese": "巩李",
+        "cid": 1578952316332,
+        "guid": "enzTaxvaSJ",
+        "meaning": "Gong Li (a name)",
+        "nid": 1578952316333,
+        "part-of-speech": "proper noun",
+        "pinyin": "Gǒng Lǐ",
+        "tags": " chinese-in-steps-1 lesson-2 additional-vocabulary "
+    },
+    {
+        "chinese": "保罗",
+        "cid": 1578952316334,
+        "guid": "QJnd/2bhTX",
+        "meaning": "Paul",
+        "nid": 1578952316335,
+        "part-of-speech": "noun",
+        "pinyin": "Bǎoluó",
+        "tags": " chinese-in-steps-1 lesson-2 additional-vocabulary "
+    },
+    {
+        "chinese": "大卫",
+        "cid": 1578952316336,
+        "guid": "m+Owzq7DQk",
+        "meaning": "David",
+        "nid": 1578952316337,
+        "part-of-speech": "noun",
+        "pinyin": "Dàwèi",
+        "tags": " chinese-in-steps-1 lesson-2 additional-vocabulary "
+    },
+    {
+        "chinese": "莉萨",
+        "cid": 1578952316338,
+        "guid": "XGrmOmmWRk",
+        "meaning": "Lisa",
+        "nid": 1578952316339,
+        "part-of-speech": "noun",
+        "pinyin": "Lìsà",
+        "tags": " chinese-in-steps-1 lesson-2 additional-vocabulary "
+    },
+    {
+        "chinese": "路易丝",
+        "cid": 1578952316340,
+        "guid": "07Mwp7AvQ3",
+        "meaning": "Louise",
+        "nid": 1578952316341,
+        "part-of-speech": "noun",
+        "pinyin": "Lùyìsī",
+        "tags": " chinese-in-steps-1 lesson-2 additional-vocabulary "
+    },
+    {
+        "chinese": "玛丽",
+        "cid": 1578952316342,
+        "guid": "+acHp1L/R9",
+        "meaning": "Mary",
+        "nid": 1578952316343,
+        "part-of-speech": "noun",
+        "pinyin": "Mǎlì",
+        "tags": " chinese-in-steps-1 lesson-2 additional-vocabulary "
+    },
+    {
+        "chinese": "约翰",
+        "cid": 1578952316346,
+        "guid": "SSSOf1LrTB",
+        "meaning": "John",
+        "nid": 1578952316347,
+        "part-of-speech": "noun",
+        "pinyin": "Yuēhàn",
+        "tags": " chinese-in-steps-1 lesson-2 additional-vocabulary "
     }
 ]
