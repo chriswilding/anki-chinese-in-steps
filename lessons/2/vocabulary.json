@@ -1,1 +1,232 @@
-[]
+[
+    {
+        "chinese": "他",
+        "cid": 1578951175138,
+        "guid": "l0viL5DoRp",
+        "meaning": "he; him",
+        "nid": 1578951175139,
+        "part-of-speech": "pronoun",
+        "pinyin": "tā",
+        "tags": " chinese-in-steps-1 lesson-2 "
+    },
+    {
+        "chinese": "她",
+        "cid": 1578951175140,
+        "guid": "u68wt3fYR6",
+        "meaning": "she; her",
+        "nid": 1578951175141,
+        "part-of-speech": "pronoun",
+        "pinyin": "tā",
+        "tags": " chinese-in-steps-1 lesson-2 "
+    },
+    {
+        "chinese": "姓",
+        "cid": 1578951175142,
+        "guid": "DVsG6Wv8Sy",
+        "meaning": "have as a surname",
+        "nid": 1578951175143,
+        "part-of-speech": "verb",
+        "pinyin": "xìng",
+        "tags": " chinese-in-steps-1 lesson-2 "
+    },
+    {
+        "chinese": "叫",
+        "cid": 1578951175144,
+        "guid": "9Veio9KNRZ",
+        "meaning": "be called; call; shout",
+        "nid": 1578951175145,
+        "part-of-speech": "verb",
+        "pinyin": "jiào",
+        "tags": " chinese-in-steps-1 lesson-2 "
+    },
+    {
+        "chinese": "贵",
+        "cid": 1578951175146,
+        "guid": "zDr5gqocRD",
+        "meaning": "honourable; expensive",
+        "nid": 1578951175147,
+        "part-of-speech": "adjective",
+        "pinyin": "guì",
+        "tags": " chinese-in-steps-1 lesson-2 "
+    },
+    {
+        "chinese": "对",
+        "cid": 1578951175148,
+        "guid": "L8jQWHjtSR",
+        "meaning": "correct; right",
+        "nid": 1578951175149,
+        "part-of-speech": "adjective",
+        "pinyin": "duì",
+        "tags": " chinese-in-steps-1 lesson-2 "
+    },
+    {
+        "chinese": "小",
+        "cid": 1578951175150,
+        "guid": "ONSOmOnxQT",
+        "meaning": "small; young",
+        "nid": 1578951175151,
+        "part-of-speech": "adjective",
+        "pinyin": "xiǎo",
+        "tags": " chinese-in-steps-1 lesson-2 "
+    },
+    {
+        "chinese": "名字",
+        "cid": 1578951175152,
+        "guid": "pnTBnw9+QH",
+        "meaning": "name",
+        "nid": 1578951175153,
+        "part-of-speech": "noun",
+        "pinyin": "míngzi",
+        "tags": " chinese-in-steps-1 lesson-2 "
+    },
+    {
+        "chinese": "李",
+        "cid": 1578951175154,
+        "guid": "iiHpjZRjSJ",
+        "meaning": "noun",
+        "nid": 1578951175155,
+        "part-of-speech": "Li (a surname); plum",
+        "pinyin": "Lǐ",
+        "tags": " chinese-in-steps-1 lesson-2 "
+    },
+    {
+        "chinese": "李贵",
+        "cid": 1578951175156,
+        "guid": "wWh/oSUsQs",
+        "meaning": "Li Gui (a name)",
+        "nid": 1578951175157,
+        "part-of-speech": "proper noun",
+        "pinyin": "Lǐ Guì",
+        "tags": " chinese-in-steps-1 lesson-2 "
+    },
+    {
+        "chinese": "王",
+        "cid": 1578951175158,
+        "guid": "mf2avqRlTF",
+        "meaning": "Wang (a surname); king",
+        "nid": 1578951175159,
+        "part-of-speech": "noun",
+        "pinyin": "wáng",
+        "tags": " chinese-in-steps-1 lesson-2 "
+    },
+    {
+        "chinese": "京*",
+        "cid": 1578951175160,
+        "guid": "9oVGHxBaTI",
+        "meaning": "capital",
+        "nid": 1578951175161,
+        "part-of-speech": "noun",
+        "pinyin": "Jīng",
+        "tags": " chinese-in-steps-1 lesson-2 "
+    },
+    {
+        "chinese": "王京",
+        "cid": 1578951175162,
+        "guid": "uokEThfGSz",
+        "meaning": "Wang Jing (Jim King) (a name)",
+        "nid": 1578951175163,
+        "part-of-speech": "proper noun",
+        "pinyin": "Wáng Jīng",
+        "tags": " chinese-in-steps-1 lesson-2 "
+    },
+    {
+        "chinese": "英*",
+        "cid": 1578951175164,
+        "guid": "swLTXLyIRj",
+        "meaning": "hero; Britain",
+        "nid": 1578951175165,
+        "part-of-speech": "noun",
+        "pinyin": "yīng",
+        "tags": " chinese-in-steps-1 lesson-2 "
+    },
+    {
+        "chinese": "李小英",
+        "cid": 1578951175166,
+        "guid": "PMOuV1SSS7",
+        "meaning": "Li Xiaoying (a name)",
+        "nid": 1578951175167,
+        "part-of-speech": "proper noun",
+        "pinyin": "Lǐ Xiǎoyīng",
+        "tags": " chinese-in-steps-1 lesson-2 "
+    },
+    {
+        "chinese": "李月明",
+        "cid": 1578951175168,
+        "guid": "d0IXTHSsQC",
+        "meaning": "Li Yueming",
+        "nid": 1578951175169,
+        "part-of-speech": "proper noun",
+        "pinyin": "Lǐ Yuèmíng",
+        "tags": " chinese-in-steps-1 lesson-2 "
+    },
+    {
+        "chinese": "方",
+        "cid": 1578951175170,
+        "guid": "vYlyDMuhRD",
+        "meaning": "Fang (a surname); place",
+        "nid": 1578951175171,
+        "part-of-speech": "noun",
+        "pinyin": "fāng",
+        "tags": " chinese-in-steps-1 lesson-2 "
+    },
+    {
+        "chinese": "国",
+        "cid": 1578951175172,
+        "guid": "cZUDPND/Tv",
+        "meaning": "country",
+        "nid": 1578951175173,
+        "part-of-speech": "noun",
+        "pinyin": "guó",
+        "tags": " chinese-in-steps-1 lesson-2 "
+    },
+    {
+        "chinese": "伦*",
+        "cid": 1578951175174,
+        "guid": "Y8AuhpEuQj",
+        "meaning": "ethics",
+        "nid": 1578951175175,
+        "part-of-speech": "noun",
+        "pinyin": "lún",
+        "tags": " chinese-in-steps-1 lesson-2 "
+    },
+    {
+        "chinese": "方国论",
+        "cid": 1578951175176,
+        "guid": "hPdhv6P6QL",
+        "meaning": "Fang Guolun (a name)",
+        "nid": 1578951175177,
+        "part-of-speech": "proper noun",
+        "pinyin": "Fāng Guólùn",
+        "tags": " chinese-in-steps-1 lesson-2 "
+    },
+    {
+        "chinese": "也",
+        "cid": 1578951175178,
+        "guid": "ag6PIdIvSg",
+        "meaning": "also, too; neither",
+        "nid": 1578951175179,
+        "part-of-speech": "adverb",
+        "pinyin": "yě",
+        "tags": " chinese-in-steps-1 lesson-2 "
+    },
+    {
+        "chinese": "什么",
+        "cid": 1578951175180,
+        "guid": "fQe1MXoIR/",
+        "meaning": "what",
+        "nid": 1578951175181,
+        "part-of-speech": "question word",
+        "pinyin": "shénme",
+        "tags": " chinese-in-steps-1 lesson-2 "
+    },
+    {
+        "chinese": "呢",
+        "cid": 1578951175182,
+        "guid": "AjtgyqybQQ",
+        "meaning": "interrogative particle for follow-up questions",
+        "nid": 1578951175183,
+        "part-of-speech": "particle",
+        "pinyin": "ní",
+        "tags": " chinese-in-steps-1 lesson-2 "
+    }
+]
