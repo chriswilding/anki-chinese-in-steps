@@ -1,0 +1,332 @@
+[
+    {
+        "chinese": "是",
+        "cid": 1579023163323,
+        "guid": "t1gmqAriSM",
+        "meaning": "be",
+        "nid": 1579023163324,
+        "part-of-speech": "verb",
+        "pinyin": "shì",
+        "tags": " chinese-in-steps-1 lesson-3 "
+    },
+    {
+        "chinese": "这",
+        "cid": 1579023163325,
+        "guid": "W+Ucfq72R2",
+        "meaning": "this",
+        "nid": 1579023163326,
+        "part-of-speech": "pronoun",
+        "pinyin": "zhè/zhèi",
+        "tags": " chinese-in-steps-1 lesson-3 "
+    },
+    {
+        "chinese": "那",
+        "cid": 1579023163327,
+        "guid": "kTpAfAkuSn",
+        "meaning": "that",
+        "nid": 1579023163328,
+        "part-of-speech": "pronoun",
+        "pinyin": "nà/nèi",
+        "tags": " chinese-in-steps-1 lesson-3 "
+    },
+    {
+        "chinese": "我们",
+        "cid": 1579023163329,
+        "guid": "VPvbJASwS2",
+        "meaning": "we; us",
+        "nid": 1579023163330,
+        "part-of-speech": "pronoun",
+        "pinyin": "wǒmen",
+        "tags": " chinese-in-steps-1 lesson-3 "
+    },
+    {
+        "chinese": "你们",
+        "cid": 1579023163331,
+        "guid": "Yi2/iLzpT8",
+        "meaning": "you (plural)",
+        "nid": 1579023163332,
+        "part-of-speech": "pronoun",
+        "pinyin": "nǐmen",
+        "tags": " chinese-in-steps-1 lesson-3 "
+    },
+    {
+        "chinese": "他们",
+        "cid": 1579023163333,
+        "guid": "RTdAl8WTRZ",
+        "meaning": "they; them",
+        "nid": 1579023163334,
+        "part-of-speech": "pronoun",
+        "pinyin": "tāmen",
+        "tags": " chinese-in-steps-1 lesson-3 "
+    },
+    {
+        "chinese": "先生",
+        "cid": 1579023163335,
+        "guid": "1HZaikffRt",
+        "meaning": "Mr; husband",
+        "nid": 1579023163336,
+        "part-of-speech": "noun",
+        "pinyin": "xiānsheng",
+        "tags": " chinese-in-steps-1 lesson-3 "
+    },
+    {
+        "chinese": "太太",
+        "cid": 1579023163337,
+        "guid": "JESmLwBTSu",
+        "meaning": "Mrs; wife",
+        "nid": 1579023163338,
+        "part-of-speech": "noun",
+        "pinyin": "tàitai",
+        "tags": " chinese-in-steps-1 lesson-3 "
+    },
+    {
+        "chinese": "小姐",
+        "cid": 1579023163339,
+        "guid": "rs1yP+ESQT",
+        "meaning": "Miss",
+        "nid": 1579023163340,
+        "part-of-speech": "noun",
+        "pinyin": "xiǎojiě",
+        "tags": " chinese-in-steps-1 lesson-3 "
+    },
+    {
+        "chinese": "老师",
+        "cid": 1579023163341,
+        "guid": "dSDYC3LORx",
+        "meaning": "teacher",
+        "nid": 1579023163342,
+        "part-of-speech": "noun",
+        "pinyin": "lǎoshī",
+        "tags": " chinese-in-steps-1 lesson-3 "
+    },
+    {
+        "chinese": "医生",
+        "cid": 1579023163343,
+        "guid": "1HA4xpc5S/",
+        "meaning": "doctor",
+        "nid": 1579023163344,
+        "part-of-speech": "noun",
+        "pinyin": "yīshēng",
+        "tags": " chinese-in-steps-1 lesson-3 "
+    },
+    {
+        "chinese": "人",
+        "cid": 1579023163345,
+        "guid": "NiJDcOBpTT",
+        "meaning": "person, people",
+        "nid": 1579023163346,
+        "part-of-speech": "noun",
+        "pinyin": "rén",
+        "tags": " chinese-in-steps-1 lesson-3 "
+    },
+    {
+        "chinese": "中国",
+        "cid": 1579023163347,
+        "guid": "9sEqYUvpSl",
+        "meaning": "China",
+        "nid": 1579023163348,
+        "part-of-speech": "proper noun",
+        "pinyin": "Zhōngguó",
+        "tags": " chinese-in-steps-1 lesson-3 "
+    },
+    {
+        "chinese": "英国",
+        "cid": 1579023163349,
+        "guid": "+5pqcBdJR0",
+        "meaning": "UK",
+        "nid": 1579023163350,
+        "part-of-speech": "proper noun",
+        "pinyin": "Yīngguó",
+        "tags": " chinese-in-steps-1 lesson-3 "
+    },
+    {
+        "chinese": "地方",
+        "cid": 1579023163351,
+        "guid": "4kXXVCK2R0",
+        "meaning": "place",
+        "nid": 1579023163352,
+        "part-of-speech": "noun",
+        "pinyin": "dìfang",
+        "tags": " chinese-in-steps-1 lesson-3 "
+    },
+    {
+        "chinese": "北京",
+        "cid": 1579023163353,
+        "guid": "MOeWvMh0S4",
+        "meaning": "Beijing",
+        "nid": 1579023163354,
+        "part-of-speech": "proper noun",
+        "pinyin": "Běijīng",
+        "tags": " chinese-in-steps-1 lesson-3 "
+    },
+    {
+        "chinese": "伦敦",
+        "cid": 1579023163355,
+        "guid": "25tnUqtDRs",
+        "meaning": "London",
+        "nid": 1579023163356,
+        "part-of-speech": "proper noun",
+        "pinyin": "Lúndūn",
+        "tags": " chinese-in-steps-1 lesson-3 "
+    },
+    {
+        "chinese": "上海",
+        "cid": 1579023163357,
+        "guid": "syoqXJ3JSe",
+        "meaning": "Shanghai",
+        "nid": 1579023163358,
+        "part-of-speech": "proper noun",
+        "pinyin": "Shànghǎi",
+        "tags": " chinese-in-steps-1 lesson-3 "
+    },
+    {
+        "chinese": "都",
+        "cid": 1579023163359,
+        "guid": "KIl4uh3xQd",
+        "meaning": "all, both",
+        "nid": 1579023163360,
+        "part-of-speech": "adverb",
+        "pinyin": "dōu",
+        "tags": " chinese-in-steps-1 lesson-3 "
+    },
+    {
+        "chinese": "就",
+        "cid": 1579023163361,
+        "guid": "6F9wF9/1T8",
+        "meaning": "exactly",
+        "nid": 1579023163362,
+        "part-of-speech": "adverb",
+        "pinyin": "jiù",
+        "tags": " chinese-in-steps-1 lesson-3 "
+    },
+    {
+        "chinese": "谁",
+        "cid": 1579023163363,
+        "guid": "P9oBdKGFTs",
+        "meaning": "who",
+        "nid": 1579023163364,
+        "part-of-speech": "question word",
+        "pinyin": "shuí/shéi",
+        "tags": " chinese-in-steps-1 lesson-3 "
+    },
+    {
+        "chinese": "哪",
+        "cid": 1579023163365,
+        "guid": "0PO/iY4LRY",
+        "meaning": "which",
+        "nid": 1579023163366,
+        "part-of-speech": "question word",
+        "pinyin": "nǎ/něi",
+        "tags": " chinese-in-steps-1 lesson-3 "
+    },
+    {
+        "chinese": "法国",
+        "cid": 1579023163367,
+        "guid": "lsZ5bc3XTs",
+        "meaning": "France",
+        "nid": 1579023163368,
+        "part-of-speech": "proper noun",
+        "pinyin": "Fàguó",
+        "tags": " chinese-in-steps-1 lesson-3 additional-vocabulary "
+    },
+    {
+        "chinese": "巴黎",
+        "cid": 1579023163369,
+        "guid": "o16Udn4hSs",
+        "meaning": "Paris",
+        "nid": 1579023163370,
+        "part-of-speech": "proper noun",
+        "pinyin": "Bālí",
+        "tags": " chinese-in-steps-1 lesson-3 additional-vocabulary "
+    },
+    {
+        "chinese": "德国",
+        "cid": 1579023163371,
+        "guid": "haW7TxHjRI",
+        "meaning": "Germany",
+        "nid": 1579023163372,
+        "part-of-speech": "proper noun",
+        "pinyin": "Déguó",
+        "tags": " chinese-in-steps-1 lesson-3 additional-vocabulary "
+    },
+    {
+        "chinese": "柏林",
+        "cid": 1579023163373,
+        "guid": "0+j6ayjiR7",
+        "meaning": "Berlin",
+        "nid": 1579023163374,
+        "part-of-speech": "proper noun",
+        "pinyin": "Bólín",
+        "tags": " chinese-in-steps-1 lesson-3 additional-vocabulary "
+    },
+    {
+        "chinese": "日本",
+        "cid": 1579023163375,
+        "guid": "Ko61xi/KQG",
+        "meaning": "Japan",
+        "nid": 1579023163376,
+        "part-of-speech": "proper noun",
+        "pinyin": "Rìběn",
+        "tags": " chinese-in-steps-1 lesson-3 additional-vocabulary "
+    },
+    {
+        "chinese": "东京",
+        "cid": 1579023163377,
+        "guid": "7xzoyQ3SRR",
+        "meaning": "Tokyo",
+        "nid": 1579023163378,
+        "part-of-speech": "proper noun",
+        "pinyin": "Dōngjīng",
+        "tags": " chinese-in-steps-1 lesson-3 additional-vocabulary "
+    },
+    {
+        "chinese": "工程师",
+        "cid": 1579023163379,
+        "guid": "nrBUhFV9Rn",
+        "meaning": "engineer",
+        "nid": 1579023163380,
+        "part-of-speech": "noun",
+        "pinyin": "gōngchéngshī",
+        "tags": " chinese-in-steps-1 lesson-3 additional-vocabulary "
+    },
+    {
+        "chinese": "公务员",
+        "cid": 1579023163381,
+        "guid": "X8xiHbtjTP",
+        "meaning": "civil servant",
+        "nid": 1579023163382,
+        "part-of-speech": "noun",
+        "pinyin": "gōngwùyuán",
+        "tags": " chinese-in-steps-1 lesson-3 additional-vocabulary "
+    },
+    {
+        "chinese": "记者",
+        "cid": 1579023163383,
+        "guid": "OI0xlr7ETi",
+        "meaning": "journalist",
+        "nid": 1579023163384,
+        "part-of-speech": "noun",
+        "pinyin": "jīnglǐ",
+        "tags": " chinese-in-steps-1 lesson-3 additional-vocabulary "
+    },
+    {
+        "chinese": "经理",
+        "cid": 1579023163385,
+        "guid": "Gdzb9VE9Ts",
+        "meaning": "manager",
+        "nid": 1579023163386,
+        "part-of-speech": "noun",
+        "pinyin": "jìzhě",
+        "tags": " chinese-in-steps-1 lesson-3 additional-vocabulary "
+    },
+    {
+        "chinese": "律师",
+        "cid": 1579023163387,
+        "guid": "AIZMdUg1T7",
+        "meaning": "lawyer",
+        "nid": 1579023163388,
+        "part-of-speech": "noun",
+        "pinyin": "lǜshī",
+        "tags": " chinese-in-steps-1 lesson-3 additional-vocabulary "
+    }
+]
