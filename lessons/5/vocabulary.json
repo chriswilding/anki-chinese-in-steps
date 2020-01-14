@@ -1,0 +1,362 @@
+[
+    {
+        "chinese": "学",
+        "cid": 1579036615701,
+        "guid": "t7wPM6OHQt",
+        "meaning": "learn, study",
+        "nid": 1579036615702,
+        "part-of-speech": "verb",
+        "pinyin": "xué",
+        "tags": " chinese-in-steps-1 lesson-5 "
+    },
+    {
+        "chinese": "学生",
+        "cid": 1579036615703,
+        "guid": "MmZRIO3KRB",
+        "meaning": "student",
+        "nid": 1579036615704,
+        "part-of-speech": "noun",
+        "pinyin": "xuéshēng",
+        "tags": " chinese-in-steps-1 lesson-5 "
+    },
+    {
+        "chinese": "大学",
+        "cid": 1579036615705,
+        "guid": "MX0bxtCwRt",
+        "meaning": "university",
+        "nid": 1579036615706,
+        "part-of-speech": "noun",
+        "pinyin": "dàxué",
+        "tags": " chinese-in-steps-1 lesson-5 "
+    },
+    {
+        "chinese": "伦敦大学",
+        "cid": 1579036615707,
+        "guid": "2bvqKlEGTl",
+        "meaning": "University of London",
+        "nid": 1579036615708,
+        "part-of-speech": "proper noun",
+        "pinyin": "Lúndūn Dàxué",
+        "tags": " chinese-in-steps-1 lesson-5 "
+    },
+    {
+        "chinese": "做",
+        "cid": 1579036615709,
+        "guid": "n+AtsdvxTK",
+        "meaning": "make, do",
+        "nid": 1579036615710,
+        "part-of-speech": "verb",
+        "pinyin": "zuò",
+        "tags": " chinese-in-steps-1 lesson-5 "
+    },
+    {
+        "chinese": "写",
+        "cid": 1579036615711,
+        "guid": "KeLJ2GVZQC",
+        "meaning": "write",
+        "nid": 1579036615712,
+        "part-of-speech": "verb",
+        "pinyin": "xiě",
+        "tags": " chinese-in-steps-1 lesson-5 "
+    },
+    {
+        "chinese": "看",
+        "cid": 1579036615713,
+        "guid": "wK5McssYQD",
+        "meaning": "see, watch, look; read",
+        "nid": 1579036615714,
+        "part-of-speech": "verb",
+        "pinyin": "kàn",
+        "tags": " chinese-in-steps-1 lesson-5 "
+    },
+    {
+        "chinese": "喝",
+        "cid": 1579036615715,
+        "guid": "br1tbZCdQb",
+        "meaning": "drink",
+        "nid": 1579036615716,
+        "part-of-speech": "verb",
+        "pinyin": "hē",
+        "tags": " chinese-in-steps-1 lesson-5 "
+    },
+    {
+        "chinese": "上网",
+        "cid": 1579036615717,
+        "guid": "2Bn5s0moRZ",
+        "meaning": "surf the internet",
+        "nid": 1579036615718,
+        "part-of-speech": "verb-object",
+        "pinyin": "shàng wǎng",
+        "tags": " chinese-in-steps-1 lesson-5 "
+    },
+    {
+        "chinese": "专业",
+        "cid": 1579036615719,
+        "guid": "AaQC8b2xQN",
+        "meaning": "major. subject",
+        "nid": 1579036615720,
+        "part-of-speech": "noun",
+        "pinyin": "zhuānyè",
+        "tags": " chinese-in-steps-1 lesson-5 "
+    },
+    {
+        "chinese": "英文",
+        "cid": 1579036615721,
+        "guid": "4zp20cwmRr",
+        "meaning": "English (language)",
+        "nid": 1579036615722,
+        "part-of-speech": "noun",
+        "pinyin": "yīngwén",
+        "tags": " chinese-in-steps-1 lesson-5 "
+    },
+    {
+        "chinese": "中文",
+        "cid": 1579036615723,
+        "guid": "Bn9uERqERw",
+        "meaning": "Chinese (language)",
+        "nid": 1579036615724,
+        "part-of-speech": "noun",
+        "pinyin": "zhōngwén",
+        "tags": " chinese-in-steps-1 lesson-5 "
+    },
+    {
+        "chinese": "文学",
+        "cid": 1579036615725,
+        "guid": "3awrmYfeRY",
+        "meaning": "literature",
+        "nid": 1579036615726,
+        "part-of-speech": "noun",
+        "pinyin": "wénxué",
+        "tags": " chinese-in-steps-1 lesson-5 "
+    },
+    {
+        "chinese": "电视",
+        "cid": 1579036615727,
+        "guid": "R4M38l5HRV",
+        "meaning": "TV",
+        "nid": 1579036615728,
+        "part-of-speech": "noun",
+        "pinyin": "diànshì",
+        "tags": " chinese-in-steps-1 lesson-5 "
+    },
+    {
+        "chinese": "书",
+        "cid": 1579036615729,
+        "guid": "fjcJFnnTTE",
+        "meaning": "book",
+        "nid": 1579036615730,
+        "part-of-speech": "noun",
+        "pinyin": "shū",
+        "tags": " chinese-in-steps-1 lesson-5 "
+    },
+    {
+        "chinese": "汉子",
+        "cid": 1579036615731,
+        "guid": "u+S2Xku+Rh",
+        "meaning": "Chinese character",
+        "nid": 1579036615732,
+        "part-of-speech": "noun",
+        "pinyin": "hànzi",
+        "tags": " chinese-in-steps-1 lesson-5 "
+    },
+    {
+        "chinese": "茶",
+        "cid": 1579036615733,
+        "guid": "0OeNDfJnQn",
+        "meaning": "tea",
+        "nid": 1579036615734,
+        "part-of-speech": "noun",
+        "pinyin": "chá",
+        "tags": " chinese-in-steps-1 lesson-5 "
+    },
+    {
+        "chinese": "牛奶",
+        "cid": 1579036615735,
+        "guid": "kHNZ8T5BT2",
+        "meaning": "(cow) milk",
+        "nid": 1579036615736,
+        "part-of-speech": "noun",
+        "pinyin": "niúnǎi",
+        "tags": " chinese-in-steps-1 lesson-5 "
+    },
+    {
+        "chinese": "hé",
+        "cid": 1579036615737,
+        "guid": "RvPHeQVTQd",
+        "meaning": "and",
+        "nid": 1579036615738,
+        "part-of-speech": "conjunction",
+        "pinyin": "和",
+        "tags": " chinese-in-steps-1 lesson-5 "
+    },
+    {
+        "chinese": "咖啡",
+        "cid": 1579036615739,
+        "guid": "AxCMLhTDRd",
+        "meaning": "coffee",
+        "nid": 1579036615740,
+        "part-of-speech": "noun",
+        "pinyin": "kāfēi",
+        "tags": " chinese-in-steps-1 lesson-5 "
+    },
+    {
+        "chinese": "晚上",
+        "cid": 1579036615741,
+        "guid": "EISE0Y5/TK",
+        "meaning": "evening",
+        "nid": 1579036615742,
+        "part-of-speech": "time word",
+        "pinyin": "wǎnshang",
+        "tags": " chinese-in-steps-1 lesson-5 "
+    },
+    {
+        "chinese": "早上",
+        "cid": 1579036615743,
+        "guid": "ubavjvC7QK",
+        "meaning": "morning",
+        "nid": 1579036615744,
+        "part-of-speech": "time word",
+        "pinyin": "zǎoshang",
+        "tags": " chinese-in-steps-1 lesson-5 "
+    },
+    {
+        "chinese": "天天",
+        "cid": 1579036615745,
+        "guid": "6sSUsE8ST9",
+        "meaning": "every day",
+        "nid": 1579036615746,
+        "part-of-speech": "time word",
+        "pinyin": "tiāntiān",
+        "tags": " chinese-in-steps-1 lesson-5 "
+    },
+    {
+        "chinese": "还是",
+        "cid": 1579036615747,
+        "guid": "508o2/mqSj",
+        "meaning": "or (for question)",
+        "nid": 1579036615748,
+        "part-of-speech": "conjunction",
+        "pinyin": "háishi",
+        "tags": " chinese-in-steps-1 lesson-5 "
+    },
+    {
+        "chinese": "法文",
+        "cid": 1579036615749,
+        "guid": "6wlBLsomR1",
+        "meaning": "French",
+        "nid": 1579036615750,
+        "part-of-speech": "noun",
+        "pinyin": "Fǎwén",
+        "tags": " chinese-in-steps-1 lesson-5 additional-vocabulary "
+    },
+    {
+        "chinese": "德文",
+        "cid": 1579036615751,
+        "guid": "S1SmCmHWSB",
+        "meaning": "German",
+        "nid": 1579036615752,
+        "part-of-speech": "noun",
+        "pinyin": "Déwén",
+        "tags": " chinese-in-steps-1 lesson-5 additional-vocabulary "
+    },
+    {
+        "chinese": "日文",
+        "cid": 1579036615753,
+        "guid": "zgFj/5WYSL",
+        "meaning": "Japanese",
+        "nid": 1579036615754,
+        "part-of-speech": "noun",
+        "pinyin": "Rìwén",
+        "tags": " chinese-in-steps-1 lesson-5 additional-vocabulary "
+    },
+    {
+        "chinese": "看电影",
+        "cid": 1579036615755,
+        "guid": "oGgzCqbJTK",
+        "meaning": "watch films",
+        "nid": 1579036615756,
+        "part-of-speech": "verb",
+        "pinyin": "kàn diànyǐng",
+        "tags": " chinese-in-steps-1 lesson-5 additional-vocabulary "
+    },
+    {
+        "chinese": "看小说",
+        "cid": 1579036615757,
+        "guid": "1iNPU/UGRg",
+        "meaning": "read novels",
+        "nid": 1579036615758,
+        "part-of-speech": "verb",
+        "pinyin": "kàn xiǎoshuō",
+        "tags": " chinese-in-steps-1 lesson-5 additional-vocabulary "
+    },
+    {
+        "chinese": "做作业",
+        "cid": 1579036615759,
+        "guid": "3+wXXkbrTu",
+        "meaning": "do homework",
+        "nid": 1579036615760,
+        "part-of-speech": "verb",
+        "pinyin": "zuò zuòyè",
+        "tags": " chinese-in-steps-1 lesson-5 additional-vocabulary "
+    },
+    {
+        "chinese": "做饭",
+        "cid": 1579036615761,
+        "guid": "tvuGmYUGQG",
+        "meaning": "cook (a meal)",
+        "nid": 1579036615762,
+        "part-of-speech": "verb",
+        "pinyin": "zuò fàn",
+        "tags": " chinese-in-steps-1 lesson-5 additional-vocabulary "
+    },
+    {
+        "chinese": "吃饭",
+        "cid": 1579036615763,
+        "guid": "9beNutV/Tl",
+        "meaning": "eat",
+        "nid": 1579036615764,
+        "part-of-speech": "verb",
+        "pinyin": "chīfàn",
+        "tags": " chinese-in-steps-1 lesson-5 additional-vocabulary "
+    },
+    {
+        "chinese": "酒",
+        "cid": 1579036615765,
+        "guid": "76du/uh/Re",
+        "meaning": "alcoholic drink",
+        "nid": 1579036615766,
+        "part-of-speech": "noun",
+        "pinyin": "jiǔ",
+        "tags": " chinese-in-steps-1 lesson-5 additional-vocabulary "
+    },
+    {
+        "chinese": "可乐",
+        "cid": 1579036615767,
+        "guid": "UUchhxGDQ4",
+        "meaning": "cola",
+        "nid": 1579036615768,
+        "part-of-speech": "noun",
+        "pinyin": "kělè",
+        "tags": " chinese-in-steps-1 lesson-5 additional-vocabulary "
+    },
+    {
+        "chinese": "果汁",
+        "cid": 1579036615769,
+        "guid": "K+lqr0Y2Tz",
+        "meaning": "fruit juice",
+        "nid": 1579036615770,
+        "part-of-speech": "noun",
+        "pinyin": "guǒzhī",
+        "tags": " chinese-in-steps-1 lesson-5 additional-vocabulary "
+    },
+    {
+        "chinese": "矿泉水",
+        "cid": 1579036615771,
+        "guid": "3cM4M9LCTI",
+        "meaning": "mineral water",
+        "nid": 1579036615772,
+        "part-of-speech": "noun",
+        "pinyin": "kuàngquán shuǐ",
+        "tags": " chinese-in-steps-1 lesson-5 additional-vocabulary "
+    }
+]
