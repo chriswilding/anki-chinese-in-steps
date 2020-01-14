@@ -1,0 +1,382 @@
+[
+    {
+        "chinese": "今天",
+        "cid": 1579034661846,
+        "guid": "yx+YciVrSd",
+        "meaning": "today",
+        "nid": 1579034661847,
+        "part-of-speech": "time word",
+        "pinyin": "jīntiān",
+        "tags": " chinese-in-steps-1 lesson-4 "
+    },
+    {
+        "chinese": "明天",
+        "cid": 1579034661848,
+        "guid": "NYW4DLVnRE",
+        "meaning": "tomorrow",
+        "nid": 1579034661849,
+        "part-of-speech": "time word",
+        "pinyin": "míngtiān",
+        "tags": " chinese-in-steps-1 lesson-4 "
+    },
+    {
+        "chinese": "后天",
+        "cid": 1579034661850,
+        "guid": "X8u1IjlfS1",
+        "meaning": "the day after tomorrow",
+        "nid": 1579034661851,
+        "part-of-speech": "time word",
+        "pinyin": "hòutiān",
+        "tags": " chinese-in-steps-1 lesson-4 "
+    },
+    {
+        "chinese": "今年",
+        "cid": 1579034661852,
+        "guid": "jidDrZdxTc",
+        "meaning": "this year",
+        "nid": 1579034661853,
+        "part-of-speech": "time word",
+        "pinyin": "jīnnián",
+        "tags": " chinese-in-steps-1 lesson-4 "
+    },
+    {
+        "chinese": "星期",
+        "cid": 1579034661854,
+        "guid": "FguxYqNlQX",
+        "meaning": "week",
+        "nid": 1579034661855,
+        "part-of-speech": "noun",
+        "pinyin": "xīngqī",
+        "tags": " chinese-in-steps-1 lesson-4 "
+    },
+    {
+        "chinese": "生日",
+        "cid": 1579034661856,
+        "guid": "KdhAnnXDSA",
+        "meaning": "birthday",
+        "nid": 1579034661857,
+        "part-of-speech": "time word",
+        "pinyin": "shēngrì",
+        "tags": " chinese-in-steps-1 lesson-4 "
+    },
+    {
+        "chinese": "号",
+        "cid": 1579034661858,
+        "guid": "SZ94QmWUS1",
+        "meaning": "hào",
+        "nid": 1579034661859,
+        "part-of-speech": "noun",
+        "pinyin": "date; number; size",
+        "tags": " chinese-in-steps-1 lesson-4 "
+    },
+    {
+        "chinese": "弟弟",
+        "cid": 1579034661860,
+        "guid": "vzNxZTK8Rd",
+        "meaning": "dìdi",
+        "nid": 1579034661861,
+        "part-of-speech": "noun",
+        "pinyin": "younger brother",
+        "tags": " chinese-in-steps-1 lesson-4 "
+    },
+    {
+        "chinese": "妹妹",
+        "cid": 1579034661862,
+        "guid": "ev0tWXwYTT",
+        "meaning": "mèimei",
+        "nid": 1579034661863,
+        "part-of-speech": "noun",
+        "pinyin": "younger sister",
+        "tags": " chinese-in-steps-1 lesson-4 "
+    },
+    {
+        "chinese": "岁",
+        "cid": 1579034661864,
+        "guid": "Biyq+PiIQv",
+        "meaning": "year (age); time",
+        "nid": 1579034661865,
+        "part-of-speech": "measure word/noun",
+        "pinyin": "suì",
+        "tags": " chinese-in-steps-1 lesson-4 "
+    },
+    {
+        "chinese": "快乐",
+        "cid": 1579034661866,
+        "guid": "yFM2boK0Q2",
+        "meaning": "happy",
+        "nid": 1579034661867,
+        "part-of-speech": "adjective",
+        "pinyin": "kuàilè",
+        "tags": " chinese-in-steps-1 lesson-4 "
+    },
+    {
+        "chinese": "大",
+        "cid": 1579034661868,
+        "guid": "78Tl2GMRQh",
+        "meaning": "big; old (age)",
+        "nid": 1579034661869,
+        "part-of-speech": "adjective",
+        "pinyin": "dà",
+        "tags": " chinese-in-steps-1 lesson-4 "
+    },
+    {
+        "chinese": "几",
+        "cid": 1579034661870,
+        "guid": "nmj+kcDcSj",
+        "meaning": "how many (used for less tan 10)",
+        "nid": 1579034661871,
+        "part-of-speech": "question word",
+        "pinyin": "jǐ",
+        "tags": " chinese-in-steps-1 lesson-4 "
+    },
+    {
+        "chinese": "多",
+        "cid": 1579034661872,
+        "guid": "AWFPzBkVT7",
+        "meaning": "how many/how much; many, much",
+        "nid": 1579034661873,
+        "part-of-speech": "question word/adjective",
+        "pinyin": "duō",
+        "tags": " chinese-in-steps-1 lesson-4 "
+    },
+    {
+        "chinese": "的",
+        "cid": 1579034661874,
+        "guid": "J8ss5rE+TJ",
+        "meaning": "an attributive and possessive particle",
+        "nid": 1579034661875,
+        "part-of-speech": "particle",
+        "pinyin": "de",
+        "tags": " chinese-in-steps-1 lesson-4 "
+    },
+    {
+        "chinese": "吧",
+        "cid": 1579034661876,
+        "guid": "etu5sqQxQa",
+        "meaning": "an interrogative or suggestive particle",
+        "nid": 1579034661877,
+        "part-of-speech": "particle",
+        "pinyin": "ba",
+        "tags": " chinese-in-steps-1 lesson-4 "
+    },
+    {
+        "chinese": "年纪",
+        "cid": 1579034661878,
+        "guid": "eQtNc9AURa",
+        "meaning": "niánjì",
+        "nid": 1579034661879,
+        "part-of-speech": "noun",
+        "pinyin": "age",
+        "tags": " chinese-in-steps-1 lesson-4 "
+    },
+    {
+        "chinese": "对不起",
+        "cid": 1579034661880,
+        "guid": "LMSN/jXASd",
+        "meaning": "duìbuqǐ",
+        "nid": 1579034661881,
+        "part-of-speech": "idiomatic expression",
+        "pinyin": "sorry, pardon, excuse me",
+        "tags": " chinese-in-steps-1 lesson-4 "
+    },
+    {
+        "chinese": "知道",
+        "cid": 1579034661882,
+        "guid": "5IlCnuiDSo",
+        "meaning": "know",
+        "nid": 1579034661883,
+        "part-of-speech": "verb",
+        "pinyin": "zhīdào",
+        "tags": " chinese-in-steps-1 lesson-4 "
+    },
+    {
+        "chinese": "星期一",
+        "cid": 1579034661884,
+        "guid": "1UWOm1FvR5",
+        "meaning": "Monday",
+        "nid": 1579034661885,
+        "part-of-speech": "time word",
+        "pinyin": "xīngqīyī",
+        "tags": " chinese-in-steps-1 lesson-4 additional-vocabulary "
+    },
+    {
+        "chinese": "星期二",
+        "cid": 1579034661886,
+        "guid": "7PCprWApTz",
+        "meaning": "Tuesday",
+        "nid": 1579034661887,
+        "part-of-speech": "time word",
+        "pinyin": "xīngqī'èr",
+        "tags": " chinese-in-steps-1 lesson-4 additional-vocabulary "
+    },
+    {
+        "chinese": "星期三",
+        "cid": 1579034661888,
+        "guid": "f+yz409XTR",
+        "meaning": "Wednesday",
+        "nid": 1579034661889,
+        "part-of-speech": "time word",
+        "pinyin": "xīngqīsān",
+        "tags": " chinese-in-steps-1 lesson-4 additional-vocabulary "
+    },
+    {
+        "chinese": "星期四",
+        "cid": 1579034661890,
+        "guid": "V4mOe0l7R1",
+        "meaning": "Thursday",
+        "nid": 1579034661891,
+        "part-of-speech": "time word",
+        "pinyin": "xīngqīsì",
+        "tags": " chinese-in-steps-1 lesson-4 additional-vocabulary "
+    },
+    {
+        "chinese": "星期五",
+        "cid": 1579034661892,
+        "guid": "OwgqlnPVR0",
+        "meaning": "Friday",
+        "nid": 1579034661893,
+        "part-of-speech": "time word",
+        "pinyin": "xīngqīwǔ",
+        "tags": " chinese-in-steps-1 lesson-4 additional-vocabulary "
+    },
+    {
+        "chinese": "星期六",
+        "cid": 1579034661894,
+        "guid": "vdgahnjwQh",
+        "meaning": "Saturday",
+        "nid": 1579034661895,
+        "part-of-speech": "time word",
+        "pinyin": "xīngqīliù",
+        "tags": " chinese-in-steps-1 lesson-4 additional-vocabulary "
+    },
+    {
+        "chinese": "星期日/星期天",
+        "cid": 1579034661896,
+        "guid": "rbaA4+2LSg",
+        "meaning": "Sunday",
+        "nid": 1579034661897,
+        "part-of-speech": "time word",
+        "pinyin": "xīngqīrì/xīngqītiān",
+        "tags": " chinese-in-steps-1 lesson-4 additional-vocabulary "
+    },
+    {
+        "chinese": "一月",
+        "cid": 1579034661898,
+        "guid": "8A8wbinHS2",
+        "meaning": "January",
+        "nid": 1579034661899,
+        "part-of-speech": "time word",
+        "pinyin": "yīqyuè",
+        "tags": " chinese-in-steps-1 lesson-4 additional-vocabulary "
+    },
+    {
+        "chinese": "二月",
+        "cid": 1579034661900,
+        "guid": "MtgdZNgDTs",
+        "meaning": "February",
+        "nid": 1579034661901,
+        "part-of-speech": "time word",
+        "pinyin": "èryuè",
+        "tags": " chinese-in-steps-1 lesson-4 additional-vocabulary "
+    },
+    {
+        "chinese": "三月",
+        "cid": 1579034661902,
+        "guid": "y+pvBHw4St",
+        "meaning": "March",
+        "nid": 1579034661903,
+        "part-of-speech": "time word",
+        "pinyin": "sānyuè",
+        "tags": " chinese-in-steps-1 lesson-4 additional-vocabulary "
+    },
+    {
+        "chinese": "四月",
+        "cid": 1579034661904,
+        "guid": "GMdSLIpZQ3",
+        "meaning": "April",
+        "nid": 1579034661905,
+        "part-of-speech": "time word",
+        "pinyin": "sìyuè",
+        "tags": " chinese-in-steps-1 lesson-4 additional-vocabulary "
+    },
+    {
+        "chinese": "五月",
+        "cid": 1579034661906,
+        "guid": "HQU0R2kySR",
+        "meaning": "May",
+        "nid": 1579034661907,
+        "part-of-speech": "time word",
+        "pinyin": "wǔyuè",
+        "tags": " chinese-in-steps-1 lesson-4 additional-vocabulary "
+    },
+    {
+        "chinese": "六月",
+        "cid": 1579034661908,
+        "guid": "w4yYVH9+RH",
+        "meaning": "June",
+        "nid": 1579034661909,
+        "part-of-speech": "time word",
+        "pinyin": "liùyuè",
+        "tags": " chinese-in-steps-1 lesson-4 additional-vocabulary "
+    },
+    {
+        "chinese": "七月",
+        "cid": 1579034661910,
+        "guid": "z7TZSvaUQ6",
+        "meaning": "July",
+        "nid": 1579034661911,
+        "part-of-speech": "time word",
+        "pinyin": "qīyuè",
+        "tags": " chinese-in-steps-1 lesson-4 additional-vocabulary "
+    },
+    {
+        "chinese": "八月",
+        "cid": 1579034661912,
+        "guid": "sfCABoJGS4",
+        "meaning": "August",
+        "nid": 1579034661913,
+        "part-of-speech": "time word",
+        "pinyin": "bāyuè",
+        "tags": " chinese-in-steps-1 lesson-4 additional-vocabulary "
+    },
+    {
+        "chinese": "九月",
+        "cid": 1579034661914,
+        "guid": "8gnY/DjuQh",
+        "meaning": "September",
+        "nid": 1579034661915,
+        "part-of-speech": "time word",
+        "pinyin": "jiǔyuè",
+        "tags": " chinese-in-steps-1 lesson-4 additional-vocabulary "
+    },
+    {
+        "chinese": "十月",
+        "cid": 1579034661916,
+        "guid": "GtiLc72KTv",
+        "meaning": "October",
+        "nid": 1579034661917,
+        "part-of-speech": "time word",
+        "pinyin": "shíyuè",
+        "tags": " chinese-in-steps-1 lesson-4 additional-vocabulary "
+    },
+    {
+        "chinese": "十一月",
+        "cid": 1579034661918,
+        "guid": "JoC9j6V7TJ",
+        "meaning": "November",
+        "nid": 1579034661919,
+        "part-of-speech": "time word",
+        "pinyin": "shíyīyuè",
+        "tags": " chinese-in-steps-1 lesson-4 additional-vocabulary "
+    },
+    {
+        "chinese": "十二月",
+        "cid": 1579034661920,
+        "guid": "oJ4cEz4qTu",
+        "meaning": "December",
+        "nid": 1579034661921,
+        "part-of-speech": "time word",
+        "pinyin": "shí'èryuè",
+        "tags": " chinese-in-steps-1 lesson-4 additional-vocabulary "
+    }
+]
