@@ -1,1 +1,212 @@
-[]
+[
+    {
+        "chinese": "会",
+        "meaning": "can, may;  meeting",
+        "part-of-speech": "modal verb/noun",
+        "pinyin": "huì",
+        "tags": " chinese-in-steps-1 lesson-6 "
+    },
+    {
+        "chinese": "想",
+        "meaning": "would like to, intend; think; miss",
+        "part-of-speech": "modal verb/verb",
+        "pinyin": "xiǎng",
+        "tags": " chinese-in-steps-1 lesson-6 "
+    },
+    {
+        "chinese": "要",
+        "meaning": "want",
+        "part-of-speech": "modal verb/verb",
+        "pinyin": "yào",
+        "tags": " chinese-in-steps-1 lesson-6 "
+    },
+    {
+        "chinese": "应该",
+        "meaning": "should",
+        "part-of-speech": "modal verb",
+        "pinyin": "yīnggāi",
+        "tags": " chinese-in-steps-1 lesson-6 "
+    },
+    {
+        "chinese": "喜欢",
+        "meaning": "like",
+        "part-of-speech": "verb",
+        "pinyin": "xǐhuan",
+        "tags": " chinese-in-steps-1 lesson-6 "
+    },
+    {
+        "chinese": "认识",
+        "meaning": "know",
+        "part-of-speech": "verb",
+        "pinyin": "rènshi",
+        "tags": " chinese-in-steps-1 lesson-6 "
+    },
+    {
+        "chinese": "说",
+        "meaning": "speak",
+        "part-of-speech": "verb",
+        "pinyin": "shuō",
+        "tags": " chinese-in-steps-1 lesson-6 "
+    },
+    {
+        "chinese": "打",
+        "meaning": "play (games); hit",
+        "part-of-speech": "verb",
+        "pinyin": "dǎ",
+        "tags": " chinese-in-steps-1 lesson-6 "
+    },
+    {
+        "chinese": "踢",
+        "meaning": "kick; play (football)",
+        "part-of-speech": "verb",
+        "pinyin": "tī",
+        "tags": " chinese-in-steps-1 lesson-6 "
+    },
+    {
+        "chinese": "汉语",
+        "meaning": "Chinese (language)",
+        "part-of-speech": "noun",
+        "pinyin": "Hànyǔ",
+        "tags": " chinese-in-steps-1 lesson-6 "
+    },
+    {
+        "chinese": "外语",
+        "meaning": "foreign language",
+        "part-of-speech": "noun",
+        "pinyin": "wàiyǔ",
+        "tags": " chinese-in-steps-1 lesson-6 "
+    },
+    {
+        "chinese": "日语",
+        "meaning": "Japanese (language)",
+        "part-of-speech": "noun",
+        "pinyin": "Rìyǔ",
+        "tags": " chinese-in-steps-1 lesson-6 "
+    },
+    {
+        "chinese": "法语",
+        "meaning": "French (language)",
+        "part-of-speech": "noun",
+        "pinyin": "Fǎyǔ",
+        "tags": " chinese-in-steps-1 lesson-6 "
+    },
+    {
+        "chinese": "足球",
+        "meaning": "football",
+        "part-of-speech": "noun",
+        "pinyin": "zúqiú",
+        "tags": " chinese-in-steps-1 lesson-6 "
+    },
+    {
+        "chinese": "网球",
+        "meaning": "tennis",
+        "part-of-speech": "noun",
+        "pinyin": "wǎngqiú",
+        "tags": " chinese-in-steps-1 lesson-6 "
+    },
+    {
+        "chinese": "一点儿",
+        "meaning": "a bit; a bit of",
+        "part-of-speech": "noun/adjective",
+        "pinyin": "yī diǎnr",
+        "tags": " chinese-in-steps-1 lesson-6 "
+    },
+    {
+        "chinese": "可是",
+        "meaning": "but",
+        "part-of-speech": "conjunction",
+        "pinyin": "kěshì",
+        "tags": " chinese-in-steps-1 lesson-6 "
+    },
+    {
+        "chinese": "为什么",
+        "meaning": "why",
+        "part-of-speech": "question word",
+        "pinyin": "wèishéme",
+        "tags": " chinese-in-steps-1 lesson-6 "
+    },
+    {
+        "chinese": "一起",
+        "meaning": "together",
+        "part-of-speech": "adjective",
+        "pinyin": "yīqǐ",
+        "tags": " chinese-in-steps-1 lesson-6 "
+    },
+    {
+        "chinese": "因为",
+        "meaning": "because",
+        "part-of-speech": "conjunction",
+        "pinyin": "yīnwèi",
+        "tags": " chinese-in-steps-1 lesson-6 "
+    },
+    {
+        "chinese": "打排球",
+        "meaning": "play volleyball",
+        "part-of-speech": "verb",
+        "pinyin": "dǎ páiqiú",
+        "tags": " chinese-in-steps-1 lesson-6 additional-vocabulary "
+    },
+    {
+        "chinese": "打乒乓球",
+        "meaning": "play table tennis",
+        "part-of-speech": "verb",
+        "pinyin": "dǎ pīngpāngqiú",
+        "tags": " chinese-in-steps-1 lesson-6 additional-vocabulary "
+    },
+    {
+        "chinese": "打羽毛球",
+        "meaning": "play badminton",
+        "part-of-speech": "verb",
+        "pinyin": "dǎ yǔmáoqiú",
+        "tags": " chinese-in-steps-1 lesson-6 additional-vocabulary "
+    },
+    {
+        "chinese": "打橄榄球",
+        "meaning": "play rugby",
+        "part-of-speech": "verb",
+        "pinyin": "dǎ gǎnlǎnqiú",
+        "tags": " chinese-in-steps-1 lesson-6 additional-vocabulary "
+    },
+    {
+        "chinese": "打篮球",
+        "meaning": "play basketball",
+        "part-of-speech": "verb",
+        "pinyin": "dǎ lánqiú",
+        "tags": " chinese-in-steps-1 lesson-6 additional-vocabulary "
+    },
+    {
+        "chinese": "滑冰",
+        "meaning": "skate",
+        "part-of-speech": "verb",
+        "pinyin": "huá bīng",
+        "tags": " chinese-in-steps-1 lesson-6 additional-vocabulary "
+    },
+    {
+        "chinese": "滑水",
+        "meaning": "surf",
+        "part-of-speech": "verb",
+        "pinyin": "huá shuǐ",
+        "tags": " chinese-in-steps-1 lesson-6 additional-vocabulary "
+    },
+    {
+        "chinese": "滑雪",
+        "meaning": "ski",
+        "part-of-speech": "verb",
+        "pinyin": "huá xuě",
+        "tags": " chinese-in-steps-1 lesson-6 additional-vocabulary "
+    },
+    {
+        "chinese": "跑步",
+        "meaning": "jog",
+        "part-of-speech": "verb",
+        "pinyin": "pǎo bù",
+        "tags": " chinese-in-steps-1 lesson-6 additional-vocabulary "
+    },
+    {
+        "chinese": "游泳",
+        "meaning": "swim",
+        "part-of-speech": "verb",
+        "pinyin": "yóu yǒng",
+        "tags": " chinese-in-steps-1 lesson-6 additional-vocabulary "
+    }
+]
