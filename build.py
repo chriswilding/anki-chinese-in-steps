@@ -5,10 +5,13 @@ import hashlib
 import itertools
 import json
 import os
+import re
 import sqlite3
 import time
 import uuid
 import zipfile
+
+EXTRA_DIGIT = re.compile('\d+$')
 
 DECK_ID = 1578170359311
 MODEL_ID = 1578170379751
@@ -115,10 +118,13 @@ def output(data):
     con.commit()
     con.close()
 
+def dirs_sort_key(dir):
+    return int(EXTRA_DIGIT.findall(dir)[0])
+
 def get_lesson_dirs():
     entries = os.listdir(os.path.join(os.getcwd(), 'lessons'))
     dirs = [os.path.join(os.getcwd(), 'lessons', entry) for entry in entries]
-    return [d for d in dirs if os.path.isdir(d)]
+    return sorted([d for d in dirs if os.path.isdir(d)], key=dirs_sort_key)
 
 dirs = get_lesson_dirs()
 
