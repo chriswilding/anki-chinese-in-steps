@@ -103,7 +103,7 @@
         "chinese": "炒饭",
         "cid": 1579117429644,
         "guid": "h0c3xk/rRW",
-        "meaning": "fried rice",
+        "meaning": "stir-fried rice",
         "nid": 1579117429645,
         "part-of-speech": "noun",
         "pinyin": "chǎofàn",
@@ -136,7 +136,7 @@
         "meaning": "famous",
         "nid": 1579117429651,
         "part-of-speech": "adjective",
-        "pinyin": "yūmei",
+        "pinyin": "yǒumíng",
         "tags": " chinese-in-steps-1 lesson-7 "
     },
     {
@@ -146,7 +146,7 @@
         "meaning": "delicious",
         "nid": 1579117429653,
         "part-of-speech": "adjective",
-        "pinyin": "hàochī",
+        "pinyin": "hǎochī",
         "tags": " chinese-in-steps-1 lesson-7 "
     },
     {
@@ -185,7 +185,7 @@
         "guid": "OGv6HPIqTO",
         "meaning": "bottle of; bottle",
         "nid": 1579117429661,
-        "part-of-speech": "measure word/noun",
+        "part-of-speech": "measure word",
         "pinyin": "píng",
         "tags": " chinese-in-steps-1 lesson-7 "
     },
@@ -246,7 +246,7 @@
         "meaning": "red wine",
         "nid": 1579117429673,
         "part-of-speech": "noun",
-        "pinyin": "hóng pútáojiǔ",
+        "pinyin": "hóng pútaojiǔ",
         "tags": " chinese-in-steps-1 lesson-7 additional-vocabulary "
     },
     {
@@ -256,7 +256,7 @@
         "meaning": "white wine",
         "nid": 1579117429675,
         "part-of-speech": "noun",
-        "pinyin": "bái pútáojiǔ",
+        "pinyin": "bái pútaojiǔ",
         "tags": " chinese-in-steps-1 lesson-7 additional-vocabulary "
     },
     {

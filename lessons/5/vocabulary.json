@@ -106,7 +106,7 @@
         "meaning": "English (language)",
         "nid": 1579036615722,
         "part-of-speech": "noun",
-        "pinyin": "yīngwén",
+        "pinyin": "Yīngwén",
         "tags": " chinese-in-steps-1 lesson-5 "
     },
     {
@@ -116,7 +116,7 @@
         "meaning": "Chinese (language)",
         "nid": 1579036615724,
         "part-of-speech": "noun",
-        "pinyin": "zhōngwén",
+        "pinyin": "Zhōngwén",
         "tags": " chinese-in-steps-1 lesson-5 "
     },
     {
@@ -180,13 +180,13 @@
         "tags": " chinese-in-steps-1 lesson-5 "
     },
     {
-        "chinese": "hé",
+        "chinese": "和",
         "cid": 1579036615737,
         "guid": "RvPHeQVTQd",
         "meaning": "and",
         "nid": 1579036615738,
         "part-of-speech": "conjunction",
-        "pinyin": "和",
+        "pinyin": "hé",
         "tags": " chinese-in-steps-1 lesson-5 "
     },
     {
@@ -356,7 +356,7 @@
         "meaning": "mineral water",
         "nid": 1579036615772,
         "part-of-speech": "noun",
-        "pinyin": "kuàngquán shuǐ",
+        "pinyin": "kuàngquánshuǐ",
         "tags": " chinese-in-steps-1 lesson-5 additional-vocabulary "
     }
 ]

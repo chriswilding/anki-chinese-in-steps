@@ -328,5 +328,15 @@
         "part-of-speech": "noun",
         "pinyin": "lǜshī",
         "tags": " chinese-in-steps-1 lesson-3 additional-vocabulary lesson-7 "
+    },
+    {
+        "chinese": "会计",
+        "cid": 1579122805282,
+        "guid": "C+8EX4vcQ2",
+        "meaning": "accountant",
+        "nid": 1579122805283,
+        "part-of-speech": "noun",
+        "pinyin": "kuàiji",
+        "tags": " chinese-in-steps-1 lesson-3 additional-vocabulary "
     }
 ]

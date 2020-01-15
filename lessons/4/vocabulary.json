@@ -55,7 +55,7 @@
         "guid": "KdhAnnXDSA",
         "meaning": "birthday",
         "nid": 1579034661857,
-        "part-of-speech": "time word",
+        "part-of-speech": "noun",
         "pinyin": "shēngrì",
         "tags": " chinese-in-steps-1 lesson-4 "
     },
@@ -63,30 +63,30 @@
         "chinese": "号",
         "cid": 1579034661858,
         "guid": "SZ94QmWUS1",
-        "meaning": "hào",
+        "meaning": "date; number; size",
         "nid": 1579034661859,
         "part-of-speech": "noun",
-        "pinyin": "date; number; size",
+        "pinyin": "hào",
         "tags": " chinese-in-steps-1 lesson-4 "
     },
     {
         "chinese": "弟弟",
         "cid": 1579034661860,
         "guid": "vzNxZTK8Rd",
-        "meaning": "dìdi",
+        "meaning": "younger brother",
         "nid": 1579034661861,
         "part-of-speech": "noun",
-        "pinyin": "younger brother",
+        "pinyin": "dìdi",
         "tags": " chinese-in-steps-1 lesson-4 "
     },
     {
         "chinese": "妹妹",
         "cid": 1579034661862,
         "guid": "ev0tWXwYTT",
-        "meaning": "mèimei",
+        "meaning": "younger sister",
         "nid": 1579034661863,
         "part-of-speech": "noun",
-        "pinyin": "younger sister",
+        "pinyin": "mèimei",
         "tags": " chinese-in-steps-1 lesson-4 "
     },
     {
@@ -163,20 +163,20 @@
         "chinese": "年纪",
         "cid": 1579034661878,
         "guid": "eQtNc9AURa",
-        "meaning": "niánjì",
+        "meaning": "age",
         "nid": 1579034661879,
         "part-of-speech": "noun",
-        "pinyin": "age",
+        "pinyin": "niánjì",
         "tags": " chinese-in-steps-1 lesson-4 "
     },
     {
         "chinese": "对不起",
         "cid": 1579034661880,
         "guid": "LMSN/jXASd",
-        "meaning": "duìbuqǐ",
+        "meaning": "sorry, pardon, excuse me",
         "nid": 1579034661881,
         "part-of-speech": "idiomatic expression",
-        "pinyin": "sorry, pardon, excuse me",
+        "pinyin": "duìbuqǐ",
         "tags": " chinese-in-steps-1 lesson-4 "
     },
     {
