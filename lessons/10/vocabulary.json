@@ -1,1 +1,362 @@
-[]
+[
+    {
+        "chinese": "去",
+        "cid": 1579117429756,
+        "guid": "4otYtm9eQQ",
+        "meaning": "go (to)",
+        "nid": 1579117429757,
+        "part-of-speech": "verb",
+        "pinyin": "qù",
+        "tags": " chinese-in-steps-1 lesson-10 "
+    },
+    {
+        "chinese": "来",
+        "cid": 1579117429758,
+        "guid": "t+BqKE9rRR",
+        "meaning": "come (the opposite direction of 去)",
+        "nid": 1579117429759,
+        "part-of-speech": "verb",
+        "pinyin": "lái",
+        "tags": " chinese-in-steps-1 lesson-10 "
+    },
+    {
+        "chinese": "还书",
+        "cid": 1579117429760,
+        "guid": "821vF+kSTX",
+        "meaning": "return books",
+        "nid": 1579117429761,
+        "part-of-speech": "verb-object",
+        "pinyin": "huánshū",
+        "tags": " chinese-in-steps-1 lesson-10 "
+    },
+    {
+        "chinese": "骑",
+        "cid": 1579117429762,
+        "guid": "n79SqX6dQa",
+        "meaning": "ride (a bicycle,, horse etc.)",
+        "nid": 1579117429763,
+        "part-of-speech": "verb",
+        "pinyin": "qí",
+        "tags": " chinese-in-steps-1 lesson-10 "
+    },
+    {
+        "chinese": "坐",
+        "cid": 1579117429764,
+        "guid": "THtUY0HMS4",
+        "meaning": "set; take (bus etc.)",
+        "nid": 1579117429765,
+        "part-of-speech": "verb",
+        "pinyin": "zuò",
+        "tags": " chinese-in-steps-1 lesson-10 "
+    },
+    {
+        "chinese": "回家",
+        "cid": 1579117429766,
+        "guid": "GfzsdD9mRL",
+        "meaning": "go back home",
+        "nid": 1579117429767,
+        "part-of-speech": "verb-object",
+        "pinyin": "huí jiā",
+        "tags": " chinese-in-steps-1 lesson-10 "
+    },
+    {
+        "chinese": "开车",
+        "cid": 1579117429768,
+        "guid": "LpICKUy/SX",
+        "meaning": "drive",
+        "nid": 1579117429769,
+        "part-of-speech": "verb-object",
+        "pinyin": "kāi chē",
+        "tags": " chinese-in-steps-1 lesson-10 "
+    },
+    {
+        "chinese": "打的",
+        "cid": 1579117429770,
+        "guid": "xTkzOhW4Tp",
+        "meaning": "take a taxi",
+        "nid": 1579117429771,
+        "part-of-speech": "verb-object",
+        "pinyin": "dǎ di",
+        "tags": " chinese-in-steps-1 lesson-10 "
+    },
+    {
+        "chinese": "走路",
+        "cid": 1579117429772,
+        "guid": "ulO2cX60R4",
+        "meaning": "walk",
+        "nid": 1579117429773,
+        "part-of-speech": "verb-object",
+        "pinyin": "zǒu lù",
+        "tags": " chinese-in-steps-1 lesson-10 "
+    },
+    {
+        "chinese": "上班",
+        "cid": 1579117429774,
+        "guid": "kRpbxJ4XRI",
+        "meaning": "go to work",
+        "nid": 1579117429775,
+        "part-of-speech": "verb-object",
+        "pinyin": "shàng bān",
+        "tags": " chinese-in-steps-1 lesson-10 "
+    },
+    {
+        "chinese": "自行车",
+        "cid": 1579117429776,
+        "guid": "KFeJWDb0Rg",
+        "meaning": "bicycle",
+        "nid": 1579117429777,
+        "part-of-speech": "noun",
+        "pinyin": "zìxíngchē",
+        "tags": " chinese-in-steps-1 lesson-10 "
+    },
+    {
+        "chinese": "火车",
+        "cid": 1579117429778,
+        "guid": "QrkxFPvnTr",
+        "meaning": "train",
+        "nid": 1579117429779,
+        "part-of-speech": "noun",
+        "pinyin": "huǒchē",
+        "tags": " chinese-in-steps-1 lesson-10 "
+    },
+    {
+        "chinese": "快",
+        "cid": 1579117429780,
+        "guid": "ILP3ehqhQn",
+        "meaning": "fast",
+        "nid": 1579117429781,
+        "part-of-speech": "adjective/adverb",
+        "pinyin": "kuài",
+        "tags": " chinese-in-steps-1 lesson-10 "
+    },
+    {
+        "chinese": "公共",
+        "cid": 1579117429782,
+        "guid": "w7b6JDeSS2",
+        "meaning": "public",
+        "nid": 1579117429783,
+        "part-of-speech": "adjective",
+        "pinyin": "gōnggòng",
+        "tags": " chinese-in-steps-1 lesson-10 "
+    },
+    {
+        "chinese": "汽车",
+        "cid": 1579117429784,
+        "guid": "NM3e27cJQU",
+        "meaning": "automobile, car",
+        "nid": 1579117429785,
+        "part-of-speech": "noun",
+        "pinyin": "qìchē",
+        "tags": " chinese-in-steps-1 lesson-10 "
+    },
+    {
+        "chinese": "公共汽车",
+        "cid": 1579117429786,
+        "guid": "Zb8uCg60QJ",
+        "meaning": "bus",
+        "nid": 1579117429787,
+        "part-of-speech": "noun",
+        "pinyin": "gōnggòng qìchē",
+        "tags": " chinese-in-steps-1 lesson-10 "
+    },
+    {
+        "chinese": "图书馆",
+        "cid": 1579117429788,
+        "guid": "o+KVHyvuSI",
+        "meaning": "library",
+        "nid": 1579117429789,
+        "part-of-speech": "noun",
+        "pinyin": "túshūguǎn",
+        "tags": " chinese-in-steps-1 lesson-10 "
+    },
+    {
+        "chinese": "东方",
+        "cid": 1579117429790,
+        "guid": "d9ATqJNkTQ",
+        "meaning": "the East; the Orient",
+        "nid": 1579117429791,
+        "part-of-speech": "noun",
+        "pinyin": "dōngfāng",
+        "tags": " chinese-in-steps-1 lesson-10 "
+    },
+    {
+        "chinese": "地铁",
+        "cid": 1579117429792,
+        "guid": "uNiRyH8kTB",
+        "meaning": "underground train",
+        "nid": 1579117429793,
+        "part-of-speech": "noun",
+        "pinyin": "dìtiě",
+        "tags": " chinese-in-steps-1 lesson-10 "
+    },
+    {
+        "chinese": "商店",
+        "cid": 1579117429794,
+        "guid": "Kv/PNHi2Rm",
+        "meaning": "shop",
+        "nid": 1579117429795,
+        "part-of-speech": "noun",
+        "pinyin": "shāngdiàn",
+        "tags": " chinese-in-steps-1 lesson-10 "
+    },
+    {
+        "chinese": "学院",
+        "cid": 1579117429796,
+        "guid": "Zf+Pfn4NQi",
+        "meaning": "college",
+        "nid": 1579117429797,
+        "part-of-speech": "noun",
+        "pinyin": "xuéyuàn",
+        "tags": " chinese-in-steps-1 lesson-10 "
+    },
+    {
+        "chinese": "商学院",
+        "cid": 1579117429798,
+        "guid": "dl/9TA3vRK",
+        "meaning": "business school/college",
+        "nid": 1579117429799,
+        "part-of-speech": "noun",
+        "pinyin": "shāngxuéyuàn",
+        "tags": " chinese-in-steps-1 lesson-10 "
+    },
+    {
+        "chinese": "哪儿",
+        "cid": 1579117429800,
+        "guid": "L/12vS1eSt",
+        "meaning": "where",
+        "nid": 1579117429801,
+        "part-of-speech": "question word",
+        "pinyin": "nǎr",
+        "tags": " chinese-in-steps-1 lesson-10 "
+    },
+    {
+        "chinese": "怎么",
+        "cid": 1579117429802,
+        "guid": "4JY9IrcSRn",
+        "meaning": "how; why",
+        "nid": 1579117429803,
+        "part-of-speech": "question word",
+        "pinyin": "zěnme",
+        "tags": " chinese-in-steps-1 lesson-10 "
+    },
+    {
+        "chinese": "坐车",
+        "cid": 1579117429804,
+        "guid": "meUzSrd6QM",
+        "meaning": "by vehicle",
+        "nid": 1579117429805,
+        "part-of-speech": "verb-object",
+        "pinyin": "zuò chē",
+        "tags": " chinese-in-steps-1 lesson-10 additional-vocabulary "
+    },
+    {
+        "chinese": "坐出租车",
+        "cid": 1579117429806,
+        "guid": "rz0nWyC6SC",
+        "meaning": "by taxi",
+        "nid": 1579117429807,
+        "part-of-speech": "verb-object",
+        "pinyin": "zuò chūzūchē",
+        "tags": " chinese-in-steps-1 lesson-10 additional-vocabulary "
+    },
+    {
+        "chinese": "坐飞机",
+        "cid": 1579117429808,
+        "guid": "3butjF67Q6",
+        "meaning": "by plane",
+        "nid": 1579117429809,
+        "part-of-speech": "verb-object",
+        "pinyin": "zuò fēijī",
+        "tags": " chinese-in-steps-1 lesson-10 additional-vocabulary "
+    },
+    {
+        "chinese": "坐船",
+        "cid": 1579117429810,
+        "guid": "ABbyMmJKQh",
+        "meaning": "by boat/ship",
+        "nid": 1579117429811,
+        "part-of-speech": "verb-object",
+        "pinyin": "zuò chuán",
+        "tags": " chinese-in-steps-1 lesson-10 additional-vocabulary "
+    },
+    {
+        "chinese": "上午",
+        "cid": 1579117429812,
+        "guid": "xv0TNQCXTr",
+        "meaning": "morning",
+        "nid": 1579117429813,
+        "part-of-speech": "time word",
+        "pinyin": "shàngwǔ",
+        "tags": " chinese-in-steps-1 lesson-10 additional-vocabulary "
+    },
+    {
+        "chinese": "中午",
+        "cid": 1579117429814,
+        "guid": "B5fErTmxSn",
+        "meaning": "noon",
+        "nid": 1579117429815,
+        "part-of-speech": "time word",
+        "pinyin": "zhōngwǔ",
+        "tags": " chinese-in-steps-1 lesson-10 additional-vocabulary "
+    },
+    {
+        "chinese": "下午",
+        "cid": 1579117429816,
+        "guid": "hdbwH4zJTu",
+        "meaning": "afternoon",
+        "nid": 1579117429817,
+        "part-of-speech": "time word",
+        "pinyin": "xiàwǔ",
+        "tags": " chinese-in-steps-1 lesson-10 additional-vocabulary "
+    },
+    {
+        "chinese": "开会",
+        "cid": 1579117429818,
+        "guid": "acd1FzsPTH",
+        "meaning": "have/attend a meeting",
+        "nid": 1579117429819,
+        "part-of-speech": "verb-object",
+        "pinyin": "kāi huì",
+        "tags": " chinese-in-steps-1 lesson-10 additional-vocabulary "
+    },
+    {
+        "chinese": "借书",
+        "cid": 1579117429820,
+        "guid": "q74XmIh+To",
+        "meaning": "borrow books",
+        "nid": 1579117429821,
+        "part-of-speech": "verb-object",
+        "pinyin": "jiè shū",
+        "tags": " chinese-in-steps-1 lesson-10 additional-vocabulary "
+    },
+    {
+        "chinese": "买东西",
+        "cid": 1579117429822,
+        "guid": "ycykQVkqSG",
+        "meaning": "shopping",
+        "nid": 1579117429823,
+        "part-of-speech": "verb-object",
+        "pinyin": "mǎi dōngxī",
+        "tags": " chinese-in-steps-1 lesson-10 additional-vocabulary "
+    },
+    {
+        "chinese": "出差",
+        "cid": 1579117429824,
+        "guid": "oVKnHJ/0QD",
+        "meaning": "go on a business trip",
+        "nid": 1579117429825,
+        "part-of-speech": "verb-object",
+        "pinyin": "chū chāi",
+        "tags": " chinese-in-steps-1 lesson-10 additional-vocabulary "
+    },
+    {
+        "chinese": "度假",
+        "cid": 1579117429826,
+        "guid": "ISjeGcddSp",
+        "meaning": "go on a holiday",
+        "nid": 1579117429827,
+        "part-of-speech": "verb-object",
+        "pinyin": "dù jiā",
+        "tags": " chinese-in-steps-1 lesson-10 additional-vocabulary "
+    }
+]

@@ -1,1 +1,322 @@
-[]
+[
+    {
+        "chinese": "累",
+        "cid": 1579117429828,
+        "guid": "olCcSlZbT1",
+        "meaning": "tired",
+        "nid": 1579117429829,
+        "part-of-speech": "adjective",
+        "pinyin": "lèi",
+        "tags": " chinese-in-steps-1 lesson-8 "
+    },
+    {
+        "chinese": "忙",
+        "cid": 1579117429830,
+        "guid": "NhSBe5bvQV",
+        "meaning": "busy",
+        "nid": 1579117429831,
+        "part-of-speech": "adjective",
+        "pinyin": "máng",
+        "tags": " chinese-in-steps-1 lesson-8 "
+    },
+    {
+        "chinese": "渴",
+        "cid": 1579117429832,
+        "guid": "nrpQqIPjQU",
+        "meaning": "thirsty",
+        "nid": 1579117429833,
+        "part-of-speech": "adjective",
+        "pinyin": "kě",
+        "tags": " chinese-in-steps-1 lesson-8 "
+    },
+    {
+        "chinese": "饿",
+        "cid": 1579117429834,
+        "guid": "cguLxZRsSa",
+        "meaning": "hungry",
+        "nid": 1579117429835,
+        "part-of-speech": "adjective",
+        "pinyin": "è",
+        "tags": " chinese-in-steps-1 lesson-8 "
+    },
+    {
+        "chinese": "爸爸",
+        "cid": 1579117429836,
+        "guid": "kR9F/TynQe",
+        "meaning": "dad",
+        "nid": 1579117429837,
+        "part-of-speech": "noun",
+        "pinyin": "bàba",
+        "tags": " chinese-in-steps-1 lesson-8 "
+    },
+    {
+        "chinese": "妈妈",
+        "cid": 1579117429838,
+        "guid": "oYHn4xtLQe",
+        "meaning": "mum",
+        "nid": 1579117429839,
+        "part-of-speech": "noun",
+        "pinyin": "māma",
+        "tags": " chinese-in-steps-1 lesson-8 "
+    },
+    {
+        "chinese": "家",
+        "cid": 1579117429840,
+        "guid": "evLBtQl2Qf",
+        "meaning": "home; family; house; specialist in field",
+        "nid": 1579117429841,
+        "part-of-speech": "noun/measure word",
+        "pinyin": "jiā",
+        "tags": " chinese-in-steps-1 lesson-8 "
+    },
+    {
+        "chinese": "男朋友",
+        "cid": 1579117429842,
+        "guid": "ikYCtS0eQH",
+        "meaning": "boyfriend",
+        "nid": 1579117429843,
+        "part-of-speech": "noun",
+        "pinyin": "nán péngyǒu",
+        "tags": " chinese-in-steps-1 lesson-8 "
+    },
+    {
+        "chinese": "女朋友",
+        "cid": 1579117429844,
+        "guid": "4OdLdYTSTD",
+        "meaning": "girlfriend",
+        "nid": 1579117429845,
+        "part-of-speech": "noun",
+        "pinyin": "nǚ péngyǒu",
+        "tags": " chinese-in-steps-1 lesson-8 "
+    },
+    {
+        "chinese": "哥哥",
+        "cid": 1579117429846,
+        "guid": "Q2NG96MZQS",
+        "meaning": "elder brother",
+        "nid": 1579117429847,
+        "part-of-speech": "noun",
+        "pinyin": "gēge",
+        "tags": " chinese-in-steps-1 lesson-8 "
+    },
+    {
+        "chinese": "作家",
+        "cid": 1579117429848,
+        "guid": "eJJ6A9AASG",
+        "meaning": "writer",
+        "nid": 1579117429849,
+        "part-of-speech": "noun",
+        "pinyin": "zuòjiā",
+        "tags": " chinese-in-steps-1 lesson-8 "
+    },
+    {
+        "chinese": "工作",
+        "cid": 1579117429850,
+        "guid": "Lzxx/niuQT",
+        "meaning": "work",
+        "nid": 1579117429851,
+        "part-of-speech": "noun",
+        "pinyin": "gōngzuò",
+        "tags": " chinese-in-steps-1 lesson-8 "
+    },
+    {
+        "chinese": "商人",
+        "cid": 1579117429852,
+        "guid": "bhn5309oRN",
+        "meaning": "businessman",
+        "nid": 1579117429853,
+        "part-of-speech": "noun",
+        "pinyin": "shāngrén",
+        "tags": " chinese-in-steps-1 lesson-8 "
+    },
+    {
+        "chinese": "可爱",
+        "cid": 1579117429854,
+        "guid": "nX1WdqA8Rp",
+        "meaning": "lovely",
+        "nid": 1579117429855,
+        "part-of-speech": "adjective",
+        "pinyin": "kě'ài",
+        "tags": " chinese-in-steps-1 lesson-8 "
+    },
+    {
+        "chinese": "狗",
+        "cid": 1579117429856,
+        "guid": "onc8CBZ9TS",
+        "meaning": "dog",
+        "nid": 1579117429857,
+        "part-of-speech": "noun",
+        "pinyin": "gǒu",
+        "tags": " chinese-in-steps-1 lesson-8 "
+    },
+    {
+        "chinese": "猫",
+        "cid": 1579117429858,
+        "guid": "gWvp8wvyTP",
+        "meaning": "cat",
+        "nid": 1579117429859,
+        "part-of-speech": "noun",
+        "pinyin": "māo",
+        "tags": " chinese-in-steps-1 lesson-8 "
+    },
+    {
+        "chinese": "条",
+        "cid": 1579117429860,
+        "guid": "02YTcYY6Sj",
+        "meaning": "for various long narrow things",
+        "nid": 1579117429861,
+        "part-of-speech": "measure word",
+        "pinyin": "tiáo",
+        "tags": " chinese-in-steps-1 lesson-8 "
+    },
+    {
+        "chinese": "口",
+        "cid": 1579117429862,
+        "guid": "OAKLqFNMRO",
+        "meaning": "for family members; mouth",
+        "nid": 1579117429863,
+        "part-of-speech": "measure word/noun",
+        "pinyin": "kǒu",
+        "tags": " chinese-in-steps-1 lesson-8 "
+    },
+    {
+        "chinese": "有点儿",
+        "cid": 1579117429864,
+        "guid": "gsbdysj5RG",
+        "meaning": "somewhat; a bit",
+        "nid": 1579117429865,
+        "part-of-speech": "adverb",
+        "pinyin": "yǒudiǎnr",
+        "tags": " chinese-in-steps-1 lesson-8 "
+    },
+    {
+        "chinese": "两",
+        "cid": 1579117429866,
+        "guid": "ZpLaqGROSG",
+        "meaning": "two (used in front of a measure word)",
+        "nid": 1579117429867,
+        "part-of-speech": "number",
+        "pinyin": "liǎng",
+        "tags": " chinese-in-steps-1 lesson-8 "
+    },
+    {
+        "chinese": "外交官",
+        "cid": 1579117429868,
+        "guid": "7YgtQHreQO",
+        "meaning": "diplomat",
+        "nid": 1579117429869,
+        "part-of-speech": "noun",
+        "pinyin": "wàijiāoguān",
+        "tags": " chinese-in-steps-1 lesson-8 additional-vocabulary "
+    },
+    {
+        "chinese": "秘书",
+        "cid": 1579117429870,
+        "guid": "XVqJuNaHT3",
+        "meaning": "secretary",
+        "nid": 1579117429871,
+        "part-of-speech": "noun",
+        "pinyin": "mìshū",
+        "tags": " chinese-in-steps-1 lesson-8 additional-vocabulary "
+    },
+    {
+        "chinese": "职员",
+        "cid": 1579117429872,
+        "guid": "wwqAxtsoRb",
+        "meaning": "office worker",
+        "nid": 1579117429873,
+        "part-of-speech": "noun",
+        "pinyin": "zhíyuán",
+        "tags": " chinese-in-steps-1 lesson-8 additional-vocabulary "
+    },
+    {
+        "chinese": "护士",
+        "cid": 1579117429874,
+        "guid": "XH0gtLkeS4",
+        "meaning": "nurse",
+        "nid": 1579117429875,
+        "part-of-speech": "noun",
+        "pinyin": "hùshi",
+        "tags": " chinese-in-steps-1 lesson-8 additional-vocabulary "
+    },
+    {
+        "chinese": "警察",
+        "cid": 1579117429876,
+        "guid": "BiK5pVaDTO",
+        "meaning": "police",
+        "nid": 1579117429877,
+        "part-of-speech": "noun",
+        "pinyin": "jǐngchá",
+        "tags": " chinese-in-steps-1 lesson-8 additional-vocabulary "
+    },
+    {
+        "chinese": "司机",
+        "cid": 1579117429878,
+        "guid": "sq5fGiidQx",
+        "meaning": "driver",
+        "nid": 1579117429879,
+        "part-of-speech": "noun",
+        "pinyin": "sījī",
+        "tags": " chinese-in-steps-1 lesson-8 additional-vocabulary "
+    },
+    {
+        "chinese": "便宜",
+        "cid": 1579117429880,
+        "guid": "atL+WmOISh",
+        "meaning": "cheap",
+        "nid": 1579117429881,
+        "part-of-speech": "adjective",
+        "pinyin": "piányí",
+        "tags": " chinese-in-steps-1 lesson-8 additional-vocabulary "
+    },
+    {
+        "chinese": "高兴",
+        "cid": 1579117429882,
+        "guid": "vnW9y9NPSm",
+        "meaning": "glad",
+        "nid": 1579117429883,
+        "part-of-speech": "adjective",
+        "pinyin": "gāoxìng",
+        "tags": " chinese-in-steps-1 lesson-8 additional-vocabulary "
+    },
+    {
+        "chinese": "舒服",
+        "cid": 1579117429884,
+        "guid": "Nj4RTAJlSp",
+        "meaning": "comfortable",
+        "nid": 1579117429885,
+        "part-of-speech": "adjective",
+        "pinyin": "shūfu",
+        "tags": " chinese-in-steps-1 lesson-8 additional-vocabulary "
+    },
+    {
+        "chinese": "漂亮",
+        "cid": 1579117429886,
+        "guid": "u7+IdD9PTP",
+        "meaning": "beautiful",
+        "nid": 1579117429887,
+        "part-of-speech": "adjective",
+        "pinyin": "piàoliang",
+        "tags": " chinese-in-steps-1 lesson-8 additional-vocabulary "
+    },
+    {
+        "chinese": "难看",
+        "cid": 1579117429888,
+        "guid": "Kmh49VsySJ",
+        "meaning": "ugly, bad looking",
+        "nid": 1579117429889,
+        "part-of-speech": "adjective",
+        "pinyin": "nánkàn",
+        "tags": " chinese-in-steps-1 lesson-8 additional-vocabulary "
+    },
+    {
+        "chinese": "难吃",
+        "cid": 1579117429890,
+        "guid": "/FZ5Lf/PTM",
+        "meaning": "taste bad (food)",
+        "nid": 1579117429891,
+        "part-of-speech": "adjective",
+        "pinyin": "nánchī",
+        "tags": " chinese-in-steps-1 lesson-8 additional-vocabulary "
+    }
+]

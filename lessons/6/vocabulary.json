@@ -1,210 +1,300 @@
 [
     {
         "chinese": "会",
+        "cid": 1579117429696,
+        "guid": "/o48zt0nTl",
         "meaning": "can, may;  meeting",
+        "nid": 1579117429697,
         "part-of-speech": "modal verb/noun",
         "pinyin": "huì",
         "tags": " chinese-in-steps-1 lesson-6 "
     },
     {
         "chinese": "想",
+        "cid": 1579117429698,
+        "guid": "soZqOpSySq",
         "meaning": "would like to, intend; think; miss",
+        "nid": 1579117429699,
         "part-of-speech": "modal verb/verb",
         "pinyin": "xiǎng",
         "tags": " chinese-in-steps-1 lesson-6 "
     },
     {
         "chinese": "要",
+        "cid": 1579117429700,
+        "guid": "rBJXRTYqSb",
         "meaning": "want",
+        "nid": 1579117429701,
         "part-of-speech": "modal verb/verb",
         "pinyin": "yào",
         "tags": " chinese-in-steps-1 lesson-6 "
     },
     {
         "chinese": "应该",
+        "cid": 1579117429702,
+        "guid": "06gfO2DzQY",
         "meaning": "should",
+        "nid": 1579117429703,
         "part-of-speech": "modal verb",
         "pinyin": "yīnggāi",
         "tags": " chinese-in-steps-1 lesson-6 "
     },
     {
         "chinese": "喜欢",
+        "cid": 1579117429704,
+        "guid": "qKt3pVkTTu",
         "meaning": "like",
+        "nid": 1579117429705,
         "part-of-speech": "verb",
         "pinyin": "xǐhuan",
         "tags": " chinese-in-steps-1 lesson-6 "
     },
     {
         "chinese": "认识",
+        "cid": 1579117429706,
+        "guid": "Q3hI1w2pQC",
         "meaning": "know",
+        "nid": 1579117429707,
         "part-of-speech": "verb",
         "pinyin": "rènshi",
         "tags": " chinese-in-steps-1 lesson-6 "
     },
     {
         "chinese": "说",
+        "cid": 1579117429708,
+        "guid": "4p56ES4LQq",
         "meaning": "speak",
+        "nid": 1579117429709,
         "part-of-speech": "verb",
         "pinyin": "shuō",
         "tags": " chinese-in-steps-1 lesson-6 "
     },
     {
         "chinese": "打",
+        "cid": 1579117429710,
+        "guid": "hbGactepTZ",
         "meaning": "play (games); hit",
+        "nid": 1579117429711,
         "part-of-speech": "verb",
         "pinyin": "dǎ",
         "tags": " chinese-in-steps-1 lesson-6 "
     },
     {
         "chinese": "踢",
+        "cid": 1579117429712,
+        "guid": "moZxDMZ4QM",
         "meaning": "kick; play (football)",
+        "nid": 1579117429713,
         "part-of-speech": "verb",
         "pinyin": "tī",
         "tags": " chinese-in-steps-1 lesson-6 "
     },
     {
         "chinese": "汉语",
+        "cid": 1579117429714,
+        "guid": "JqO3GsxFSa",
         "meaning": "Chinese (language)",
+        "nid": 1579117429715,
         "part-of-speech": "noun",
         "pinyin": "Hànyǔ",
         "tags": " chinese-in-steps-1 lesson-6 "
     },
     {
         "chinese": "外语",
+        "cid": 1579117429716,
+        "guid": "7JUqML3yT4",
         "meaning": "foreign language",
+        "nid": 1579117429717,
         "part-of-speech": "noun",
         "pinyin": "wàiyǔ",
         "tags": " chinese-in-steps-1 lesson-6 "
     },
     {
         "chinese": "日语",
+        "cid": 1579117429718,
+        "guid": "8QVF2s4TS3",
         "meaning": "Japanese (language)",
+        "nid": 1579117429719,
         "part-of-speech": "noun",
         "pinyin": "Rìyǔ",
         "tags": " chinese-in-steps-1 lesson-6 "
     },
     {
         "chinese": "法语",
+        "cid": 1579117429720,
+        "guid": "r06dltBzSy",
         "meaning": "French (language)",
+        "nid": 1579117429721,
         "part-of-speech": "noun",
         "pinyin": "Fǎyǔ",
         "tags": " chinese-in-steps-1 lesson-6 "
     },
     {
         "chinese": "足球",
+        "cid": 1579117429722,
+        "guid": "vSRlMEIlRp",
         "meaning": "football",
+        "nid": 1579117429723,
         "part-of-speech": "noun",
         "pinyin": "zúqiú",
         "tags": " chinese-in-steps-1 lesson-6 "
     },
     {
         "chinese": "网球",
+        "cid": 1579117429724,
+        "guid": "CRMPMopwTD",
         "meaning": "tennis",
+        "nid": 1579117429725,
         "part-of-speech": "noun",
         "pinyin": "wǎngqiú",
         "tags": " chinese-in-steps-1 lesson-6 "
     },
     {
         "chinese": "一点儿",
+        "cid": 1579117429726,
+        "guid": "jTXrIrkxQX",
         "meaning": "a bit; a bit of",
+        "nid": 1579117429727,
         "part-of-speech": "noun/adjective",
         "pinyin": "yī diǎnr",
         "tags": " chinese-in-steps-1 lesson-6 "
     },
     {
         "chinese": "可是",
+        "cid": 1579117429728,
+        "guid": "QN5rY0UdQf",
         "meaning": "but",
+        "nid": 1579117429729,
         "part-of-speech": "conjunction",
         "pinyin": "kěshì",
         "tags": " chinese-in-steps-1 lesson-6 "
     },
     {
         "chinese": "为什么",
+        "cid": 1579117429730,
+        "guid": "aeUOBV+sTZ",
         "meaning": "why",
+        "nid": 1579117429731,
         "part-of-speech": "question word",
         "pinyin": "wèishéme",
         "tags": " chinese-in-steps-1 lesson-6 "
     },
     {
         "chinese": "一起",
+        "cid": 1579117429732,
+        "guid": "0NcyqAgCT0",
         "meaning": "together",
+        "nid": 1579117429733,
         "part-of-speech": "adjective",
         "pinyin": "yīqǐ",
         "tags": " chinese-in-steps-1 lesson-6 "
     },
     {
         "chinese": "因为",
+        "cid": 1579117429734,
+        "guid": "CBMoz4uSTw",
         "meaning": "because",
+        "nid": 1579117429735,
         "part-of-speech": "conjunction",
         "pinyin": "yīnwèi",
         "tags": " chinese-in-steps-1 lesson-6 "
     },
     {
         "chinese": "打排球",
+        "cid": 1579117429736,
+        "guid": "fp+gUvUQTO",
         "meaning": "play volleyball",
+        "nid": 1579117429737,
         "part-of-speech": "verb",
         "pinyin": "dǎ páiqiú",
         "tags": " chinese-in-steps-1 lesson-6 additional-vocabulary "
     },
     {
         "chinese": "打乒乓球",
+        "cid": 1579117429738,
+        "guid": "/pRbMEGzSi",
         "meaning": "play table tennis",
+        "nid": 1579117429739,
         "part-of-speech": "verb",
         "pinyin": "dǎ pīngpāngqiú",
         "tags": " chinese-in-steps-1 lesson-6 additional-vocabulary "
     },
     {
         "chinese": "打羽毛球",
+        "cid": 1579117429740,
+        "guid": "5qtDzJ99R0",
         "meaning": "play badminton",
+        "nid": 1579117429741,
         "part-of-speech": "verb",
         "pinyin": "dǎ yǔmáoqiú",
         "tags": " chinese-in-steps-1 lesson-6 additional-vocabulary "
     },
     {
         "chinese": "打橄榄球",
+        "cid": 1579117429742,
+        "guid": "7iJ0SS4vQ9",
         "meaning": "play rugby",
+        "nid": 1579117429743,
         "part-of-speech": "verb",
         "pinyin": "dǎ gǎnlǎnqiú",
         "tags": " chinese-in-steps-1 lesson-6 additional-vocabulary "
     },
     {
         "chinese": "打篮球",
+        "cid": 1579117429744,
+        "guid": "X7cEBzVKQF",
         "meaning": "play basketball",
+        "nid": 1579117429745,
         "part-of-speech": "verb",
         "pinyin": "dǎ lánqiú",
         "tags": " chinese-in-steps-1 lesson-6 additional-vocabulary "
     },
     {
         "chinese": "滑冰",
+        "cid": 1579117429746,
+        "guid": "Fo7FznmLTQ",
         "meaning": "skate",
+        "nid": 1579117429747,
         "part-of-speech": "verb",
         "pinyin": "huá bīng",
         "tags": " chinese-in-steps-1 lesson-6 additional-vocabulary "
     },
     {
         "chinese": "滑水",
+        "cid": 1579117429748,
+        "guid": "MesQ4BbHR2",
         "meaning": "surf",
+        "nid": 1579117429749,
         "part-of-speech": "verb",
         "pinyin": "huá shuǐ",
         "tags": " chinese-in-steps-1 lesson-6 additional-vocabulary "
     },
     {
         "chinese": "滑雪",
+        "cid": 1579117429750,
+        "guid": "gAcrJI1YRy",
         "meaning": "ski",
+        "nid": 1579117429751,
         "part-of-speech": "verb",
         "pinyin": "huá xuě",
         "tags": " chinese-in-steps-1 lesson-6 additional-vocabulary "
     },
     {
         "chinese": "跑步",
+        "cid": 1579117429752,
+        "guid": "TDUQZJb4Q4",
         "meaning": "jog",
+        "nid": 1579117429753,
         "part-of-speech": "verb",
         "pinyin": "pǎo bù",
         "tags": " chinese-in-steps-1 lesson-6 additional-vocabulary "
     },
     {
         "chinese": "游泳",
+        "cid": 1579117429754,
+        "guid": "s4SDHSlIRZ",
         "meaning": "swim",
+        "nid": 1579117429755,
         "part-of-speech": "verb",
         "pinyin": "yóu yǒng",
         "tags": " chinese-in-steps-1 lesson-6 additional-vocabulary "

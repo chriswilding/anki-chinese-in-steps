@@ -1,1 +1,342 @@
-[]
+[
+    {
+        "chinese": "下雨",
+        "cid": 1579117161543,
+        "guid": "llo2YcW0QG",
+        "meaning": "rain",
+        "nid": 1579117161544,
+        "part-of-speech": "verb object",
+        "pinyin": "xià yǔ",
+        "tags": " chinese-in-steps-1 lesson-9 "
+    },
+    {
+        "chinese": "下雪",
+        "cid": 1579117161545,
+        "guid": "mJPtNZivRv",
+        "meaning": "snow",
+        "nid": 1579117161546,
+        "part-of-speech": "verb object",
+        "pinyin": "xià xuě",
+        "tags": " chinese-in-steps-1 lesson-9 "
+    },
+    {
+        "chinese": "比",
+        "cid": 1579117161547,
+        "guid": "pUXwWhKuQh",
+        "meaning": "compare; compared with",
+        "nid": 1579117161548,
+        "part-of-speech": "verb/preposition",
+        "pinyin": "bǐ",
+        "tags": " chinese-in-steps-1 lesson-9 "
+    },
+    {
+        "chinese": "冷",
+        "cid": 1579117161549,
+        "guid": "8He6h4Q4RR",
+        "meaning": "cold",
+        "nid": 1579117161550,
+        "part-of-speech": "adjective",
+        "pinyin": "lěng",
+        "tags": " chinese-in-steps-1 lesson-9 "
+    },
+    {
+        "chinese": "热",
+        "cid": 1579117161551,
+        "guid": "X818vn3oSX",
+        "meaning": "hot",
+        "nid": 1579117161552,
+        "part-of-speech": "adjective",
+        "pinyin": "rè",
+        "tags": " chinese-in-steps-1 lesson-9 "
+    },
+    {
+        "chinese": "暖和",
+        "cid": 1579117161553,
+        "guid": "R4yo4MImQf",
+        "meaning": "warm",
+        "nid": 1579117161554,
+        "part-of-speech": "adjective",
+        "pinyin": "nuǎnhuo",
+        "tags": " chinese-in-steps-1 lesson-9 "
+    },
+    {
+        "chinese": "漂亮",
+        "cid": 1579117161555,
+        "guid": "xN+72qhESU",
+        "meaning": "pretty",
+        "nid": 1579117161556,
+        "part-of-speech": "adjective",
+        "pinyin": "piàoliang",
+        "tags": " chinese-in-steps-1 lesson-9 "
+    },
+    {
+        "chinese": "个子",
+        "cid": 1579117161557,
+        "guid": "pfRa5VeqTl",
+        "meaning": "(of a human being) height; stature",
+        "nid": 1579117161558,
+        "part-of-speech": "noun",
+        "pinyin": "gèzi",
+        "tags": " chinese-in-steps-1 lesson-9 "
+    },
+    {
+        "chinese": "青青",
+        "cid": 1579117161559,
+        "guid": "Q7zJ4mpQR9",
+        "meaning": "Qingqing (a name)",
+        "nid": 1579117161560,
+        "part-of-speech": "proper noun",
+        "pinyin": "qīngqīng",
+        "tags": " chinese-in-steps-1 lesson-9 "
+    },
+    {
+        "chinese": "篮球",
+        "cid": 1579117161561,
+        "guid": "MDueHpTmRU",
+        "meaning": "basketball",
+        "nid": 1579117161562,
+        "part-of-speech": "noun",
+        "pinyin": "lánqiú",
+        "tags": " chinese-in-steps-1 lesson-9 "
+    },
+    {
+        "chinese": "高",
+        "cid": 1579117161563,
+        "guid": "5XkRu/ynRW",
+        "meaning": "tall (person or building)",
+        "nid": 1579117161564,
+        "part-of-speech": "adjective",
+        "pinyin": "gāo",
+        "tags": " chinese-in-steps-1 lesson-9 "
+    },
+    {
+        "chinese": "胖",
+        "cid": 1579117161565,
+        "guid": "EiZr36NTRu",
+        "meaning": "stout; fat",
+        "nid": 1579117161566,
+        "part-of-speech": "adjective",
+        "pinyin": "pàng",
+        "tags": " chinese-in-steps-1 lesson-9 "
+    },
+    {
+        "chinese": "瘦",
+        "cid": 1579117161567,
+        "guid": "Z9qNtX/SRL",
+        "meaning": "thin",
+        "nid": 1579117161568,
+        "part-of-speech": "adjective",
+        "pinyin": "shòu",
+        "tags": " chinese-in-steps-1 lesson-9 "
+    },
+    {
+        "chinese": "少",
+        "cid": 1579117161569,
+        "guid": "aCcHH9VIRj",
+        "meaning": "few; little",
+        "nid": 1579117161570,
+        "part-of-speech": "adjective",
+        "pinyin": "shǎo",
+        "tags": " chinese-in-steps-1 lesson-9 "
+    },
+    {
+        "chinese": "春天",
+        "cid": 1579117161571,
+        "guid": "8u8CMfXmSr",
+        "meaning": "spring",
+        "nid": 1579117161572,
+        "part-of-speech": "noun",
+        "pinyin": "chūntiān",
+        "tags": " chinese-in-steps-1 lesson-9 "
+    },
+    {
+        "chinese": "夏天",
+        "cid": 1579117161573,
+        "guid": "ZedOzw4JQF",
+        "meaning": "summer",
+        "nid": 1579117161574,
+        "part-of-speech": "noun",
+        "pinyin": "xiàtiān",
+        "tags": " chinese-in-steps-1 lesson-9 "
+    },
+    {
+        "chinese": "秋天",
+        "cid": 1579117161575,
+        "guid": "wWumfKo/QZ",
+        "meaning": "autumn",
+        "nid": 1579117161576,
+        "part-of-speech": "noun",
+        "pinyin": "qiūtiān",
+        "tags": " chinese-in-steps-1 lesson-9 "
+    },
+    {
+        "chinese": "冬天",
+        "cid": 1579117161577,
+        "guid": "TLq+XnIHTy",
+        "meaning": "winter",
+        "nid": 1579117161578,
+        "part-of-speech": "noun",
+        "pinyin": "dōngtiān",
+        "tags": " chinese-in-steps-1 lesson-9 "
+    },
+    {
+        "chinese": "天气",
+        "cid": 1579117161579,
+        "guid": "bYkNtyK/T8",
+        "meaning": "weather",
+        "nid": 1579117161580,
+        "part-of-speech": "noun",
+        "pinyin": "tiānqì",
+        "tags": " chinese-in-steps-1 lesson-9 "
+    },
+    {
+        "chinese": "常常",
+        "cid": 1579117161581,
+        "guid": "JCeLie8mR8",
+        "meaning": "often",
+        "nid": 1579117161582,
+        "part-of-speech": "adverb",
+        "pinyin": "chángcháng",
+        "tags": " chinese-in-steps-1 lesson-9 "
+    },
+    {
+        "chinese": "一样",
+        "cid": 1579117161583,
+        "guid": "mHNsjXB+Tt",
+        "meaning": "the same",
+        "nid": 1579117161584,
+        "part-of-speech": "adjective/adverb",
+        "pinyin": "yīyàng",
+        "tags": " chinese-in-steps-1 lesson-9 "
+    },
+    {
+        "chinese": "怎么样",
+        "cid": 1579117161585,
+        "guid": "m1JeEawqQx",
+        "meaning": "How is it?",
+        "nid": 1579117161586,
+        "part-of-speech": "question word",
+        "pinyin": "zěnmeyàng",
+        "tags": " chinese-in-steps-1 lesson-9 "
+    },
+    {
+        "chinese": "凉快",
+        "cid": 1579117161587,
+        "guid": "UvLZYXQWTD",
+        "meaning": "cool",
+        "nid": 1579117161588,
+        "part-of-speech": "adjective",
+        "pinyin": "liángkuai",
+        "tags": " chinese-in-steps-1 lesson-9 additional-vocabulary "
+    },
+    {
+        "chinese": "闷热",
+        "cid": 1579117161589,
+        "guid": "V1N+n6e3Re",
+        "meaning": "muggy, close",
+        "nid": 1579117161590,
+        "part-of-speech": "adjective",
+        "pinyin": "mēnrè",
+        "tags": " chinese-in-steps-1 lesson-9 additional-vocabulary "
+    },
+    {
+        "chinese": "干燥",
+        "cid": 1579117161591,
+        "guid": "IP7Ak8jMQN",
+        "meaning": "dry",
+        "nid": 1579117161592,
+        "part-of-speech": "adjective",
+        "pinyin": "gānzào",
+        "tags": " chinese-in-steps-1 lesson-9 additional-vocabulary "
+    },
+    {
+        "chinese": "潮湿",
+        "cid": 1579117161593,
+        "guid": "6bV/BbkpRc",
+        "meaning": "damp, humid",
+        "nid": 1579117161594,
+        "part-of-speech": "adjective",
+        "pinyin": "cháoshī",
+        "tags": " chinese-in-steps-1 lesson-9 additional-vocabulary "
+    },
+    {
+        "chinese": "轻",
+        "cid": 1579117161595,
+        "guid": "oAhc5f/8SV",
+        "meaning": "light (weight)",
+        "nid": 1579117161596,
+        "part-of-speech": "adjective",
+        "pinyin": "qīng",
+        "tags": " chinese-in-steps-1 lesson-9 additional-vocabulary "
+    },
+    {
+        "chinese": "重",
+        "cid": 1579117161597,
+        "guid": "1wgc7unqSR",
+        "meaning": "heavy (weight)",
+        "nid": 1579117161598,
+        "part-of-speech": "adjective",
+        "pinyin": "zhòng",
+        "tags": " chinese-in-steps-1 lesson-9 additional-vocabulary "
+    },
+    {
+        "chinese": "矮",
+        "cid": 1579117161599,
+        "guid": "csak9hKnQi",
+        "meaning": "short (height)",
+        "nid": 1579117161600,
+        "part-of-speech": "adjective",
+        "pinyin": "ǎi",
+        "tags": " chinese-in-steps-1 lesson-9 additional-vocabulary "
+    },
+    {
+        "chinese": "富/有钱",
+        "cid": 1579117161601,
+        "guid": "F58nSDcMTi",
+        "meaning": "rich",
+        "nid": 1579117161602,
+        "part-of-speech": "adjective",
+        "pinyin": "fù/yǒu qián",
+        "tags": " chinese-in-steps-1 lesson-9 additional-vocabulary "
+    },
+    {
+        "chinese": "穷/没钱",
+        "cid": 1579117161603,
+        "guid": "2Mw3Lp7xT7",
+        "meaning": "poor",
+        "nid": 1579117161604,
+        "part-of-speech": "adjective",
+        "pinyin": "qióng/méi qián",
+        "tags": " chinese-in-steps-1 lesson-9 additional-vocabulary "
+    },
+    {
+        "chinese": "有用",
+        "cid": 1579117161605,
+        "guid": "+jCxsR6dRW",
+        "meaning": "useful",
+        "nid": 1579117161606,
+        "part-of-speech": "adjective",
+        "pinyin": "yǒuyòng",
+        "tags": " chinese-in-steps-1 lesson-9 additional-vocabulary "
+    },
+    {
+        "chinese": "远",
+        "cid": 1579117161607,
+        "guid": "PJo+vQBUQe",
+        "meaning": "far",
+        "nid": 1579117161608,
+        "part-of-speech": "adjective",
+        "pinyin": "yuǎn",
+        "tags": " chinese-in-steps-1 lesson-9 additional-vocabulary "
+    },
+    {
+        "chinese": "进",
+        "cid": 1579117161609,
+        "guid": "4Ekkpnm9Ru",
+        "meaning": "near, close",
+        "nid": 1579117161610,
+        "part-of-speech": "adjective",
+        "pinyin": "jìn",
+        "tags": " chinese-in-steps-1 lesson-9 additional-vocabulary "
+    }
+]

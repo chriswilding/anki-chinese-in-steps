@@ -1,1 +1,362 @@
-[]
+[
+    {
+        "chinese": "有",
+        "cid": 1579117429624,
+        "guid": "C0sEbl2SSp",
+        "meaning": "have; there be",
+        "nid": 1579117429625,
+        "part-of-speech": "verb",
+        "pinyin": "yǒu",
+        "tags": " chinese-in-steps-1 lesson-7 "
+    },
+    {
+        "chinese": "了",
+        "cid": 1579117429626,
+        "guid": "rhy7aNejSB",
+        "meaning": "forms a complement",
+        "nid": 1579117429627,
+        "part-of-speech": "particle",
+        "pinyin": "le",
+        "tags": " chinese-in-steps-1 lesson-7 "
+    },
+    {
+        "chinese": "吃",
+        "cid": 1579117429628,
+        "guid": "tESEDydYSo",
+        "meaning": "eat",
+        "nid": 1579117429629,
+        "part-of-speech": "verb",
+        "pinyin": "chī",
+        "tags": " chinese-in-steps-1 lesson-7 "
+    },
+    {
+        "chinese": "点",
+        "cid": 1579117429630,
+        "guid": "PS+DteX7Rz",
+        "meaning": "order",
+        "nid": 1579117429631,
+        "part-of-speech": "verb",
+        "pinyin": "diǎn",
+        "tags": " chinese-in-steps-1 lesson-7 "
+    },
+    {
+        "chinese": "白酒",
+        "cid": 1579117429632,
+        "guid": "8sKbDAcsSU",
+        "meaning": "white spirits",
+        "nid": 1579117429633,
+        "part-of-speech": "noun",
+        "pinyin": "báijiǔ",
+        "tags": " chinese-in-steps-1 lesson-7 "
+    },
+    {
+        "chinese": "红酒",
+        "cid": 1579117429634,
+        "guid": "v7thPbzESw",
+        "meaning": "red wine",
+        "nid": 1579117429635,
+        "part-of-speech": "noun",
+        "pinyin": "hóngjiǔ",
+        "tags": " chinese-in-steps-1 lesson-7 "
+    },
+    {
+        "chinese": "啤酒",
+        "cid": 1579117429636,
+        "guid": "MdeIcqzbRh",
+        "meaning": "beer",
+        "nid": 1579117429637,
+        "part-of-speech": "noun",
+        "pinyin": "píjiǔ",
+        "tags": " chinese-in-steps-1 lesson-7 "
+    },
+    {
+        "chinese": "烤鸭",
+        "cid": 1579117429638,
+        "guid": "T10YKlzSSq",
+        "meaning": "roast duck",
+        "nid": 1579117429639,
+        "part-of-speech": "noun",
+        "pinyin": "kǎoyā",
+        "tags": " chinese-in-steps-1 lesson-7 "
+    },
+    {
+        "chinese": "牛肉",
+        "cid": 1579117429640,
+        "guid": "lfwCdCDvTA",
+        "meaning": "beef",
+        "nid": 1579117429641,
+        "part-of-speech": "noun",
+        "pinyin": "niúròu",
+        "tags": " chinese-in-steps-1 lesson-7 "
+    },
+    {
+        "chinese": "红烧肉",
+        "cid": 1579117429642,
+        "guid": "hUK+8QE7TE",
+        "meaning": "braised meat in soy sauce",
+        "nid": 1579117429643,
+        "part-of-speech": "noun",
+        "pinyin": "hóngshāoròu",
+        "tags": " chinese-in-steps-1 lesson-7 "
+    },
+    {
+        "chinese": "炒饭",
+        "cid": 1579117429644,
+        "guid": "h0c3xk/rRW",
+        "meaning": "fried rice",
+        "nid": 1579117429645,
+        "part-of-speech": "noun",
+        "pinyin": "chǎofàn",
+        "tags": " chinese-in-steps-1 lesson-7 "
+    },
+    {
+        "chinese": "白菜",
+        "cid": 1579117429646,
+        "guid": "ndRIk/PeSU",
+        "meaning": "Chinese cabbage",
+        "nid": 1579117429647,
+        "part-of-speech": "noun",
+        "pinyin": "báicài",
+        "tags": " chinese-in-steps-1 lesson-7 "
+    },
+    {
+        "chinese": "青菜",
+        "cid": 1579117429648,
+        "guid": "OoESfUAxTA",
+        "meaning": "green vegetables",
+        "nid": 1579117429649,
+        "part-of-speech": "noun",
+        "pinyin": "qīngcài",
+        "tags": " chinese-in-steps-1 lesson-7 "
+    },
+    {
+        "chinese": "有名",
+        "cid": 1579117429650,
+        "guid": "nWeaDL6FS+",
+        "meaning": "famous",
+        "nid": 1579117429651,
+        "part-of-speech": "adjective",
+        "pinyin": "yūmei",
+        "tags": " chinese-in-steps-1 lesson-7 "
+    },
+    {
+        "chinese": "好吃",
+        "cid": 1579117429652,
+        "guid": "e0ZwQHv6Rh",
+        "meaning": "delicious",
+        "nid": 1579117429653,
+        "part-of-speech": "adjective",
+        "pinyin": "hàochī",
+        "tags": " chinese-in-steps-1 lesson-7 "
+    },
+    {
+        "chinese": "没",
+        "cid": 1579117429654,
+        "guid": "3og5+91GTh",
+        "meaning": "negation word for 有",
+        "nid": 1579117429655,
+        "part-of-speech": "adverb",
+        "pinyin": "méi",
+        "tags": " chinese-in-steps-1 lesson-7 "
+    },
+    {
+        "chinese": "只",
+        "cid": 1579117429656,
+        "guid": "+QBFlT46Qm",
+        "meaning": "only; measure word for birds, cats and some other animals",
+        "nid": 1579117429657,
+        "part-of-speech": "measure word",
+        "pinyin": "zhǐ/zhī",
+        "tags": " chinese-in-steps-1 lesson-7 "
+    },
+    {
+        "chinese": "个",
+        "cid": 1579117429658,
+        "guid": "Yt8T/GdnRi",
+        "meaning": "a general measure word",
+        "nid": 1579117429659,
+        "part-of-speech": "measure word",
+        "pinyin": "gè",
+        "tags": " chinese-in-steps-1 lesson-7 "
+    },
+    {
+        "chinese": "瓶",
+        "cid": 1579117429660,
+        "guid": "OGv6HPIqTO",
+        "meaning": "bottle of; bottle",
+        "nid": 1579117429661,
+        "part-of-speech": "measure word/noun",
+        "pinyin": "píng",
+        "tags": " chinese-in-steps-1 lesson-7 "
+    },
+    {
+        "chinese": "杯",
+        "cid": 1579117429662,
+        "guid": "znYwyn4hSm",
+        "meaning": "glass of, cup of, cup",
+        "nid": 1579117429663,
+        "part-of-speech": "measure word/noun",
+        "pinyin": "bēi",
+        "tags": " chinese-in-steps-1 lesson-7 "
+    },
+    {
+        "chinese": "碗",
+        "cid": 1579117429664,
+        "guid": "pavsv4qXRU",
+        "meaning": "bowl of, bowl",
+        "nid": 1579117429665,
+        "part-of-speech": "measure word/noun",
+        "pinyin": "wǎn",
+        "tags": " chinese-in-steps-1 lesson-7 "
+    },
+    {
+        "chinese": "盘",
+        "cid": 1579117429666,
+        "guid": "uycn7nxrRy",
+        "meaning": "dish of, plate of; plate",
+        "nid": 1579117429667,
+        "part-of-speech": "measure word/noun",
+        "pinyin": "pán",
+        "tags": " chinese-in-steps-1 lesson-7 "
+    },
+    {
+        "chinese": "这儿",
+        "cid": 1579117429668,
+        "guid": "1tf2Pw3IRJ",
+        "meaning": "here",
+        "nid": 1579117429669,
+        "part-of-speech": "location word",
+        "pinyin": "zhèr",
+        "tags": " chinese-in-steps-1 lesson-7 "
+    },
+    {
+        "chinese": "还",
+        "cid": 1579117429670,
+        "guid": "0JJk4aZfRD",
+        "meaning": "still, also, as well",
+        "nid": 1579117429671,
+        "part-of-speech": "adjective",
+        "pinyin": "hái",
+        "tags": " chinese-in-steps-1 lesson-7 "
+    },
+    {
+        "chinese": "红葡萄酒",
+        "cid": 1579117429672,
+        "guid": "t9UOMU7DRl",
+        "meaning": "red wine",
+        "nid": 1579117429673,
+        "part-of-speech": "noun",
+        "pinyin": "hóng pútáojiǔ",
+        "tags": " chinese-in-steps-1 lesson-7 additional-vocabulary "
+    },
+    {
+        "chinese": "白葡萄酒",
+        "cid": 1579117429674,
+        "guid": "xDnKBLl/Rh",
+        "meaning": "white wine",
+        "nid": 1579117429675,
+        "part-of-speech": "noun",
+        "pinyin": "bái pútáojiǔ",
+        "tags": " chinese-in-steps-1 lesson-7 additional-vocabulary "
+    },
+    {
+        "chinese": "橘子汁",
+        "cid": 1579117429676,
+        "guid": "3gK7nkIXR9",
+        "meaning": "orange juice",
+        "nid": 1579117429677,
+        "part-of-speech": "noun",
+        "pinyin": "júzizhī",
+        "tags": " chinese-in-steps-1 lesson-7 additional-vocabulary "
+    },
+    {
+        "chinese": "苹果汁",
+        "cid": 1579117429678,
+        "guid": "Or8INuSsSD",
+        "meaning": "apple juice",
+        "nid": 1579117429679,
+        "part-of-speech": "noun",
+        "pinyin": "píngguǒzhī",
+        "tags": " chinese-in-steps-1 lesson-7 additional-vocabulary "
+    },
+    {
+        "chinese": "红茶",
+        "cid": 1579117429680,
+        "guid": "VMz2wzXSQJ",
+        "meaning": "black tea",
+        "nid": 1579117429681,
+        "part-of-speech": "noun",
+        "pinyin": "hóngchá",
+        "tags": " chinese-in-steps-1 lesson-7 additional-vocabulary "
+    },
+    {
+        "chinese": "绿茶",
+        "cid": 1579117429682,
+        "guid": "HRaaeHV8Rb",
+        "meaning": "green tea",
+        "nid": 1579117429683,
+        "part-of-speech": "noun",
+        "pinyin": "lǜchá",
+        "tags": " chinese-in-steps-1 lesson-7 additional-vocabulary "
+    },
+    {
+        "chinese": "三明治",
+        "cid": 1579117429684,
+        "guid": "Gr2bLFDyTJ",
+        "meaning": "sandwich",
+        "nid": 1579117429685,
+        "part-of-speech": "noun",
+        "pinyin": "sānmíngzhì",
+        "tags": " chinese-in-steps-1 lesson-7 additional-vocabulary "
+    },
+    {
+        "chinese": "蛋糕",
+        "cid": 1579117429686,
+        "guid": "atrJdsuVQ3",
+        "meaning": "cake",
+        "nid": 1579117429687,
+        "part-of-speech": "noun",
+        "pinyin": "dàngāo",
+        "tags": " chinese-in-steps-1 lesson-7 additional-vocabulary "
+    },
+    {
+        "chinese": "蛋炒饭",
+        "cid": 1579117429688,
+        "guid": "u7HTqU0gRI",
+        "meaning": "egg fried rice",
+        "nid": 1579117429689,
+        "part-of-speech": "noun",
+        "pinyin": "dànchǎofàn",
+        "tags": " chinese-in-steps-1 lesson-7 additional-vocabulary "
+    },
+    {
+        "chinese": "炒面",
+        "cid": 1579117429690,
+        "guid": "wzaJ6ohCTr",
+        "meaning": "stir-fried noodles",
+        "nid": 1579117429691,
+        "part-of-speech": "noun",
+        "pinyin": "chǎomiàn",
+        "tags": " chinese-in-steps-1 lesson-7 additional-vocabulary "
+    },
+    {
+        "chinese": "饺子",
+        "cid": 1579117429692,
+        "guid": "j43q5nYsTd",
+        "meaning": "Chinese dumpling",
+        "nid": 1579117429693,
+        "part-of-speech": "noun",
+        "pinyin": "jiǎozi",
+        "tags": " chinese-in-steps-1 lesson-7 additional-vocabulary "
+    },
+    {
+        "chinese": "水果",
+        "cid": 1579117429694,
+        "guid": "ghM5Pb+9Qz",
+        "meaning": "fruit",
+        "nid": 1579117429695,
+        "part-of-speech": "noun",
+        "pinyin": "shuǐguǒ",
+        "tags": " chinese-in-steps-1 lesson-7 additional-vocabulary "
+    }
+]
