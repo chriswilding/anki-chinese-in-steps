@@ -126,24 +126,25 @@ def get_lesson_dirs():
     dirs = [os.path.join(os.getcwd(), 'lessons', entry) for entry in entries]
     return sorted([d for d in dirs if os.path.isdir(d)], key=dirs_sort_key)
 
-dirs = get_lesson_dirs()
+if __name__ == '__main__':
+    dirs = get_lesson_dirs()
 
-build_database()
+    build_database()
 
-for d in dirs:
-    path = os.path.join(d, 'vocabulary.json')
+    for d in dirs:
+        path = os.path.join(d, 'vocabulary.json')
 
-    with open(path) as f:
-        data = json.load(f)
-        for entry in data:
-            annotate(entry)
+        with open(path) as f:
+            data = json.load(f)
+            for entry in data:
+                annotate(entry)
 
-    with open(path, 'w', encoding='utf-8') as f:
-        json.dump(data, f, ensure_ascii=False, indent=4, sort_keys=True)
+        with open(path, 'w', encoding='utf-8') as f:
+            json.dump(data, f, ensure_ascii=False, indent=4, sort_keys=True)
 
-    output(data)
+        output(data)
 
-zf = zipfile.ZipFile('Chinese in Steps.apkg', 'w', zipfile.ZIP_DEFLATED)
-zf.write(os.path.join(os.getcwd(), 'collection.anki2'), 'collection.anki2')
-zf.writestr('media', '{}')
-zf.close()
+    zf = zipfile.ZipFile('Chinese in Steps.apkg', 'w', zipfile.ZIP_DEFLATED)
+    zf.write(os.path.join(os.getcwd(), 'collection.anki2'), 'collection.anki2')
+    zf.writestr('media', '{}')
+    zf.close()
