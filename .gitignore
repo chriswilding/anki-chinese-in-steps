@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Chinese in Steps
+Chinese in Steps.apkg
+collection.anki2
+media
+unihan

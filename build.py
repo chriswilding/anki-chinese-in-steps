@@ -11,6 +11,8 @@ import time
 import uuid
 import zipfile
 
+from pydub import AudioSegment
+
 EXTRA_DIGIT = re.compile('\d+$')
 
 DECK_ID = 1578170359311
@@ -23,6 +25,7 @@ NOTE_SQL = "INSERT INTO notes VALUES(?,?,?,?,-1,?,?,?,?,0,'');"
 
 card_counter = itertools.count(start=1)
 note_counter = itertools.count(start=1)
+media_counter = itertools.count()
 
 def get_anki_guid():
     u = uuid.uuid4()
@@ -50,9 +53,27 @@ def build_checksum(id):
     hexdigest = hashlib.sha1(encoded).hexdigest()
     return int(hexdigest[:8], 16)
 
+def has_media_keys(entry):
+    AUDIO_KEYS = ['audio-begin', 'audio-end', 'audio-file']
+    return all(key in entry for key in AUDIO_KEYS)
+
+def build_media_key(entry):
+    return '{} {}-{}.mp3'.format(
+        entry['audio-file'].replace('.mp3', ''),
+        str(entry['audio-begin']),
+        str(entry['audio-end'])
+    )
+
+def build_media_entry(entry):
+    if has_media_keys(entry):
+        key = build_media_key(entry)
+        return '[sound:{}]'.format(key)
+    return ''
+
 def build_fields(id, entry):
     return SEPERATOR.join((
         str(id),
+        build_media_entry(entry),
         entry['chinese'],
         entry['pinyin'],
         entry['meaning'],
@@ -95,7 +116,7 @@ def build_database():
     with open('./anki.sql', 'r') as f:
         script = f.read()
 
-    con = sqlite3.connect('collection.anki2')
+    con = sqlite3.connect('./build/collection.anki2')
     cur = con.cursor()
 
     cur.executescript(script)
@@ -108,7 +129,7 @@ def output(data):
     cards = build_cards(data)
     notes = build_notes(data)
 
-    con = sqlite3.connect('collection.anki2')
+    con = sqlite3.connect('./build/collection.anki2')
     cur = con.cursor()
 
     cur.executemany(NOTE_SQL, notes)
@@ -126,10 +147,29 @@ def get_lesson_dirs():
     dirs = [os.path.join(os.getcwd(), 'lessons', entry) for entry in entries]
     return sorted([d for d in dirs if os.path.isdir(d)], key=dirs_sort_key)
 
+def build_media(media, data):
+    for entry in data:
+        if has_media_keys(entry):
+            id = next(media_counter)
+            media[str(id)] = build_media_key(entry)
+            output_media(id, entry)
+
+def output_media(id, entry):
+    file = entry['audio-file']
+    path = os.path.join(os.getcwd(), 'media', file)
+    audio = AudioSegment.from_mp3(path)
+
+    begin = entry['audio-begin']
+    end = entry['audio-end']
+    slice = audio[begin:end]
+    slice.export("./build/{}".format(id), "mp3")
+
 if __name__ == '__main__':
     dirs = get_lesson_dirs()
 
     build_database()
+
+    media = {}
 
     for d in dirs:
         path = os.path.join(d, 'vocabulary.json')
@@ -141,10 +181,16 @@ if __name__ == '__main__':
 
         with open(path, 'w', encoding='utf-8') as f:
             json.dump(data, f, ensure_ascii=False, indent=4, sort_keys=True)
+            f.write("\n")
 
         output(data)
 
-    zf = zipfile.ZipFile('Chinese in Steps.apkg', 'w', zipfile.ZIP_DEFLATED)
-    zf.write(os.path.join(os.getcwd(), 'collection.anki2'), 'collection.anki2')
-    zf.writestr('media', '{}')
+        build_media(media, data)
+
+    zf = zipfile.ZipFile('./build/Chinese in Steps.apkg', 'w', zipfile.ZIP_DEFLATED)
+    zf.write(os.path.join(os.getcwd(), 'build/collection.anki2'), 'collection.anki2')
+
+    for key in media.keys():
+        zf.write(os.path.join(os.getcwd(), 'build', key), key)
+    zf.writestr('media', json.dumps(media))
     zf.close()
