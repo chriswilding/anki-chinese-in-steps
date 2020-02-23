@@ -1,5 +1,8 @@
 [
     {
+        "audio-begin": 31500,
+        "audio-end": 32750,
+        "audio-file": "Lesson 09-1.mp3",
         "chinese": "下雨",
         "cid": 1579117161543,
         "guid": "llo2YcW0QG",
@@ -10,6 +13,9 @@
         "tags": " chinese-in-steps-1 lesson-9 "
     },
     {
+        "audio-begin": 34500,
+        "audio-end": 35750,
+        "audio-file": "Lesson 09-1.mp3",
         "chinese": "下雪",
         "cid": 1579117161545,
         "guid": "mJPtNZivRv",
@@ -20,6 +26,9 @@
         "tags": " chinese-in-steps-1 lesson-9 "
     },
     {
+        "audio-begin": 37500,
+        "audio-end": 38500,
+        "audio-file": "Lesson 09-1.mp3",
         "chinese": "比",
         "cid": 1579117161547,
         "guid": "pUXwWhKuQh",
@@ -30,6 +39,9 @@
         "tags": " chinese-in-steps-1 lesson-9 "
     },
     {
+        "audio-begin": 40000,
+        "audio-end": 41000,
+        "audio-file": "Lesson 09-1.mp3",
         "chinese": "冷",
         "cid": 1579117161549,
         "guid": "8He6h4Q4RR",
@@ -40,6 +52,9 @@
         "tags": " chinese-in-steps-1 lesson-9 "
     },
     {
+        "audio-begin": 42750,
+        "audio-end": 43500,
+        "audio-file": "Lesson 09-1.mp3",
         "chinese": "热",
         "cid": 1579117161551,
         "guid": "X818vn3oSX",
@@ -50,6 +65,9 @@
         "tags": " chinese-in-steps-1 lesson-9 "
     },
     {
+        "audio-begin": 45250,
+        "audio-end": 46250,
+        "audio-file": "Lesson 09-1.mp3",
         "chinese": "暖和",
         "cid": 1579117161553,
         "guid": "R4yo4MImQf",
@@ -60,6 +78,9 @@
         "tags": " chinese-in-steps-1 lesson-9 "
     },
     {
+        "audio-begin": 48000,
+        "audio-end": 49000,
+        "audio-file": "Lesson 09-1.mp3",
         "chinese": "漂亮",
         "cid": 1579117161555,
         "guid": "xN+72qhESU",
@@ -70,6 +91,9 @@
         "tags": " chinese-in-steps-1 lesson-9 "
     },
     {
+        "audio-begin": 50750,
+        "audio-end": 51750,
+        "audio-file": "Lesson 09-1.mp3",
         "chinese": "个子",
         "cid": 1579117161557,
         "guid": "pfRa5VeqTl",
@@ -80,6 +104,9 @@
         "tags": " chinese-in-steps-1 lesson-9 "
     },
     {
+        "audio-begin": 53500,
+        "audio-end": 54500,
+        "audio-file": "Lesson 09-1.mp3",
         "chinese": "青青",
         "cid": 1579117161559,
         "guid": "Q7zJ4mpQR9",
@@ -90,6 +117,9 @@
         "tags": " chinese-in-steps-1 lesson-9 "
     },
     {
+        "audio-begin": 56250,
+        "audio-end": 57500,
+        "audio-file": "Lesson 09-1.mp3",
         "chinese": "篮球",
         "cid": 1579117161561,
         "guid": "MDueHpTmRU",
@@ -100,6 +130,9 @@
         "tags": " chinese-in-steps-1 lesson-9 "
     },
     {
+        "audio-begin": 59000,
+        "audio-end": 60000,
+        "audio-file": "Lesson 09-1.mp3",
         "chinese": "高",
         "cid": 1579117161563,
         "guid": "5XkRu/ynRW",
@@ -110,6 +143,9 @@
         "tags": " chinese-in-steps-1 lesson-9 "
     },
     {
+        "audio-begin": 61500,
+        "audio-end": 62500,
+        "audio-file": "Lesson 09-1.mp3",
         "chinese": "胖",
         "cid": 1579117161565,
         "guid": "EiZr36NTRu",
@@ -120,6 +156,9 @@
         "tags": " chinese-in-steps-1 lesson-9 "
     },
     {
+        "audio-begin": 64000,
+        "audio-end": 65000,
+        "audio-file": "Lesson 09-1.mp3",
         "chinese": "瘦",
         "cid": 1579117161567,
         "guid": "Z9qNtX/SRL",
@@ -130,6 +169,9 @@
         "tags": " chinese-in-steps-1 lesson-9 "
     },
     {
+        "audio-begin": 66500,
+        "audio-end": 67750,
+        "audio-file": "Lesson 09-1.mp3",
         "chinese": "少",
         "cid": 1579117161569,
         "guid": "aCcHH9VIRj",
@@ -140,6 +182,9 @@
         "tags": " chinese-in-steps-1 lesson-9 "
     },
     {
+        "audio-begin": 69500,
+        "audio-end": 70500,
+        "audio-file": "Lesson 09-1.mp3",
         "chinese": "春天",
         "cid": 1579117161571,
         "guid": "8u8CMfXmSr",
@@ -150,6 +195,9 @@
         "tags": " chinese-in-steps-1 lesson-9 "
     },
     {
+        "audio-begin": 69500,
+        "audio-end": 70500,
+        "audio-file": "Lesson 09-1.mp3",
         "chinese": "夏天",
         "cid": 1579117161573,
         "guid": "ZedOzw4JQF",
@@ -160,6 +208,9 @@
         "tags": " chinese-in-steps-1 lesson-9 "
     },
     {
+        "audio-begin": 72250,
+        "audio-end": 73250,
+        "audio-file": "Lesson 09-1.mp3",
         "chinese": "秋天",
         "cid": 1579117161575,
         "guid": "wWumfKo/QZ",
@@ -170,6 +221,9 @@
         "tags": " chinese-in-steps-1 lesson-9 "
     },
     {
+        "audio-begin": 78000,
+        "audio-end": 79000,
+        "audio-file": "Lesson 09-1.mp3",
         "chinese": "冬天",
         "cid": 1579117161577,
         "guid": "TLq+XnIHTy",
@@ -180,6 +234,9 @@
         "tags": " chinese-in-steps-1 lesson-9 "
     },
     {
+        "audio-begin": 81000,
+        "audio-end": 82000,
+        "audio-file": "Lesson 09-1.mp3",
         "chinese": "天气",
         "cid": 1579117161579,
         "guid": "bYkNtyK/T8",
@@ -190,6 +247,9 @@
         "tags": " chinese-in-steps-1 lesson-9 "
     },
     {
+        "audio-begin": 83750,
+        "audio-end": 84750,
+        "audio-file": "Lesson 09-1.mp3",
         "chinese": "常常",
         "cid": 1579117161581,
         "guid": "JCeLie8mR8",
@@ -200,6 +260,9 @@
         "tags": " chinese-in-steps-1 lesson-9 "
     },
     {
+        "audio-begin": 86500,
+        "audio-end": 87500,
+        "audio-file": "Lesson 09-1.mp3",
         "chinese": "一样",
         "cid": 1579117161583,
         "guid": "mHNsjXB+Tt",
@@ -210,6 +273,9 @@
         "tags": " chinese-in-steps-1 lesson-9 "
     },
     {
+        "audio-begin": 89250,
+        "audio-end": 90250,
+        "audio-file": "Lesson 09-1.mp3",
         "chinese": "怎么样",
         "cid": 1579117161585,
         "guid": "m1JeEawqQx",
@@ -220,6 +286,9 @@
         "tags": " chinese-in-steps-1 lesson-9 "
     },
     {
+        "audio-begin": 10750,
+        "audio-end": 11750,
+        "audio-file": "Lesson 09-3.mp3",
         "chinese": "凉快",
         "cid": 1579117161587,
         "guid": "UvLZYXQWTD",
@@ -230,6 +299,9 @@
         "tags": " chinese-in-steps-1 lesson-9 additional-vocabulary "
     },
     {
+        "audio-begin": 13500,
+        "audio-end": 14500,
+        "audio-file": "Lesson 09-3.mp3",
         "chinese": "闷热",
         "cid": 1579117161589,
         "guid": "V1N+n6e3Re",
@@ -240,6 +312,9 @@
         "tags": " chinese-in-steps-1 lesson-9 additional-vocabulary "
     },
     {
+        "audio-begin": 16250,
+        "audio-end": 17250,
+        "audio-file": "Lesson 09-3.mp3",
         "chinese": "干燥",
         "cid": 1579117161591,
         "guid": "IP7Ak8jMQN",
@@ -250,6 +325,9 @@
         "tags": " chinese-in-steps-1 lesson-9 additional-vocabulary "
     },
     {
+        "audio-begin": 19000,
+        "audio-end": 20000,
+        "audio-file": "Lesson 09-3.mp3",
         "chinese": "潮湿",
         "cid": 1579117161593,
         "guid": "6bV/BbkpRc",
@@ -260,6 +338,9 @@
         "tags": " chinese-in-steps-1 lesson-9 additional-vocabulary "
     },
     {
+        "audio-begin": 21750,
+        "audio-end": 22750,
+        "audio-file": "Lesson 09-3.mp3",
         "chinese": "轻",
         "cid": 1579117161595,
         "guid": "oAhc5f/8SV",
@@ -270,6 +351,9 @@
         "tags": " chinese-in-steps-1 lesson-9 additional-vocabulary "
     },
     {
+        "audio-begin": 24250,
+        "audio-end": 25000,
+        "audio-file": "Lesson 09-3.mp3",
         "chinese": "重",
         "cid": 1579117161597,
         "guid": "1wgc7unqSR",
@@ -280,6 +364,9 @@
         "tags": " chinese-in-steps-1 lesson-9 additional-vocabulary "
     },
     {
+        "audio-begin": 26750,
+        "audio-end": 27500,
+        "audio-file": "Lesson 09-3.mp3",
         "chinese": "矮",
         "cid": 1579117161599,
         "guid": "csak9hKnQi",
@@ -290,6 +377,9 @@
         "tags": " chinese-in-steps-1 lesson-9 additional-vocabulary "
     },
     {
+        "audio-begin": 29500,
+        "audio-end": 33000,
+        "audio-file": "Lesson 09-3.mp3",
         "chinese": "富/有钱",
         "cid": 1579117161601,
         "guid": "F58nSDcMTi",
@@ -300,6 +390,9 @@
         "tags": " chinese-in-steps-1 lesson-9 additional-vocabulary "
     },
     {
+        "audio-begin": 34750,
+        "audio-end": 38750,
+        "audio-file": "Lesson 09-3.mp3",
         "chinese": "穷/没钱",
         "cid": 1579117161603,
         "guid": "2Mw3Lp7xT7",
@@ -310,6 +403,9 @@
         "tags": " chinese-in-steps-1 lesson-9 additional-vocabulary "
     },
     {
+        "audio-begin": 40500,
+        "audio-end": 41500,
+        "audio-file": "Lesson 09-3.mp3",
         "chinese": "有用",
         "cid": 1579117161605,
         "guid": "+jCxsR6dRW",
@@ -320,6 +416,9 @@
         "tags": " chinese-in-steps-1 lesson-9 additional-vocabulary "
     },
     {
+        "audio-begin": 43250,
+        "audio-end": 44250,
+        "audio-file": "Lesson 09-3.mp3",
         "chinese": "远",
         "cid": 1579117161607,
         "guid": "PJo+vQBUQe",
@@ -330,6 +429,9 @@
         "tags": " chinese-in-steps-1 lesson-9 additional-vocabulary "
     },
     {
+        "audio-begin": 45750,
+        "audio-end": 46500,
+        "audio-file": "Lesson 09-3.mp3",
         "chinese": "进",
         "cid": 1579117161609,
         "guid": "4Ekkpnm9Ru",
