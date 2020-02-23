@@ -11,6 +11,9 @@
         "part-of-speech": "pronoun",
         "pinyin": "nǐ",
         "sentence": "你好",
+        "sentence-audio-begin": 16250,
+        "sentence-audio-end": 17250,
+        "sentence-audio-file": "Lesson 01-2.mp3",
         "sentence-meaning": "Hello",
         "sentence-pinyin": "nǐ hǎo",
         "tags": " chinese-in-steps-1 lesson-1 "
@@ -27,6 +30,9 @@
         "part-of-speech": "pronoun",
         "pinyin": "nín",
         "sentence": "您好",
+        "sentence-audio-begin": 27750,
+        "sentence-audio-end": 29000,
+        "sentence-audio-file": "Lesson 01-2.mp3",
         "sentence-meaning": "How do you do?",
         "sentence-pinyin": "nín hǎo",
         "tags": " chinese-in-steps-1 lesson-1 "
@@ -43,6 +49,9 @@
         "part-of-speech": "pronoun",
         "pinyin": "wǒ",
         "sentence": "我很好",
+        "sentence-audio-begin": 42000,
+        "sentence-audio-end": 43500,
+        "sentence-audio-file": "Lesson 01-2.mp3",
         "sentence-meaning": "I'm very well",
         "sentence-pinyin": "wǒ hěn hǎo",
         "tags": " chinese-in-steps-1 lesson-1 "
@@ -58,9 +67,12 @@
         "nid": 1578178009557,
         "part-of-speech": "adjective",
         "pinyin": "hǎo",
-        "sentence": "我很好",
-        "sentence-meaning": "I'm very well",
-        "sentence-pinyin": "wǒ hěn hǎo",
+        "sentence": "你好吗？",
+        "sentence-audio-begin": 40250,
+        "sentence-audio-end": 41500,
+        "sentence-audio-file": "Lesson 01-2.mp3",
+        "sentence-meaning": "How are you?",
+        "sentence-pinyin": "nǐ hǎo ma",
         "tags": " chinese-in-steps-1 lesson-1 "
     },
     {
@@ -75,6 +87,9 @@
         "part-of-speech": "adverb",
         "pinyin": "hěn",
         "sentence": "我很好",
+        "sentence-audio-begin": 42000,
+        "sentence-audio-end": 43500,
+        "sentence-audio-file": "Lesson 01-2.mp3",
         "sentence-meaning": "I'm very well",
         "sentence-pinyin": "wǒ hěn hǎo",
         "tags": " chinese-in-steps-1 lesson-1 "
@@ -91,6 +106,9 @@
         "part-of-speech": "adverb",
         "pinyin": "bù",
         "sentence": "不客气",
+        "sentence-audio-begin": 53750,
+        "sentence-audio-end": 55000,
+        "sentence-audio-file": "Lesson 01-2.mp3",
         "sentence-meaning": "Not at all",
         "sentence-pinyin": "bù kèqi",
         "tags": " chinese-in-steps-1 lesson-1 "
@@ -107,6 +125,9 @@
         "part-of-speech": "verb/noun",
         "pinyin": "xiè",
         "sentence": "谢谢",
+        "sentence-audio-begin": 52250,
+        "sentence-audio-end": 53500,
+        "sentence-audio-file": "Lesson 01-2.mp3",
         "sentence-meaning": "Thank you",
         "sentence-pinyin": "xièxiè",
         "tags": " chinese-in-steps-1 lesson-1 "
@@ -123,6 +144,9 @@
         "part-of-speech": "adjective",
         "pinyin": "kèqi",
         "sentence": "不客气",
+        "sentence-audio-begin": 53750,
+        "sentence-audio-end": 55000,
+        "sentence-audio-file": "Lesson 01-2.mp3",
         "sentence-meaning": "Not at all",
         "sentence-pinyin": "bù kèqi",
         "tags": " chinese-in-steps-1 lesson-1 "
@@ -152,6 +176,9 @@
         "part-of-speech": "particle",
         "pinyin": "ma",
         "sentence": "你好吗？",
+        "sentence-audio-begin": 40250,
+        "sentence-audio-end": 41500,
+        "sentence-audio-file": "Lesson 01-2.mp3",
         "sentence-meaning": "How are you?",
         "sentence-pinyin": "nǐ hǎo ma",
         "tags": " chinese-in-steps-1 lesson-1 "

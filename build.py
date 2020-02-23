@@ -70,6 +70,23 @@ def build_media_entry(entry):
         return '[sound:{}]'.format(key)
     return ''
 
+def has_sentence_media_keys(entry):
+    AUDIO_KEYS = ['sentence-audio-begin', 'sentence-audio-end', 'sentence-audio-file']
+    return all(key in entry for key in AUDIO_KEYS)
+
+def build_sentence_media_key(entry):
+    return '{} {}-{}.mp3'.format(
+        entry['sentence-audio-file'].replace('.mp3', ''),
+        str(entry['sentence-audio-begin']),
+        str(entry['sentence-audio-end'])
+    )
+
+def build_sentence_media_entry(entry):
+    if has_sentence_media_keys(entry):
+        key = build_sentence_media_key(entry)
+        return '[sound:{}]'.format(key)
+    return ''
+
 def build_fields(id, entry):
     return SEPERATOR.join((
         str(id),
@@ -79,6 +96,7 @@ def build_fields(id, entry):
         entry['meaning'],
         entry.get('part-of-speech', ''),
         entry.get('sentence', ''),
+        build_sentence_media_entry(entry),
         entry.get('sentence-pinyin', ''),
         entry.get('sentence-meaning', '')
     ))
@@ -153,6 +171,10 @@ def build_media(media, data):
             id = next(media_counter)
             media[str(id)] = build_media_key(entry)
             output_media(id, entry)
+        if has_sentence_media_keys(entry):
+            id = next(media_counter)
+            media[str(id)] = build_sentence_media_key(entry)
+            output_sentence_media(id, entry)
 
 def output_media(id, entry):
     file = entry['audio-file']
@@ -161,6 +183,16 @@ def output_media(id, entry):
 
     begin = entry['audio-begin']
     end = entry['audio-end']
+    slice = audio[begin:end]
+    slice.export("./build/{}".format(id), "mp3")
+
+def output_sentence_media(id, entry):
+    file = entry['sentence-audio-file']
+    path = os.path.join(os.getcwd(), 'media', file)
+    audio = AudioSegment.from_mp3(path)
+
+    begin = entry['sentence-audio-begin']
+    end = entry['sentence-audio-end']
     slice = audio[begin:end]
     slice.export("./build/{}".format(id), "mp3")
 
