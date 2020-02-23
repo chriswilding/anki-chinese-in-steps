@@ -10,6 +10,12 @@
         "nid": 1578951175139,
         "part-of-speech": "pronoun",
         "pinyin": "tā",
+        "sentence": "他叫王京",
+        "sentence-audio-begin": 23250,
+        "sentence-audio-end": 25500,
+        "sentence-audio-file": "Lesson 02-2.mp3",
+        "sentence-meaning": "His name is Wang Jing",
+        "sentence-pinyin": "tā jiào Wáng Jīng",
         "tags": " chinese-in-steps-1 lesson-2 "
     },
     {
@@ -23,6 +29,12 @@
         "nid": 1578951175141,
         "part-of-speech": "pronoun",
         "pinyin": "tā",
+        "sentence": "她叫李小英",
+        "sentence-audio-begin": 33250,
+        "sentence-audio-end": 35750,
+        "sentence-audio-file": "Lesson 02-2.mp3",
+        "sentence-meaning": "Her name is Li Xiaoying",
+        "sentence-pinyin": "tā jiào Lǐ Xiǎoyīng",
         "tags": " chinese-in-steps-1 lesson-2 "
     },
     {
@@ -36,6 +48,12 @@
         "nid": 1578951175143,
         "part-of-speech": "verb",
         "pinyin": "xìng",
+        "sentence": "你姓李吗？",
+        "sentence-audio-begin": 43000,
+        "sentence-audio-end": 45000,
+        "sentence-audio-file": "Lesson 02-2.mp3",
+        "sentence-meaning": "Is your surname Li?",
+        "sentence-pinyin": "nǐ xìng Lǐ ma?",
         "tags": " chinese-in-steps-1 lesson-2 "
     },
     {
@@ -49,6 +67,12 @@
         "nid": 1578951175145,
         "part-of-speech": "verb",
         "pinyin": "jiào",
+        "sentence": "她叫李小英",
+        "sentence-audio-begin": 33250,
+        "sentence-audio-end": 35750,
+        "sentence-audio-file": "Lesson 02-2.mp3",
+        "sentence-meaning": "Her name is Li Xiaoying",
+        "sentence-pinyin": "tā jiào Lǐ Xiǎoyīng",
         "tags": " chinese-in-steps-1 lesson-2 "
     },
     {
@@ -62,6 +86,12 @@
         "nid": 1578951175147,
         "part-of-speech": "adjective",
         "pinyin": "guì",
+        "sentence": "您贵姓？",
+        "sentence-audio-begin": 39750,
+        "sentence-audio-end": 40750,
+        "sentence-audio-file": "Lesson 02-4.mp3",
+        "sentence-meaning": "What is your surname?",
+        "sentence-pinyin": "nín guì xìng?",
         "tags": " chinese-in-steps-1 lesson-2 "
     },
     {
@@ -75,6 +105,12 @@
         "nid": 1578951175149,
         "part-of-speech": "adjective",
         "pinyin": "duì",
+        "sentence": "对，我叫李小英",
+        "sentence-audio-begin": 49750,
+        "sentence-audio-end": 52500,
+        "sentence-audio-file": "Lesson 02-4.mp3",
+        "sentence-meaning": "Yes, my name is Li Xiaoying",
+        "sentence-pinyin": "duì, wǒ jiào Lǐ Xiǎoyīng",
         "tags": " chinese-in-steps-1 lesson-2 "
     },
     {
@@ -88,6 +124,12 @@
         "nid": 1578951175151,
         "part-of-speech": "adjective",
         "pinyin": "xiǎo",
+        "sentence": "她叫李小英吗？",
+        "sentence-audio-begin": 53000,
+        "sentence-audio-end": 55750,
+        "sentence-audio-file": "Lesson 02-2.mp3",
+        "sentence-meaning": "Is she called Li Xiaoying?",
+        "sentence-pinyin": "tā jiào Lǐ Xiǎoyīng ma?",
         "tags": " chinese-in-steps-1 lesson-2 "
     },
     {
@@ -101,6 +143,12 @@
         "nid": 1578951175153,
         "part-of-speech": "noun",
         "pinyin": "míngzi",
+        "sentence": "你叫什么名字？",
+        "sentence-audio-begin": 121500,
+        "sentence-audio-end": 124000,
+        "sentence-audio-file": "Lesson 02-2.mp3",
+        "sentence-meaning": "What is your name?",
+        "sentence-pinyin": "nǐ jiào shénme míngzì?",
         "tags": " chinese-in-steps-1 lesson-2 "
     },
     {
@@ -114,6 +162,12 @@
         "nid": 1578951175155,
         "part-of-speech": "noun",
         "pinyin": "Lǐ",
+        "sentence": "我不姓李",
+        "sentence-audio-begin": 73000,
+        "sentence-audio-end": 75250,
+        "sentence-audio-file": "Lesson 02-2.mp3",
+        "sentence-meaning": "wǒ bù xìng Lǐ",
+        "sentence-pinyin": "I'm not Li",
         "tags": " chinese-in-steps-1 lesson-2 "
     },
     {
@@ -127,6 +181,12 @@
         "nid": 1578951175157,
         "part-of-speech": "proper noun",
         "pinyin": "Lǐ Guì",
+        "sentence": "我叫李贵",
+        "sentence-audio-begin": 55750,
+        "sentence-audio-end": 57250,
+        "sentence-audio-file": "Lesson 02-5.mp3",
+        "sentence-meaning": "My name is Li Gui",
+        "sentence-pinyin": "wǒ jiào Lǐ Guì",
         "tags": " chinese-in-steps-1 lesson-2 "
     },
     {
@@ -140,6 +200,12 @@
         "nid": 1578951175159,
         "part-of-speech": "noun",
         "pinyin": "Wáng",
+        "sentence": "她不叫王英",
+        "sentence-audio-begin": 93500,
+        "sentence-audio-end": 96250,
+        "sentence-audio-file": "Lesson 02-2.mp3",
+        "sentence-meaning": "She is not Wang Ying",
+        "sentence-pinyin": "tā bù jiào Wáng Yīng",
         "tags": " chinese-in-steps-1 lesson-2 "
     },
     {
@@ -153,6 +219,12 @@
         "nid": 1578951175161,
         "part-of-speech": "noun",
         "pinyin": "Jīng",
+        "sentence": "他叫王京吗？",
+        "sentence-audio-begin": 63250,
+        "sentence-audio-end": 65500,
+        "sentence-audio-file": "Lesson 02-2.mp3",
+        "sentence-meaning": "Is his name Wang Jing?",
+        "sentence-pinyin": "tā jiào Wáng Jīng ma?",
         "tags": " chinese-in-steps-1 lesson-2 "
     },
     {
@@ -166,6 +238,12 @@
         "nid": 1578951175163,
         "part-of-speech": "proper noun",
         "pinyin": "Wáng Jīng",
+        "sentence": "他叫王京",
+        "sentence-audio-begin": 23250,
+        "sentence-audio-end": 25500,
+        "sentence-audio-file": "Lesson 02-2.mp3",
+        "sentence-meaning": "His name is Wang Jing",
+        "sentence-pinyin": "tā jiào Wáng Jīng",
         "tags": " chinese-in-steps-1 lesson-2 "
     },
     {
@@ -179,6 +257,12 @@
         "nid": 1578951175165,
         "part-of-speech": "noun",
         "pinyin": "yīng",
+        "sentence": "您叫李小英吗？",
+        "sentence-audio-begin": 47250,
+        "sentence-audio-end": 49500,
+        "sentence-audio-file": "Lesson 02-4.mp3",
+        "sentence-meaning": "Is your name Li Xiaoying?",
+        "sentence-pinyin": "nín jiào Lǐ Xiǎoyīng ma?",
         "tags": " chinese-in-steps-1 lesson-2 "
     },
     {
@@ -192,6 +276,12 @@
         "nid": 1578951175167,
         "part-of-speech": "proper noun",
         "pinyin": "Lǐ Xiǎoyīng",
+        "sentence": "对，我叫李小英",
+        "sentence-audio-begin": 49750,
+        "sentence-audio-end": 52500,
+        "sentence-audio-file": "Lesson 02-4.mp3",
+        "sentence-meaning": "Yes, my name is Li Xiaoying",
+        "sentence-pinyin": "duì, wǒ jiào Lǐ Xiǎoyīng",
         "tags": " chinese-in-steps-1 lesson-2 "
     },
     {
@@ -205,6 +295,12 @@
         "nid": 1578951175169,
         "part-of-speech": "proper noun",
         "pinyin": "Lǐ Yuèmíng",
+        "sentence": "她也姓李，她叫李月明",
+        "sentence-audio-begin": 61500,
+        "sentence-audio-end": 65250,
+        "sentence-audio-file": "Lesson 02-5.mp3",
+        "sentence-meaning": "She is also named Li, her name is Li Yueming",
+        "sentence-pinyin": "tā yě xìng Lǐ, tā jiào Lǐ Yuèmíng",
         "tags": " chinese-in-steps-1 lesson-2 "
     },
     {
@@ -218,6 +314,12 @@
         "nid": 1578951175171,
         "part-of-speech": "noun",
         "pinyin": "fāng",
+        "sentence": "不，他不姓李，他姓方",
+        "sentence-audio-begin": 69000,
+        "sentence-audio-end": 73000,
+        "sentence-audio-file": "Lesson 02-5.mp3",
+        "sentence-meaning": "No, his surname is not Li, his surname Fang",
+        "sentence-pinyin": "bù, tā bù xìng Lǐ, tā xìng Fāng",
         "tags": " chinese-in-steps-1 lesson-2 "
     },
     {
@@ -231,6 +333,12 @@
         "nid": 1578951175173,
         "part-of-speech": "noun",
         "pinyin": "guó",
+        "sentence": "他叫方国伦",
+        "sentence-audio-begin": 73250,
+        "sentence-audio-end": 75250,
+        "sentence-audio-file": "Lesson 02-5.mp3",
+        "sentence-meaning": "His name is Fang Guolun",
+        "sentence-pinyin": "tā jiào Fāng Guólún",
         "tags": " chinese-in-steps-1 lesson-2 "
     },
     {
@@ -244,6 +352,12 @@
         "nid": 1578951175175,
         "part-of-speech": "noun",
         "pinyin": "lún",
+        "sentence": "他叫方国伦",
+        "sentence-audio-begin": 73250,
+        "sentence-audio-end": 75250,
+        "sentence-audio-file": "Lesson 02-5.mp3",
+        "sentence-meaning": "His name is Fang Guolun",
+        "sentence-pinyin": "tā jiào Fāng Guólún",
         "tags": " chinese-in-steps-1 lesson-2 "
     },
     {
@@ -257,6 +371,12 @@
         "nid": 1578951175177,
         "part-of-speech": "proper noun",
         "pinyin": "Fāng Guólùn",
+        "sentence": "他叫方国伦",
+        "sentence-audio-begin": 73250,
+        "sentence-audio-end": 75250,
+        "sentence-audio-file": "Lesson 02-5.mp3",
+        "sentence-meaning": "His name is Fang Guolun",
+        "sentence-pinyin": "tā jiào Fāng Guólún",
         "tags": " chinese-in-steps-1 lesson-2 "
     },
     {
@@ -270,6 +390,12 @@
         "nid": 1578951175179,
         "part-of-speech": "adverb",
         "pinyin": "yě",
+        "sentence": "他也不姓李",
+        "sentence-audio-begin": 83000,
+        "sentence-audio-end": 85750,
+        "sentence-audio-file": "Lesson 02-2.mp3",
+        "sentence-meaning": "His surname is also not Li",
+        "sentence-pinyin": "tā yě bù xìng Lǐ",
         "tags": " chinese-in-steps-1 lesson-2 "
     },
     {
@@ -283,6 +409,12 @@
         "nid": 1578951175181,
         "part-of-speech": "question word",
         "pinyin": "shénme",
+        "sentence": "她叫什么？",
+        "sentence-audio-begin": 112000,
+        "sentence-audio-end": 113750,
+        "sentence-audio-file": "Lesson 02-2.mp3",
+        "sentence-meaning": "What is her name？",
+        "sentence-pinyin": "tā jiào shén me",
         "tags": " chinese-in-steps-1 lesson-2 "
     },
     {
@@ -296,6 +428,12 @@
         "nid": 1578951175183,
         "part-of-speech": "particle",
         "pinyin": "ne",
+        "sentence": "我姓王，我叫王京，您呢？",
+        "sentence-audio-begin": 41250,
+        "sentence-audio-end": 45250,
+        "sentence-audio-file": "Lesson 02-4.mp3",
+        "sentence-meaning": "My surname is Wang. My name is Wang Jing. How about you?",
+        "sentence-pinyin": "wǒ xìng Wáng, wǒ jiào Wáng Jīng, nín ne?",
         "tags": " chinese-in-steps-1 lesson-2 "
     },
     {
