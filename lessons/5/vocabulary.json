@@ -1,5 +1,8 @@
 [
     {
+        "audio-begin": 31500,
+        "audio-end": 32500,
+        "audio-file": "Lesson 05-1.mp3",
         "chinese": "学",
         "cid": 1579036615701,
         "guid": "t7wPM6OHQt",
@@ -10,6 +13,9 @@
         "tags": " chinese-in-steps-1 lesson-5 "
     },
     {
+        "audio-begin": 34250,
+        "audio-end": 35250,
+        "audio-file": "Lesson 05-1.mp3",
         "chinese": "学生",
         "cid": 1579036615703,
         "guid": "MmZRIO3KRB",
@@ -20,6 +26,9 @@
         "tags": " chinese-in-steps-1 lesson-5 "
     },
     {
+        "audio-begin": 37000,
+        "audio-end": 38250,
+        "audio-file": "Lesson 05-1.mp3",
         "chinese": "大学",
         "cid": 1579036615705,
         "guid": "MX0bxtCwRt",
@@ -30,6 +39,9 @@
         "tags": " chinese-in-steps-1 lesson-5 "
     },
     {
+        "audio-begin": 40000,
+        "audio-end": 42000,
+        "audio-file": "Lesson 05-1.mp3",
         "chinese": "伦敦大学",
         "cid": 1579036615707,
         "guid": "2bvqKlEGTl",
@@ -40,6 +52,9 @@
         "tags": " chinese-in-steps-1 lesson-5 "
     },
     {
+        "audio-begin": 43500,
+        "audio-end": 44500,
+        "audio-file": "Lesson 05-1.mp3",
         "chinese": "做",
         "cid": 1579036615709,
         "guid": "n+AtsdvxTK",
@@ -50,6 +65,9 @@
         "tags": " chinese-in-steps-1 lesson-5 "
     },
     {
+        "audio-begin": 46250,
+        "audio-end": 47250,
+        "audio-file": "Lesson 05-1.mp3",
         "chinese": "写",
         "cid": 1579036615711,
         "guid": "KeLJ2GVZQC",
@@ -60,6 +78,9 @@
         "tags": " chinese-in-steps-1 lesson-5 "
     },
     {
+        "audio-begin": 49000,
+        "audio-end": 50000,
+        "audio-file": "Lesson 05-1.mp3",
         "chinese": "看",
         "cid": 1579036615713,
         "guid": "wK5McssYQD",
@@ -70,6 +91,9 @@
         "tags": " chinese-in-steps-1 lesson-5 "
     },
     {
+        "audio-begin": 51500,
+        "audio-end": 52500,
+        "audio-file": "Lesson 05-1.mp3",
         "chinese": "喝",
         "cid": 1579036615715,
         "guid": "br1tbZCdQb",
@@ -80,6 +104,9 @@
         "tags": " chinese-in-steps-1 lesson-5 "
     },
     {
+        "audio-begin": 54250,
+        "audio-end": 55500,
+        "audio-file": "Lesson 05-1.mp3",
         "chinese": "上网",
         "cid": 1579036615717,
         "guid": "2Bn5s0moRZ",
@@ -90,6 +117,9 @@
         "tags": " chinese-in-steps-1 lesson-5 "
     },
     {
+        "audio-begin": 57250,
+        "audio-end": 58250,
+        "audio-file": "Lesson 05-1.mp3",
         "chinese": "专业",
         "cid": 1579036615719,
         "guid": "AaQC8b2xQN",
@@ -100,6 +130,9 @@
         "tags": " chinese-in-steps-1 lesson-5 "
     },
     {
+        "audio-begin": 60000,
+        "audio-end": 61250,
+        "audio-file": "Lesson 05-1.mp3",
         "chinese": "英文",
         "cid": 1579036615721,
         "guid": "4zp20cwmRr",
@@ -110,6 +143,9 @@
         "tags": " chinese-in-steps-1 lesson-5 "
     },
     {
+        "audio-begin": 62825,
+        "audio-end": 64000,
+        "audio-file": "Lesson 05-1.mp3",
         "chinese": "中文",
         "cid": 1579036615723,
         "guid": "Bn9uERqERw",
@@ -120,6 +156,9 @@
         "tags": " chinese-in-steps-1 lesson-5 "
     },
     {
+        "audio-begin": 65750,
+        "audio-end": 67000,
+        "audio-file": "Lesson 05-1.mp3",
         "chinese": "文学",
         "cid": 1579036615725,
         "guid": "3awrmYfeRY",
@@ -130,6 +169,9 @@
         "tags": " chinese-in-steps-1 lesson-5 "
     },
     {
+        "audio-begin": 68750,
+        "audio-end": 70000,
+        "audio-file": "Lesson 05-1.mp3",
         "chinese": "电视",
         "cid": 1579036615727,
         "guid": "R4M38l5HRV",
@@ -140,6 +182,9 @@
         "tags": " chinese-in-steps-1 lesson-5 "
     },
     {
+        "audio-begin": 71750,
+        "audio-end": 72500,
+        "audio-file": "Lesson 05-1.mp3",
         "chinese": "书",
         "cid": 1579036615729,
         "guid": "fjcJFnnTTE",
@@ -150,6 +195,9 @@
         "tags": " chinese-in-steps-1 lesson-5 "
     },
     {
+        "audio-begin": 74250,
+        "audio-end": 75500,
+        "audio-file": "Lesson 05-1.mp3",
         "chinese": "汉子",
         "cid": 1579036615731,
         "guid": "u+S2Xku+Rh",
@@ -160,6 +208,9 @@
         "tags": " chinese-in-steps-1 lesson-5 "
     },
     {
+        "audio-begin": 77250,
+        "audio-end": 78250,
+        "audio-file": "Lesson 05-1.mp3",
         "chinese": "茶",
         "cid": 1579036615733,
         "guid": "0OeNDfJnQn",
@@ -170,6 +221,9 @@
         "tags": " chinese-in-steps-1 lesson-5 "
     },
     {
+        "audio-begin": 79750,
+        "audio-end": 81000,
+        "audio-file": "Lesson 05-1.mp3",
         "chinese": "牛奶",
         "cid": 1579036615735,
         "guid": "kHNZ8T5BT2",
@@ -180,6 +234,9 @@
         "tags": " chinese-in-steps-1 lesson-5 "
     },
     {
+        "audio-begin": 82825,
+        "audio-end": 83750,
+        "audio-file": "Lesson 05-1.mp3",
         "chinese": "和",
         "cid": 1579036615737,
         "guid": "RvPHeQVTQd",
@@ -190,6 +247,9 @@
         "tags": " chinese-in-steps-1 lesson-5 "
     },
     {
+        "audio-begin": 85500,
+        "audio-end": 86500,
+        "audio-file": "Lesson 05-1.mp3",
         "chinese": "咖啡",
         "cid": 1579036615739,
         "guid": "AxCMLhTDRd",
@@ -200,6 +260,9 @@
         "tags": " chinese-in-steps-1 lesson-5 "
     },
     {
+        "audio-begin": 88250,
+        "audio-end": 89250,
+        "audio-file": "Lesson 05-1.mp3",
         "chinese": "晚上",
         "cid": 1579036615741,
         "guid": "EISE0Y5/TK",
@@ -210,6 +273,9 @@
         "tags": " chinese-in-steps-1 lesson-5 "
     },
     {
+        "audio-begin": 91125,
+        "audio-end": 92125,
+        "audio-file": "Lesson 05-1.mp3",
         "chinese": "早上",
         "cid": 1579036615743,
         "guid": "ubavjvC7QK",
@@ -220,6 +286,9 @@
         "tags": " chinese-in-steps-1 lesson-5 "
     },
     {
+        "audio-begin": 93875,
+        "audio-end": 95000,
+        "audio-file": "Lesson 05-1.mp3",
         "chinese": "天天",
         "cid": 1579036615745,
         "guid": "6sSUsE8ST9",
@@ -230,6 +299,9 @@
         "tags": " chinese-in-steps-1 lesson-5 "
     },
     {
+        "audio-begin": 96875,
+        "audio-end": 98000,
+        "audio-file": "Lesson 05-1.mp3",
         "chinese": "还是",
         "cid": 1579036615747,
         "guid": "508o2/mqSj",
@@ -240,6 +312,9 @@
         "tags": " chinese-in-steps-1 lesson-5 "
     },
     {
+        "audio-begin": 10750,
+        "audio-end": 12000,
+        "audio-file": "Lesson 05-3.mp3",
         "chinese": "法文",
         "cid": 1579036615749,
         "guid": "6wlBLsomR1",
@@ -250,6 +325,9 @@
         "tags": " chinese-in-steps-1 lesson-5 additional-vocabulary "
     },
     {
+        "audio-begin": 13500,
+        "audio-end": 14750,
+        "audio-file": "Lesson 05-3.mp3",
         "chinese": "德文",
         "cid": 1579036615751,
         "guid": "S1SmCmHWSB",
@@ -260,6 +338,9 @@
         "tags": " chinese-in-steps-1 lesson-5 additional-vocabulary "
     },
     {
+        "audio-begin": 16500,
+        "audio-end": 17750,
+        "audio-file": "Lesson 05-3.mp3",
         "chinese": "日文",
         "cid": 1579036615753,
         "guid": "zgFj/5WYSL",
@@ -270,6 +351,9 @@
         "tags": " chinese-in-steps-1 lesson-5 additional-vocabulary "
     },
     {
+        "audio-begin": 19250,
+        "audio-end": 20750,
+        "audio-file": "Lesson 05-3.mp3",
         "chinese": "看电影",
         "cid": 1579036615755,
         "guid": "oGgzCqbJTK",
@@ -280,6 +364,9 @@
         "tags": " chinese-in-steps-1 lesson-5 additional-vocabulary "
     },
     {
+        "audio-begin": 22250,
+        "audio-end": 23750,
+        "audio-file": "Lesson 05-3.mp3",
         "chinese": "看小说",
         "cid": 1579036615757,
         "guid": "1iNPU/UGRg",
@@ -290,6 +377,9 @@
         "tags": " chinese-in-steps-1 lesson-5 additional-vocabulary "
     },
     {
+        "audio-begin": 25500,
+        "audio-end": 26750,
+        "audio-file": "Lesson 05-3.mp3",
         "chinese": "做作业",
         "cid": 1579036615759,
         "guid": "3+wXXkbrTu",
@@ -300,6 +390,9 @@
         "tags": " chinese-in-steps-1 lesson-5 additional-vocabulary "
     },
     {
+        "audio-begin": 28500,
+        "audio-end": 29500,
+        "audio-file": "Lesson 05-3.mp3",
         "chinese": "做饭",
         "cid": 1579036615761,
         "guid": "tvuGmYUGQG",
@@ -310,6 +403,9 @@
         "tags": " chinese-in-steps-1 lesson-5 additional-vocabulary "
     },
     {
+        "audio-begin": 31250,
+        "audio-end": 32250,
+        "audio-file": "Lesson 05-3.mp3",
         "chinese": "吃饭",
         "cid": 1579036615763,
         "guid": "9beNutV/Tl",
@@ -320,6 +416,9 @@
         "tags": " chinese-in-steps-1 lesson-5 additional-vocabulary "
     },
     {
+        "audio-begin": 34000,
+        "audio-end": 35000,
+        "audio-file": "Lesson 05-3.mp3",
         "chinese": "酒",
         "cid": 1579036615765,
         "guid": "76du/uh/Re",
@@ -330,6 +429,9 @@
         "tags": " chinese-in-steps-1 lesson-5 additional-vocabulary "
     },
     {
+        "audio-begin": 36750,
+        "audio-end": 37750,
+        "audio-file": "Lesson 05-3.mp3",
         "chinese": "可乐",
         "cid": 1579036615767,
         "guid": "UUchhxGDQ4",
@@ -340,6 +442,9 @@
         "tags": " chinese-in-steps-1 lesson-5 additional-vocabulary "
     },
     {
+        "audio-begin": 39500,
+        "audio-end": 40750,
+        "audio-file": "Lesson 05-3.mp3",
         "chinese": "果汁",
         "cid": 1579036615769,
         "guid": "K+lqr0Y2Tz",
@@ -350,6 +455,9 @@
         "tags": " chinese-in-steps-1 lesson-5 additional-vocabulary "
     },
     {
+        "audio-begin": 42250,
+        "audio-end": 43750,
+        "audio-file": "Lesson 05-3.mp3",
         "chinese": "矿泉水",
         "cid": 1579036615771,
         "guid": "3cM4M9LCTI",
