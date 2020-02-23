@@ -1,5 +1,8 @@
 [
     {
+        "audio-begin": 30500,
+        "audio-end": 31000,
+        "audio-file": "Lesson 10-1.mp3",
         "chinese": "去",
         "cid": 1579117429756,
         "guid": "4otYtm9eQQ",
@@ -10,6 +13,9 @@
         "tags": " chinese-in-steps-1 lesson-10 "
     },
     {
+        "audio-begin": 32750,
+        "audio-end": 33750,
+        "audio-file": "Lesson 10-1.mp3",
         "chinese": "来",
         "cid": 1579117429758,
         "guid": "t+BqKE9rRR",
@@ -20,6 +26,9 @@
         "tags": " chinese-in-steps-1 lesson-10 "
     },
     {
+        "audio-begin": 35250,
+        "audio-end": 36500,
+        "audio-file": "Lesson 10-1.mp3",
         "chinese": "还书",
         "cid": 1579117429760,
         "guid": "821vF+kSTX",
@@ -30,6 +39,9 @@
         "tags": " chinese-in-steps-1 lesson-10 "
     },
     {
+        "audio-begin": 38250,
+        "audio-end": 39000,
+        "audio-file": "Lesson 10-1.mp3",
         "chinese": "骑",
         "cid": 1579117429762,
         "guid": "n79SqX6dQa",
@@ -40,6 +52,9 @@
         "tags": " chinese-in-steps-1 lesson-10 "
     },
     {
+        "audio-begin": 40750,
+        "audio-end": 41500,
+        "audio-file": "Lesson 10-1.mp3",
         "chinese": "坐",
         "cid": 1579117429764,
         "guid": "THtUY0HMS4",
@@ -50,6 +65,9 @@
         "tags": " chinese-in-steps-1 lesson-10 "
     },
     {
+        "audio-begin": 43500,
+        "audio-end": 44250,
+        "audio-file": "Lesson 10-1.mp3",
         "chinese": "回家",
         "cid": 1579117429766,
         "guid": "GfzsdD9mRL",
@@ -60,6 +78,9 @@
         "tags": " chinese-in-steps-1 lesson-10 "
     },
     {
+        "audio-begin": 46250,
+        "audio-end": 47250,
+        "audio-file": "Lesson 10-1.mp3",
         "chinese": "开车",
         "cid": 1579117429768,
         "guid": "LpICKUy/SX",
@@ -70,6 +91,9 @@
         "tags": " chinese-in-steps-1 lesson-10 "
     },
     {
+        "audio-begin": 49000,
+        "audio-end": 50000,
+        "audio-file": "Lesson 10-1.mp3",
         "chinese": "打的",
         "cid": 1579117429770,
         "guid": "xTkzOhW4Tp",
@@ -80,6 +104,9 @@
         "tags": " chinese-in-steps-1 lesson-10 "
     },
     {
+        "audio-begin": 51750,
+        "audio-end": 52750,
+        "audio-file": "Lesson 10-1.mp3",
         "chinese": "走路",
         "cid": 1579117429772,
         "guid": "ulO2cX60R4",
@@ -90,6 +117,9 @@
         "tags": " chinese-in-steps-1 lesson-10 "
     },
     {
+        "audio-begin": 54500,
+        "audio-end": 55500,
+        "audio-file": "Lesson 10-1.mp3",
         "chinese": "上班",
         "cid": 1579117429774,
         "guid": "kRpbxJ4XRI",
@@ -100,6 +130,9 @@
         "tags": " chinese-in-steps-1 lesson-10 "
     },
     {
+        "audio-begin": 57250,
+        "audio-end": 58500,
+        "audio-file": "Lesson 10-1.mp3",
         "chinese": "自行车",
         "cid": 1579117429776,
         "guid": "KFeJWDb0Rg",
@@ -110,6 +143,9 @@
         "tags": " chinese-in-steps-1 lesson-10 "
     },
     {
+        "audio-begin": 60250,
+        "audio-end": 61250,
+        "audio-file": "Lesson 10-1.mp3",
         "chinese": "火车",
         "cid": 1579117429778,
         "guid": "QrkxFPvnTr",
@@ -120,6 +156,9 @@
         "tags": " chinese-in-steps-1 lesson-10 "
     },
     {
+        "audio-begin": 63000,
+        "audio-end": 63750,
+        "audio-file": "Lesson 10-1.mp3",
         "chinese": "快",
         "cid": 1579117429780,
         "guid": "ILP3ehqhQn",
@@ -130,6 +169,9 @@
         "tags": " chinese-in-steps-1 lesson-10 "
     },
     {
+        "audio-begin": 65500,
+        "audio-end": 66500,
+        "audio-file": "Lesson 10-1.mp3",
         "chinese": "公共",
         "cid": 1579117429782,
         "guid": "w7b6JDeSS2",
@@ -140,6 +182,9 @@
         "tags": " chinese-in-steps-1 lesson-10 "
     },
     {
+        "audio-begin": 68000,
+        "audio-end": 69250,
+        "audio-file": "Lesson 10-1.mp3",
         "chinese": "汽车",
         "cid": 1579117429784,
         "guid": "NM3e27cJQU",
@@ -150,6 +195,9 @@
         "tags": " chinese-in-steps-1 lesson-10 "
     },
     {
+        "audio-begin": 71000,
+        "audio-end": 72500,
+        "audio-file": "Lesson 10-1.mp3",
         "chinese": "公共汽车",
         "cid": 1579117429786,
         "guid": "Zb8uCg60QJ",
@@ -160,6 +208,9 @@
         "tags": " chinese-in-steps-1 lesson-10 "
     },
     {
+        "audio-begin": 74250,
+        "audio-end": 75500,
+        "audio-file": "Lesson 10-1.mp3",
         "chinese": "图书馆",
         "cid": 1579117429788,
         "guid": "o+KVHyvuSI",
@@ -170,6 +221,9 @@
         "tags": " chinese-in-steps-1 lesson-10 "
     },
     {
+        "audio-begin": 67500,
+        "audio-end": 68500,
+        "audio-file": "Lesson 10-1.mp3",
         "chinese": "东方",
         "cid": 1579117429790,
         "guid": "d9ATqJNkTQ",
@@ -180,6 +234,9 @@
         "tags": " chinese-in-steps-1 lesson-10 "
     },
     {
+        "audio-begin": 80250,
+        "audio-end": 81250,
+        "audio-file": "Lesson 10-1.mp3",
         "chinese": "地铁",
         "cid": 1579117429792,
         "guid": "uNiRyH8kTB",
@@ -190,6 +247,9 @@
         "tags": " chinese-in-steps-1 lesson-10 "
     },
     {
+        "audio-begin": 83000,
+        "audio-end": 84000,
+        "audio-file": "Lesson 10-1.mp3",
         "chinese": "商店",
         "cid": 1579117429794,
         "guid": "Kv/PNHi2Rm",
@@ -200,6 +260,9 @@
         "tags": " chinese-in-steps-1 lesson-10 "
     },
     {
+        "audio-begin": 86000,
+        "audio-end": 86750,
+        "audio-file": "Lesson 10-1.mp3",
         "chinese": "学院",
         "cid": 1579117429796,
         "guid": "Zf+Pfn4NQi",
@@ -210,6 +273,9 @@
         "tags": " chinese-in-steps-1 lesson-10 "
     },
     {
+        "audio-begin": 88750,
+        "audio-end": 90000,
+        "audio-file": "Lesson 10-1.mp3",
         "chinese": "商学院",
         "cid": 1579117429798,
         "guid": "dl/9TA3vRK",
@@ -220,6 +286,9 @@
         "tags": " chinese-in-steps-1 lesson-10 "
     },
     {
+        "audio-begin": 91750,
+        "audio-end": 92500,
+        "audio-file": "Lesson 10-1.mp3",
         "chinese": "哪儿",
         "cid": 1579117429800,
         "guid": "L/12vS1eSt",
@@ -230,6 +299,9 @@
         "tags": " chinese-in-steps-1 lesson-10 "
     },
     {
+        "audio-begin": 94500,
+        "audio-end": 95250,
+        "audio-file": "Lesson 10-1.mp3",
         "chinese": "怎么",
         "cid": 1579117429802,
         "guid": "4JY9IrcSRn",
@@ -240,6 +312,9 @@
         "tags": " chinese-in-steps-1 lesson-10 "
     },
     {
+        "audio-begin": 11000,
+        "audio-end": 12000,
+        "audio-file": "Lesson 10-3.mp3",
         "chinese": "坐车",
         "cid": 1579117429804,
         "guid": "meUzSrd6QM",
@@ -250,6 +325,9 @@
         "tags": " chinese-in-steps-1 lesson-10 additional-vocabulary "
     },
     {
+        "audio-begin": 13750,
+        "audio-end": 15500,
+        "audio-file": "Lesson 10-3.mp3",
         "chinese": "坐出租车",
         "cid": 1579117429806,
         "guid": "rz0nWyC6SC",
@@ -260,6 +338,9 @@
         "tags": " chinese-in-steps-1 lesson-10 additional-vocabulary "
     },
     {
+        "audio-begin": 17250,
+        "audio-end": 18750,
+        "audio-file": "Lesson 10-3.mp3",
         "chinese": "坐飞机",
         "cid": 1579117429808,
         "guid": "3butjF67Q6",
@@ -270,6 +351,9 @@
         "tags": " chinese-in-steps-1 lesson-10 additional-vocabulary "
     },
     {
+        "audio-begin": 20500,
+        "audio-end": 21500,
+        "audio-file": "Lesson 10-3.mp3",
         "chinese": "坐船",
         "cid": 1579117429810,
         "guid": "ABbyMmJKQh",
@@ -280,6 +364,9 @@
         "tags": " chinese-in-steps-1 lesson-10 additional-vocabulary "
     },
     {
+        "audio-begin": 23250,
+        "audio-end": 24500,
+        "audio-file": "Lesson 10-3.mp3",
         "chinese": "上午",
         "cid": 1579117429812,
         "guid": "xv0TNQCXTr",
@@ -290,6 +377,9 @@
         "tags": " chinese-in-steps-1 lesson-10 additional-vocabulary "
     },
     {
+        "audio-begin": 26250,
+        "audio-end": 27500,
+        "audio-file": "Lesson 10-3.mp3",
         "chinese": "中午",
         "cid": 1579117429814,
         "guid": "B5fErTmxSn",
@@ -300,6 +390,9 @@
         "tags": " chinese-in-steps-1 lesson-10 additional-vocabulary "
     },
     {
+        "audio-begin": 29250,
+        "audio-end": 30500,
+        "audio-file": "Lesson 10-3.mp3",
         "chinese": "下午",
         "cid": 1579117429816,
         "guid": "hdbwH4zJTu",
@@ -310,6 +403,9 @@
         "tags": " chinese-in-steps-1 lesson-10 additional-vocabulary "
     },
     {
+        "audio-begin": 32250,
+        "audio-end": 33250,
+        "audio-file": "Lesson 10-3.mp3",
         "chinese": "开会",
         "cid": 1579117429818,
         "guid": "acd1FzsPTH",
@@ -320,6 +416,9 @@
         "tags": " chinese-in-steps-1 lesson-10 additional-vocabulary "
     },
     {
+        "audio-begin": 35000,
+        "audio-end": 36000,
+        "audio-file": "Lesson 10-3.mp3",
         "chinese": "借书",
         "cid": 1579117429820,
         "guid": "q74XmIh+To",
@@ -330,6 +429,9 @@
         "tags": " chinese-in-steps-1 lesson-10 additional-vocabulary "
     },
     {
+        "audio-begin": 37750,
+        "audio-end": 39000,
+        "audio-file": "Lesson 10-3.mp3",
         "chinese": "买东西",
         "cid": 1579117429822,
         "guid": "ycykQVkqSG",
@@ -340,6 +442,9 @@
         "tags": " chinese-in-steps-1 lesson-10 additional-vocabulary "
     },
     {
+        "audio-begin": 40750,
+        "audio-end": 41750,
+        "audio-file": "Lesson 10-3.mp3",
         "chinese": "出差",
         "cid": 1579117429824,
         "guid": "oVKnHJ/0QD",
@@ -350,6 +455,9 @@
         "tags": " chinese-in-steps-1 lesson-10 additional-vocabulary "
     },
     {
+        "audio-begin": 43500,
+        "audio-end": 44500,
+        "audio-file": "Lesson 10-3.mp3",
         "chinese": "度假",
         "cid": 1579117429826,
         "guid": "ISjeGcddSp",
