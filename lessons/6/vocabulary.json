@@ -1,5 +1,8 @@
 [
     {
+        "audio-begin": 31000,
+        "audio-end": 31750,
+        "audio-file": "Lesson 06-1.mp3",
         "chinese": "会",
         "cid": 1579117429696,
         "guid": "/o48zt0nTl",
@@ -10,6 +13,9 @@
         "tags": " chinese-in-steps-1 lesson-6 "
     },
     {
+        "audio-begin": 33500,
+        "audio-end": 34500,
+        "audio-file": "Lesson 06-1.mp3",
         "chinese": "想",
         "cid": 1579117429698,
         "guid": "soZqOpSySq",
@@ -20,6 +26,9 @@
         "tags": " chinese-in-steps-1 lesson-6 "
     },
     {
+        "audio-begin": 36250,
+        "audio-end": 37000,
+        "audio-file": "Lesson 06-1.mp3",
         "chinese": "要",
         "cid": 1579117429700,
         "guid": "rBJXRTYqSb",
@@ -30,6 +39,9 @@
         "tags": " chinese-in-steps-1 lesson-6 "
     },
     {
+        "audio-begin": 38750,
+        "audio-end": 39750,
+        "audio-file": "Lesson 06-1.mp3",
         "chinese": "应该",
         "cid": 1579117429702,
         "guid": "06gfO2DzQY",
@@ -40,6 +52,9 @@
         "tags": " chinese-in-steps-1 lesson-6 "
     },
     {
+        "audio-begin": 41500,
+        "audio-end": 42750,
+        "audio-file": "Lesson 06-1.mp3",
         "chinese": "喜欢",
         "cid": 1579117429704,
         "guid": "qKt3pVkTTu",
@@ -50,6 +65,9 @@
         "tags": " chinese-in-steps-1 lesson-6 "
     },
     {
+        "audio-begin": 44500,
+        "audio-end": 45500,
+        "audio-file": "Lesson 06-1.mp3",
         "chinese": "认识",
         "cid": 1579117429706,
         "guid": "Q3hI1w2pQC",
@@ -60,6 +78,9 @@
         "tags": " chinese-in-steps-1 lesson-6 "
     },
     {
+        "audio-begin": 47250,
+        "audio-end": 48000,
+        "audio-file": "Lesson 06-1.mp3",
         "chinese": "说",
         "cid": 1579117429708,
         "guid": "4p56ES4LQq",
@@ -70,6 +91,9 @@
         "tags": " chinese-in-steps-1 lesson-6 "
     },
     {
+        "audio-begin": 49750,
+        "audio-end": 50750,
+        "audio-file": "Lesson 06-1.mp3",
         "chinese": "打",
         "cid": 1579117429710,
         "guid": "hbGactepTZ",
@@ -80,6 +104,9 @@
         "tags": " chinese-in-steps-1 lesson-6 "
     },
     {
+        "audio-begin": 52500,
+        "audio-end": 53500,
+        "audio-file": "Lesson 06-1.mp3",
         "chinese": "踢",
         "cid": 1579117429712,
         "guid": "moZxDMZ4QM",
@@ -90,6 +117,9 @@
         "tags": " chinese-in-steps-1 lesson-6 "
     },
     {
+        "audio-begin": 55000,
+        "audio-end": 56500,
+        "audio-file": "Lesson 06-1.mp3",
         "chinese": "汉语",
         "cid": 1579117429714,
         "guid": "JqO3GsxFSa",
@@ -100,6 +130,9 @@
         "tags": " chinese-in-steps-1 lesson-6 "
     },
     {
+        "audio-begin": 58000,
+        "audio-end": 59250,
+        "audio-file": "Lesson 06-1.mp3",
         "chinese": "外语",
         "cid": 1579117429716,
         "guid": "7JUqML3yT4",
@@ -110,6 +143,9 @@
         "tags": " chinese-in-steps-1 lesson-6 "
     },
     {
+        "audio-begin": 61000,
+        "audio-end": 62250,
+        "audio-file": "Lesson 06-1.mp3",
         "chinese": "日语",
         "cid": 1579117429718,
         "guid": "8QVF2s4TS3",
@@ -120,6 +156,9 @@
         "tags": " chinese-in-steps-1 lesson-6 "
     },
     {
+        "audio-begin": 64000,
+        "audio-end": 65250,
+        "audio-file": "Lesson 06-1.mp3",
         "chinese": "法语",
         "cid": 1579117429720,
         "guid": "r06dltBzSy",
@@ -130,6 +169,9 @@
         "tags": " chinese-in-steps-1 lesson-6 "
     },
     {
+        "audio-begin": 67000,
+        "audio-end": 68000,
+        "audio-file": "Lesson 06-1.mp3",
         "chinese": "足球",
         "cid": 1579117429722,
         "guid": "vSRlMEIlRp",
@@ -140,6 +182,9 @@
         "tags": " chinese-in-steps-1 lesson-6 "
     },
     {
+        "audio-begin": 69750,
+        "audio-end": 71000,
+        "audio-file": "Lesson 06-1.mp3",
         "chinese": "网球",
         "cid": 1579117429724,
         "guid": "CRMPMopwTD",
@@ -150,6 +195,9 @@
         "tags": " chinese-in-steps-1 lesson-6 "
     },
     {
+        "audio-begin": 72250,
+        "audio-end": 74000,
+        "audio-file": "Lesson 06-1.mp3",
         "chinese": "一点儿",
         "cid": 1579117429726,
         "guid": "jTXrIrkxQX",
@@ -160,6 +208,9 @@
         "tags": " chinese-in-steps-1 lesson-6 "
     },
     {
+        "audio-begin": 75750,
+        "audio-end": 76750,
+        "audio-file": "Lesson 06-1.mp3",
         "chinese": "可是",
         "cid": 1579117429728,
         "guid": "QN5rY0UdQf",
@@ -170,6 +221,9 @@
         "tags": " chinese-in-steps-1 lesson-6 "
     },
     {
+        "audio-begin": 78500,
+        "audio-end": 79750,
+        "audio-file": "Lesson 06-1.mp3",
         "chinese": "为什么",
         "cid": 1579117429730,
         "guid": "aeUOBV+sTZ",
@@ -180,6 +234,9 @@
         "tags": " chinese-in-steps-1 lesson-6 "
     },
     {
+        "audio-begin": 81500,
+        "audio-end": 82750,
+        "audio-file": "Lesson 06-1.mp3",
         "chinese": "一起",
         "cid": 1579117429732,
         "guid": "0NcyqAgCT0",
@@ -190,6 +247,9 @@
         "tags": " chinese-in-steps-1 lesson-6 "
     },
     {
+        "audio-begin": 84250,
+        "audio-end": 85250,
+        "audio-file": "Lesson 06-1.mp3",
         "chinese": "因为",
         "cid": 1579117429734,
         "guid": "CBMoz4uSTw",
@@ -200,6 +260,9 @@
         "tags": " chinese-in-steps-1 lesson-6 "
     },
     {
+        "audio-begin": 15500,
+        "audio-end": 16750,
+        "audio-file": "Lesson 06-3.mp3",
         "chinese": "打排球",
         "cid": 1579117429736,
         "guid": "fp+gUvUQTO",
@@ -210,6 +273,9 @@
         "tags": " chinese-in-steps-1 lesson-6 additional-vocabulary "
     },
     {
+        "audio-begin": 18750,
+        "audio-end": 20500,
+        "audio-file": "Lesson 06-3.mp3",
         "chinese": "打乒乓球",
         "cid": 1579117429738,
         "guid": "/pRbMEGzSi",
@@ -220,6 +286,9 @@
         "tags": " chinese-in-steps-1 lesson-6 additional-vocabulary "
     },
     {
+        "audio-begin": 22250,
+        "audio-end": 24000,
+        "audio-file": "Lesson 06-3.mp3",
         "chinese": "打羽毛球",
         "cid": 1579117429740,
         "guid": "5qtDzJ99R0",
@@ -230,6 +299,9 @@
         "tags": " chinese-in-steps-1 lesson-6 additional-vocabulary "
     },
     {
+        "audio-begin": 25750,
+        "audio-end": 27750,
+        "audio-file": "Lesson 06-3.mp3",
         "chinese": "打橄榄球",
         "cid": 1579117429742,
         "guid": "7iJ0SS4vQ9",
@@ -240,6 +312,9 @@
         "tags": " chinese-in-steps-1 lesson-6 additional-vocabulary "
     },
     {
+        "audio-begin": 29500,
+        "audio-end": 30750,
+        "audio-file": "Lesson 06-3.mp3",
         "chinese": "打篮球",
         "cid": 1579117429744,
         "guid": "X7cEBzVKQF",
@@ -250,6 +325,9 @@
         "tags": " chinese-in-steps-1 lesson-6 additional-vocabulary "
     },
     {
+        "audio-begin": 38125,
+        "audio-end": 39125,
+        "audio-file": "Lesson 06-3.mp3",
         "chinese": "滑冰",
         "cid": 1579117429746,
         "guid": "Fo7FznmLTQ",
@@ -260,6 +338,9 @@
         "tags": " chinese-in-steps-1 lesson-6 additional-vocabulary "
     },
     {
+        "audio-begin": 41000,
+        "audio-end": 42000,
+        "audio-file": "Lesson 06-3.mp3",
         "chinese": "滑水",
         "cid": 1579117429748,
         "guid": "MesQ4BbHR2",
@@ -270,6 +351,9 @@
         "tags": " chinese-in-steps-1 lesson-6 additional-vocabulary "
     },
     {
+        "audio-begin": 43750,
+        "audio-end": 45000,
+        "audio-file": "Lesson 06-3.mp3",
         "chinese": "滑雪",
         "cid": 1579117429750,
         "guid": "gAcrJI1YRy",
@@ -280,6 +364,9 @@
         "tags": " chinese-in-steps-1 lesson-6 additional-vocabulary "
     },
     {
+        "audio-begin": 46750,
+        "audio-end": 47750,
+        "audio-file": "Lesson 06-3.mp3",
         "chinese": "跑步",
         "cid": 1579117429752,
         "guid": "TDUQZJb4Q4",
@@ -290,6 +377,9 @@
         "tags": " chinese-in-steps-1 lesson-6 additional-vocabulary "
     },
     {
+        "audio-begin": 49500,
+        "audio-end": 50750,
+        "audio-file": "Lesson 06-3.mp3",
         "chinese": "游泳",
         "cid": 1579117429754,
         "guid": "s4SDHSlIRZ",
