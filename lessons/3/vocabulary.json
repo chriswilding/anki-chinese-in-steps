@@ -1,5 +1,8 @@
 [
     {
+        "audio-begin": 31250,
+        "audio-end": 32000,
+        "audio-file": "Lesson 03-1.mp3",
         "chinese": "是",
         "cid": 1579023163323,
         "guid": "t1gmqAriSM",
@@ -10,6 +13,9 @@
         "tags": " chinese-in-steps-1 lesson-3 "
     },
     {
+        "audio-begin": 33750,
+        "audio-end": 34500,
+        "audio-file": "Lesson 03-1.mp3",
         "chinese": "这",
         "cid": 1579023163325,
         "guid": "W+Ucfq72R2",
@@ -20,6 +26,9 @@
         "tags": " chinese-in-steps-1 lesson-3 "
     },
     {
+        "audio-begin": 37750,
+        "audio-end": 38500,
+        "audio-file": "Lesson 03-1.mp3",
         "chinese": "那",
         "cid": 1579023163327,
         "guid": "kTpAfAkuSn",
@@ -30,6 +39,9 @@
         "tags": " chinese-in-steps-1 lesson-3 "
     },
     {
+        "audio-begin": 41875,
+        "audio-end": 43000,
+        "audio-file": "Lesson 03-1.mp3",
         "chinese": "我们",
         "cid": 1579023163329,
         "guid": "VPvbJASwS2",
@@ -40,6 +52,9 @@
         "tags": " chinese-in-steps-1 lesson-3 "
     },
     {
+        "audio-begin": 44750,
+        "audio-end": 45750,
+        "audio-file": "Lesson 03-1.mp3",
         "chinese": "你们",
         "cid": 1579023163331,
         "guid": "Yi2/iLzpT8",
@@ -50,6 +65,9 @@
         "tags": " chinese-in-steps-1 lesson-3 "
     },
     {
+        "audio-begin": 47500,
+        "audio-end": 47800,
+        "audio-file": "Lesson 03-1.mp3",
         "chinese": "他们",
         "cid": 1579023163333,
         "guid": "RTdAl8WTRZ",
@@ -60,6 +78,9 @@
         "tags": " chinese-in-steps-1 lesson-3 "
     },
     {
+        "audio-begin": 50250,
+        "audio-end": 51250,
+        "audio-file": "Lesson 03-1.mp3",
         "chinese": "先生",
         "cid": 1579023163335,
         "guid": "1HZaikffRt",
@@ -70,6 +91,9 @@
         "tags": " chinese-in-steps-1 lesson-3 "
     },
     {
+        "audio-begin": 53000,
+        "audio-end": 54000,
+        "audio-file": "Lesson 03-1.mp3",
         "chinese": "太太",
         "cid": 1579023163337,
         "guid": "JESmLwBTSu",
@@ -80,6 +104,9 @@
         "tags": " chinese-in-steps-1 lesson-3 "
     },
     {
+        "audio-begin": 55750,
+        "audio-end": 57000,
+        "audio-file": "Lesson 03-1.mp3",
         "chinese": "小姐",
         "cid": 1579023163339,
         "guid": "rs1yP+ESQT",
@@ -90,6 +117,9 @@
         "tags": " chinese-in-steps-1 lesson-3 "
     },
     {
+        "audio-begin": 58750,
+        "audio-end": 60000,
+        "audio-file": "Lesson 03-1.mp3",
         "chinese": "老师",
         "cid": 1579023163341,
         "guid": "dSDYC3LORx",
@@ -100,6 +130,9 @@
         "tags": " chinese-in-steps-1 lesson-3 "
     },
     {
+        "audio-begin": 61750,
+        "audio-end": 62750,
+        "audio-file": "Lesson 03-1.mp3",
         "chinese": "医生",
         "cid": 1579023163343,
         "guid": "1HA4xpc5S/",
@@ -110,6 +143,9 @@
         "tags": " chinese-in-steps-1 lesson-3 "
     },
     {
+        "audio-begin": 64625,
+        "audio-end": 65500,
+        "audio-file": "Lesson 03-1.mp3",
         "chinese": "人",
         "cid": 1579023163345,
         "guid": "NiJDcOBpTT",
@@ -120,6 +156,9 @@
         "tags": " chinese-in-steps-1 lesson-3 "
     },
     {
+        "audio-begin": 67250,
+        "audio-end": 68500,
+        "audio-file": "Lesson 03-1.mp3",
         "chinese": "中国",
         "cid": 1579023163347,
         "guid": "9sEqYUvpSl",
@@ -130,6 +169,9 @@
         "tags": " chinese-in-steps-1 lesson-3 "
     },
     {
+        "audio-begin": 70250,
+        "audio-end": 71500,
+        "audio-file": "Lesson 03-1.mp3",
         "chinese": "英国",
         "cid": 1579023163349,
         "guid": "+5pqcBdJR0",
@@ -140,6 +182,9 @@
         "tags": " chinese-in-steps-1 lesson-3 "
     },
     {
+        "audio-begin": 73250,
+        "audio-end": 74125,
+        "audio-file": "Lesson 03-1.mp3",
         "chinese": "地方",
         "cid": 1579023163351,
         "guid": "4kXXVCK2R0",
@@ -150,6 +195,9 @@
         "tags": " chinese-in-steps-1 lesson-3 "
     },
     {
+        "audio-begin": 76000,
+        "audio-end": 77000,
+        "audio-file": "Lesson 03-1.mp3",
         "chinese": "北京",
         "cid": 1579023163353,
         "guid": "MOeWvMh0S4",
@@ -160,6 +208,9 @@
         "tags": " chinese-in-steps-1 lesson-3 "
     },
     {
+        "audio-begin": 78750,
+        "audio-end": 80000,
+        "audio-file": "Lesson 03-1.mp3",
         "chinese": "伦敦",
         "cid": 1579023163355,
         "guid": "25tnUqtDRs",
@@ -170,6 +221,9 @@
         "tags": " chinese-in-steps-1 lesson-3 "
     },
     {
+        "audio-begin": 81625,
+        "audio-end": 82750,
+        "audio-file": "Lesson 03-1.mp3",
         "chinese": "上海",
         "cid": 1579023163357,
         "guid": "syoqXJ3JSe",
@@ -180,6 +234,9 @@
         "tags": " chinese-in-steps-1 lesson-3 "
     },
     {
+        "audio-begin": 84625,
+        "audio-end": 85250,
+        "audio-file": "Lesson 03-1.mp3",
         "chinese": "都",
         "cid": 1579023163359,
         "guid": "KIl4uh3xQd",
@@ -190,6 +247,9 @@
         "tags": " chinese-in-steps-1 lesson-3 "
     },
     {
+        "audio-begin": 87125,
+        "audio-end": 87750,
+        "audio-file": "Lesson 03-1.mp3",
         "chinese": "就",
         "cid": 1579023163361,
         "guid": "6F9wF9/1T8",
@@ -200,6 +260,9 @@
         "tags": " chinese-in-steps-1 lesson-3 "
     },
     {
+        "audio-begin": 91500,
+        "audio-end": 92500,
+        "audio-file": "Lesson 03-1.mp3",
         "chinese": "谁",
         "cid": 1579023163363,
         "guid": "P9oBdKGFTs",
@@ -210,6 +273,9 @@
         "tags": " chinese-in-steps-1 lesson-3 "
     },
     {
+        "audio-begin": 94250,
+        "audio-end": 95250,
+        "audio-file": "Lesson 03-1.mp3",
         "chinese": "哪",
         "cid": 1579023163365,
         "guid": "0PO/iY4LRY",
