@@ -456,11 +456,11 @@
         "chinese": "钱",
         "cid": 1578952316324,
         "guid": "o3rAIgZ+TG",
-        "meaning": "Qian (a surname)",
+        "meaning": "Qian (a surname); money",
         "nid": 1578952316325,
         "part-of-speech": "noun",
-        "pinyin": "Qián",
-        "tags": " chinese-in-steps-1 lesson-2 additional-vocabulary "
+        "pinyin": "qián",
+        "tags": " chinese-in-steps-1 lesson-2 additional-vocabulary chinese-in-steps-2 lesson-12 "
     },
     {
         "audio-begin": 18750,
@@ -469,11 +469,11 @@
         "chinese": "张",
         "cid": 1578952316326,
         "guid": "ifJMupC2TA",
-        "meaning": "Zhang (a surname)",
+        "meaning": "Zhang (a surname)； measure word for paper, postcards, CDs, etc.",
         "nid": 1578952316327,
-        "part-of-speech": "noun",
-        "pinyin": "Zhāng",
-        "tags": " chinese-in-steps-1 lesson-2 additional-vocabulary chinese-in-steps-2 lesson-11 "
+        "part-of-speech": "noun/measure word",
+        "pinyin": "zhāng",
+        "tags": " chinese-in-steps-1 lesson-2 additional-vocabulary chinese-in-steps-2 lesson-11 lesson-12 "
     },
     {
         "audio-begin": 21250,

@@ -32,11 +32,11 @@
         "chinese": "那",
         "cid": 1579023163327,
         "guid": "kTpAfAkuSn",
-        "meaning": "that",
+        "meaning": "that; in that case; then",
         "nid": 1579023163328,
-        "part-of-speech": "pronoun",
+        "part-of-speech": "pronoun/conjunction",
         "pinyin": "nà/nèi",
-        "tags": " chinese-in-steps-1 lesson-3 "
+        "tags": " chinese-in-steps-1 lesson-3 chinese-in-steps-2 lesson-12 "
     },
     {
         "audio-begin": 41875,
@@ -426,7 +426,7 @@
         "nid": 1579023163388,
         "part-of-speech": "noun",
         "pinyin": "lǜshī",
-        "tags": " chinese-in-steps-1 lesson-3 additional-vocabulary lesson-7 "
+        "tags": " chinese-in-steps-1 lesson-3 additional-vocabulary lesson-8 "
     },
     {
         "audio-begin": 43000,
