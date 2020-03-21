@@ -1,7 +1,7 @@
 [
     {
-        "audio-begin": 17000,
-        "audio-end": 18000,
+        "audio-begin": 17050,
+        "audio-end": 17825,
         "audio-file": "第11课-1.mp3",
         "chinese": "请",
         "cid": 1583688522418,
@@ -13,8 +13,8 @@
         "tags": " chinese-in-steps-2 lesson-11 "
     },
     {
-        "audio-begin": 20000,
-        "audio-end": 20600,
+        "audio-begin": 20075,
+        "audio-end": 20575,
         "audio-file": "第11课-1.mp3",
         "chinese": "问",
         "cid": 1583688522420,
@@ -26,8 +26,8 @@
         "tags": " chinese-in-steps-2 lesson-11 "
     },
     {
-        "audio-begin": 22700,
-        "audio-end": 23200,
+        "audio-begin": 22725,
+        "audio-end": 23175,
         "audio-file": "第11课-1.mp3",
         "chinese": "在",
         "cid": 1583688522422,
@@ -39,8 +39,8 @@
         "tags": " chinese-in-steps-2 lesson-11 "
     },
     {
-        "audio-begin": 25400,
-        "audio-end": 26400,
+        "audio-begin": 25450,
+        "audio-end": 26350,
         "audio-file": "第11课-1.mp3",
         "chinese": "旁边",
         "cid": 1583688522424,
@@ -52,8 +52,8 @@
         "tags": " chinese-in-steps-2 lesson-11 "
     },
     {
-        "audio-begin": 28400,
-        "audio-end": 29400,
+        "audio-begin": 28475,
+        "audio-end": 29225,
         "audio-file": "第11课-1.mp3",
         "chinese": "北边",
         "cid": 1583688522426,
@@ -65,7 +65,7 @@
         "tags": " chinese-in-steps-2 lesson-11 "
     },
     {
-        "audio-begin": 31400,
+        "audio-begin": 31425,
         "audio-end": 32500,
         "audio-file": "第11课-1.mp3",
         "chinese": "东北边",
@@ -78,8 +78,8 @@
         "tags": " chinese-in-steps-2 lesson-11 "
     },
     {
-        "audio-begin": 34700,
-        "audio-end": 35600,
+        "audio-begin": 34750,
+        "audio-end": 35550,
         "audio-file": "第11课-1.mp3",
         "chinese": "南面",
         "cid": 1583688522430,
@@ -92,7 +92,7 @@
     },
     {
         "audio-begin": 37900,
-        "audio-end": 39000,
+        "audio-end": 38975,
         "audio-file": "第11课-1.mp3",
         "chinese": "西南面",
         "cid": 1583688522432,
@@ -104,8 +104,8 @@
         "tags": " chinese-in-steps-2 lesson-11 "
     },
     {
-        "audio-begin": 41150,
-        "audio-end": 42100,
+        "audio-begin": 41200,
+        "audio-end": 42050,
         "audio-file": "第11课-1.mp3",
         "chinese": "前头",
         "cid": 1583688522434,
@@ -117,8 +117,8 @@
         "tags": " chinese-in-steps-2 lesson-11 "
     },
     {
-        "audio-begin": 44150,
-        "audio-end": 45000,
+        "audio-begin": 44200,
+        "audio-end": 44950,
         "audio-file": "第11课-1.mp3",
         "chinese": "后面",
         "cid": 1583688522436,
@@ -130,7 +130,7 @@
         "tags": " chinese-in-steps-2 lesson-11 "
     },
     {
-        "audio-begin": 47200,
+        "audio-begin": 47250,
         "audio-end": 48000,
         "audio-file": "第11课-1.mp3",
         "chinese": "左面",
@@ -144,7 +144,7 @@
     },
     {
         "audio-begin": 50200,
-        "audio-end": 51000,
+        "audio-end": 50975,
         "audio-file": "第11课-1.mp3",
         "chinese": "右面",
         "cid": 1583688522440,
@@ -156,7 +156,7 @@
         "tags": " chinese-in-steps-2 lesson-11 "
     },
     {
-        "audio-begin": 53000,
+        "audio-begin": 53025,
         "audio-end": 53900,
         "audio-file": "第11课-1.mp3",
         "chinese": "中间",
@@ -170,7 +170,7 @@
     },
     {
         "audio-begin": 56100,
-        "audio-end": 56850,
+        "audio-end": 56825,
         "audio-file": "第11课-1.mp3",
         "chinese": "外面",
         "cid": 1583688522444,
@@ -195,8 +195,8 @@
         "tags": " chinese-in-steps-2 lesson-11 "
     },
     {
-        "audio-begin": 62000,
-        "audio-end": 62750,
+        "audio-begin": 62025,
+        "audio-end": 62725,
         "audio-file": "第11课-1.mp3",
         "chinese": "对面",
         "cid": 1583688522448,
@@ -208,8 +208,8 @@
         "tags": " chinese-in-steps-2 lesson-11 "
     },
     {
-        "audio-begin": 64900,
-        "audio-end": 65800,
+        "audio-begin": 64925,
+        "audio-end": 65750,
         "audio-file": "第11课-1.mp3",
         "chinese": "银行",
         "cid": 1583688522450,
@@ -221,7 +221,7 @@
         "tags": " chinese-in-steps-2 lesson-11 "
     },
     {
-        "audio-begin": 67950,
+        "audio-begin": 67975,
         "audio-end": 68750,
         "audio-file": "第11课-1.mp3",
         "chinese": "公园",
@@ -235,7 +235,7 @@
     },
     {
         "audio-begin": 71050,
-        "audio-end": 72000,
+        "audio-end": 71950,
         "audio-file": "第11课-1.mp3",
         "chinese": "火车站",
         "cid": 1583688522454,
@@ -247,8 +247,8 @@
         "tags": " chinese-in-steps-2 lesson-11 "
     },
     {
-        "audio-begin": 74200,
-        "audio-end": 75300,
+        "audio-begin": 74225,
+        "audio-end": 75275,
         "audio-file": "第11课-1.mp3",
         "chinese": "大使馆",
         "cid": 1583688522456,
@@ -260,7 +260,7 @@
         "tags": " chinese-in-steps-2 lesson-11 "
     },
     {
-        "audio-begin": 77400,
+        "audio-begin": 77450,
         "audio-end": 78200,
         "audio-file": "第11课-1.mp3",
         "chinese": "书店",
@@ -274,7 +274,7 @@
     },
     {
         "audio-begin": 83500,
-        "audio-end": 85000,
+        "audio-end": 84950,
         "audio-file": "第11课-1.mp3",
         "chinese": "国王十字",
         "cid": 1583688522460,
@@ -286,8 +286,8 @@
         "tags": " chinese-in-steps-2 lesson-11 "
     },
     {
-        "audio-begin": 87400,
-        "audio-end": 89900,
+        "audio-begin": 87450,
+        "audio-end": 88875,
         "audio-file": "第11课-1.mp3",
         "chinese": "亚非学院",
         "cid": 1583688522462,
@@ -299,8 +299,8 @@
         "tags": " chinese-in-steps-2 lesson-11 "
     },
     {
-        "audio-begin": 90900,
-        "audio-end": 92750,
+        "audio-begin": 90950,
+        "audio-end": 92725,
         "audio-file": "第11课-1.mp3",
         "chinese": "大英图书馆",
         "cid": 1583688522464,
@@ -312,7 +312,7 @@
         "tags": " chinese-in-steps-2 lesson-11 "
     },
     {
-        "audio-begin": 10550,
+        "audio-begin": 10575,
         "audio-end": 11300,
         "audio-file": "第11课-3.mp3",
         "chinese": "网吧",
@@ -325,7 +325,7 @@
         "tags": " chinese-in-steps-2 lesson-11 additional-vocabulary "
     },
     {
-        "audio-begin": 13500,
+        "audio-begin": 13525,
         "audio-end": 14400,
         "audio-file": "第11课-3.mp3",
         "chinese": "厕所",
@@ -338,7 +338,7 @@
         "tags": " chinese-in-steps-2 lesson-11 additional-vocabulary "
     },
     {
-        "audio-begin": 16600,
+        "audio-begin": 16650,
         "audio-end": 17400,
         "audio-file": "第11课-3.mp3",
         "chinese": "电梯",
@@ -351,7 +351,7 @@
         "tags": " chinese-in-steps-2 lesson-11 additional-vocabulary "
     },
     {
-        "audio-begin": 19500,
+        "audio-begin": 19575,
         "audio-end": 20400,
         "audio-file": "第11课-3.mp3",
         "chinese": "餐厅",
@@ -364,7 +364,7 @@
         "tags": " chinese-in-steps-2 lesson-11 additional-vocabulary lesson-13 "
     },
     {
-        "audio-begin": 22550,
+        "audio-begin": 22575,
         "audio-end": 23400,
         "audio-file": "第11课-3.mp3",
         "chinese": "学校",
@@ -377,7 +377,7 @@
         "tags": " chinese-in-steps-2 lesson-11 additional-vocabulary lesson-13 "
     },
     {
-        "audio-begin": 25550,
+        "audio-begin": 25575,
         "audio-end": 26450,
         "audio-file": "第11课-3.mp3",
         "chinese": "邮局",
@@ -390,7 +390,7 @@
         "tags": " chinese-in-steps-2 lesson-11 additional-vocabulary "
     },
     {
-        "audio-begin": 28600,
+        "audio-begin": 28625,
         "audio-end": 29750,
         "audio-file": "第11课-3.mp3",
         "chinese": "健身房",
@@ -403,7 +403,7 @@
         "tags": " chinese-in-steps-2 lesson-11 additional-vocabulary "
     },
     {
-        "audio-begin": 32000,
+        "audio-begin": 32025,
         "audio-end": 33100,
         "audio-file": "第11课-3.mp3",
         "chinese": "游泳池",
@@ -429,7 +429,7 @@
         "tags": " chinese-in-steps-2 lesson-11 additional-vocabulary "
     },
     {
-        "audio-begin": 38550,
+        "audio-begin": 38575,
         "audio-end": 39250,
         "audio-file": "第11课-3.mp3",
         "chinese": "花店",
@@ -442,8 +442,8 @@
         "tags": " chinese-in-steps-2 lesson-11 additional-vocabulary "
     },
     {
-        "audio-begin": 41500,
-        "audio-end": 42550,
+        "audio-begin": 41525,
+        "audio-end": 42500,
         "audio-file": "第11课-3.mp3",
         "chinese": "快餐店",
         "cid": 1583688522486,
@@ -455,7 +455,7 @@
         "tags": " chinese-in-steps-2 lesson-11 additional-vocabulary "
     },
     {
-        "audio-begin": 44650,
+        "audio-begin": 44700,
         "audio-end": 45350,
         "audio-file": "第11课-3.mp3",
         "chinese": "饭店",
