@@ -248,7 +248,7 @@
     },
     {
         "audio-begin": 74753,
-        "audio-end": 75542,
+        "audio-end": 75035,
         "audio-file": "第19课-1.mp3",
         "chinese": "各",
         "cid": 1584908957881,
@@ -260,8 +260,8 @@
         "tags": " chinese-in-steps-2 lesson-19 "
     },
     {
-        "audio-begin": 0,
-        "audio-end": 0,
+        "audio-begin": 75035,
+        "audio-end": 75542,
         "audio-file": "第19课-1.mp3",
         "chinese": "种",
         "cid": 1584908957883,
@@ -270,6 +270,16 @@
         "nid": 1584908957884,
         "part-of-speech": "measure word",
         "pinyin": "zhǒng",
+        "tags": " chinese-in-steps-2 lesson-19 "
+    },
+    {
+        "audio-begin": 74753,
+        "audio-end": 75542,
+        "audio-file": "第19课-1.mp3",
+        "chinese": "各种",
+        "meaning": "a variety of, all sorts of, all kinds of, a number of, every",
+        "part-of-speech": "noun",
+        "pinyin": "gèzhǒng",
         "tags": " chinese-in-steps-2 lesson-19 "
     },
     {
@@ -292,7 +302,7 @@
         "chinese": "又",
         "cid": 1584908957887,
         "guid": "tAiInlzPS2",
-        "meaning": "adain, once more",
+        "meaning": "again, once more",
         "nid": 1584908957888,
         "part-of-speech": "conjunction/adverb",
         "pinyin": "yòu",
@@ -331,7 +341,7 @@
         "chinese": "跨国公司",
         "cid": 1584908957893,
         "guid": "6hpYBGcvQ8",
-        "meaning": "",
+        "meaning": "multinational firm",
         "nid": 1584908957894,
         "part-of-speech": "",
         "pinyin": "kuàguó gōngsī",
