@@ -1,0 +1,272 @@
+[
+    {
+        "chinese": "抱歉",
+        "cid": 1600608856048,
+        "guid": "wTSWlHORRO",
+        "meaning": "be sorry",
+        "nid": 1600608856049,
+        "part-of-speech": "verb",
+        "pinyin": "bàoqiàn",
+        "tags": " chinese-in-steps-3 lesson-21 "
+    },
+    {
+        "chinese": "声音",
+        "cid": 1600608856050,
+        "guid": "RfpPR/KJTG",
+        "meaning": "voice",
+        "nid": 1600608856051,
+        "part-of-speech": "noun",
+        "pinyin": "shēngyīn",
+        "tags": " chinese-in-steps-3 lesson-21 "
+    },
+    {
+        "chinese": "住",
+        "cid": 1600608856052,
+        "guid": "Wn7Xjdv0S4",
+        "meaning": "live, stay; stop",
+        "nid": 1600608856053,
+        "part-of-speech": "verb",
+        "pinyin": "zhù",
+        "tags": " chinese-in-steps-3 lesson-21 "
+    },
+    {
+        "chinese": "爬",
+        "cid": 1600608856054,
+        "guid": "PcFYEcECSC",
+        "meaning": "climb",
+        "nid": 1600608856055,
+        "part-of-speech": "verb",
+        "pinyin": "pá",
+        "tags": " chinese-in-steps-3 lesson-21 "
+    },
+    {
+        "chinese": "带",
+        "cid": 1600608856056,
+        "guid": "fJXt0dQNSn",
+        "meaning": "carry; ribbon, belt",
+        "nid": 1600608856057,
+        "part-of-speech": "verb/noun",
+        "pinyin": "dài",
+        "tags": " chinese-in-steps-3 lesson-21 "
+    },
+    {
+        "chinese": "麻烦",
+        "cid": 1600608856058,
+        "guid": "ttZPEqMKSJ",
+        "meaning": "troublesome",
+        "nid": 1600608856059,
+        "part-of-speech": "adjective",
+        "pinyin": "máfan",
+        "tags": " chinese-in-steps-3 lesson-21 "
+    },
+    {
+        "chinese": "成",
+        "cid": 1600608856060,
+        "guid": "v6oRn+7/S4",
+        "meaning": "become",
+        "nid": 1600608856061,
+        "part-of-speech": "verb",
+        "pinyin": "chéng",
+        "tags": " chinese-in-steps-3 lesson-21 "
+    },
+    {
+        "chinese": "留言",
+        "cid": 1600608856062,
+        "guid": "r5ryuauNTn",
+        "meaning": "leave a message; message",
+        "nid": 1600608856063,
+        "part-of-speech": "verb-object/noun",
+        "pinyin": "liúyán",
+        "tags": " chinese-in-steps-3 lesson-21 "
+    },
+    {
+        "chinese": "搬",
+        "cid": 1600608856064,
+        "guid": "+YnCInsZRX",
+        "meaning": "move",
+        "nid": 1600608856065,
+        "part-of-speech": "verb",
+        "pinyin": "bān",
+        "tags": " chinese-in-steps-3 lesson-21 "
+    },
+    {
+        "chinese": "参加",
+        "cid": 1600608856066,
+        "guid": "YorPWt/0QW",
+        "meaning": "attend, take part in",
+        "nid": 1600608856067,
+        "part-of-speech": "verb",
+        "pinyin": "cānjiā",
+        "tags": " chinese-in-steps-3 lesson-21 "
+    },
+    {
+        "chinese": "结婚",
+        "cid": 1600608856068,
+        "guid": "Ws55nH2FSm",
+        "meaning": "marry",
+        "nid": 1600608856069,
+        "part-of-speech": "verb",
+        "pinyin": "jiéhūn",
+        "tags": " chinese-in-steps-3 lesson-21 "
+    },
+    {
+        "chinese": "有空儿",
+        "cid": 1600608856070,
+        "guid": "Ut90amuARl",
+        "meaning": "have free time",
+        "nid": 1600608856071,
+        "part-of-speech": "verb-object",
+        "pinyin": "yǒukòngr",
+        "tags": " chinese-in-steps-3 lesson-21 "
+    },
+    {
+        "chinese": "帮忙",
+        "cid": 1600608856072,
+        "guid": "AuF/WpXxTB",
+        "meaning": "help, give help",
+        "nid": 1600608856073,
+        "part-of-speech": "verb-object",
+        "pinyin": "bāngmáng",
+        "tags": " chinese-in-steps-3 lesson-21 "
+    },
+    {
+        "chinese": "楼梯",
+        "cid": 1600608856074,
+        "guid": "jtgoCuqGQj",
+        "meaning": "stairs",
+        "nid": 1600608856075,
+        "part-of-speech": "noun",
+        "pinyin": "lǒutī",
+        "tags": " chinese-in-steps-3 lesson-21 "
+    },
+    {
+        "chinese": "行李",
+        "cid": 1600608856076,
+        "guid": "VpuEiLWESI",
+        "meaning": "luggage",
+        "nid": 1600608856077,
+        "part-of-speech": "noun",
+        "pinyin": "xíngli",
+        "tags": " chinese-in-steps-3 lesson-21 "
+    },
+    {
+        "chinese": "白天",
+        "cid": 1600608856078,
+        "guid": "zcGTEVsJQz",
+        "meaning": "daytime",
+        "nid": 1600608856079,
+        "part-of-speech": "noun",
+        "pinyin": "báitiān",
+        "tags": " chinese-in-steps-3 lesson-21 "
+    },
+    {
+        "chinese": "酒吧",
+        "cid": 1600608856080,
+        "guid": "uEtu8D1/RH",
+        "meaning": "pub, bar",
+        "nid": 1600608856081,
+        "part-of-speech": "noun",
+        "pinyin": "jiǔbā",
+        "tags": " chinese-in-steps-3 lesson-21 "
+    },
+    {
+        "chinese": "门口",
+        "cid": 1600608856082,
+        "guid": "FPtms+W2RT",
+        "meaning": "doorway, entrance",
+        "nid": 1600608856083,
+        "part-of-speech": "noun",
+        "pinyin": "ménkǒu",
+        "tags": " chinese-in-steps-3 lesson-21 "
+    },
+    {
+        "chinese": "一会儿",
+        "cid": 1600608856084,
+        "guid": "ZvrTCFEsQa",
+        "meaning": "a little while",
+        "nid": 1600608856085,
+        "part-of-speech": "noun",
+        "pinyin": "yīhuǐr",
+        "tags": " chinese-in-steps-3 lesson-21 "
+    },
+    {
+        "chinese": "租期",
+        "cid": 1600608856086,
+        "guid": "BNRyGOqqTP",
+        "meaning": "lease period",
+        "nid": 1600608856087,
+        "part-of-speech": "noun",
+        "pinyin": "zūqī",
+        "tags": " chinese-in-steps-3 lesson-21 "
+    },
+    {
+        "chinese": "房东",
+        "cid": 1600608856088,
+        "guid": "CQ2trx05TM",
+        "meaning": "landlord",
+        "nid": 1600608856089,
+        "part-of-speech": "noun",
+        "pinyin": "fángdōng",
+        "tags": " chinese-in-steps-3 lesson-21 "
+    },
+    {
+        "chinese": "德比",
+        "cid": 1600608856090,
+        "guid": "b0BoOcT5RN",
+        "meaning": "Derby",
+        "nid": 1600608856091,
+        "part-of-speech": "proper noun",
+        "pinyin": "débǐ",
+        "tags": " chinese-in-steps-3 lesson-21 "
+    },
+    {
+        "chinese": "婚礼",
+        "cid": 1600608856092,
+        "guid": "gp5tYms2QI",
+        "meaning": "wedding",
+        "nid": 1600608856093,
+        "part-of-speech": "noun",
+        "pinyin": "hūnlǐ",
+        "tags": " chinese-in-steps-3 lesson-21 "
+    },
+    {
+        "chinese": "位",
+        "cid": 1600608856094,
+        "guid": "xKuTnUxbQG",
+        "meaning": "for persons (polite form)",
+        "nid": 1600608856095,
+        "part-of-speech": "measure word",
+        "pinyin": "wèi",
+        "tags": " chinese-in-steps-3 lesson-21 "
+    },
+    {
+        "chinese": "趟",
+        "cid": 1600608856096,
+        "guid": "JVIKFJYeTK",
+        "meaning": "for the number of trips or runs made",
+        "nid": 1600608856097,
+        "part-of-speech": "measure word",
+        "pinyin": "tàng",
+        "tags": " chinese-in-steps-3 lesson-21 "
+    },
+    {
+        "chinese": "喂",
+        "cid": 1600608856098,
+        "guid": "HZc1f+j+Qp",
+        "meaning": "hello, hey",
+        "nid": 1600608856099,
+        "part-of-speech": "interjection",
+        "pinyin": "wèi",
+        "tags": " chinese-in-steps-3 lesson-21 "
+    },
+    {
+        "chinese": "哎",
+        "cid": 1600608856100,
+        "guid": "AHydRS6oRh",
+        "meaning": "oh, hey",
+        "nid": 1600608856101,
+        "part-of-speech": "interjection",
+        "pinyin": "āi",
+        "tags": " chinese-in-steps-3 lesson-21 "
+    }
+]
