@@ -1,0 +1,272 @@
+[
+    {
+        "chinese": "画",
+        "cid": 1601827804400,
+        "guid": "dmDLuOMaTg",
+        "meaning": "paint, draw; painting",
+        "nid": 1601827804401,
+        "part-of-speech": "verb/noun",
+        "pinyin": "huà",
+        "tags": " chinese-in-steps-3 lesson-22 "
+    },
+    {
+        "chinese": "完",
+        "cid": 1601827804402,
+        "guid": "lD6feJaERw",
+        "meaning": "finish",
+        "nid": 1601827804403,
+        "part-of-speech": "verb",
+        "pinyin": "wán",
+        "tags": " chinese-in-steps-3 lesson-22 "
+    },
+    {
+        "chinese": "拿",
+        "cid": 1601827804404,
+        "guid": "wiREfYQGRH",
+        "meaning": "take",
+        "nid": 1601827804405,
+        "part-of-speech": "verb",
+        "pinyin": "ná",
+        "tags": " chinese-in-steps-3 lesson-22 "
+    },
+    {
+        "chinese": "请客",
+        "cid": 1601827804406,
+        "guid": "t0aQ4d1hT+",
+        "meaning": "stand treat",
+        "nid": 1601827804407,
+        "part-of-speech": "verb-object",
+        "pinyin": "qǐngkè",
+        "tags": " chinese-in-steps-3 lesson-22 "
+    },
+    {
+        "chinese": "觉得",
+        "cid": 1601827804408,
+        "guid": "hu4UFlB9RF",
+        "meaning": "feel, think",
+        "nid": 1601827804409,
+        "part-of-speech": "verb",
+        "pinyin": "juédé",
+        "tags": " chinese-in-steps-3 lesson-22 "
+    },
+    {
+        "chinese": "记",
+        "cid": 1601827804410,
+        "guid": "AuaAxPiRQU",
+        "meaning": "remember; write down",
+        "nid": 1601827804411,
+        "part-of-speech": "verb",
+        "pinyin": "jì",
+        "tags": " chinese-in-steps-3 lesson-22 "
+    },
+    {
+        "chinese": "寄",
+        "cid": 1601827804412,
+        "guid": "rPsT6U/mQy",
+        "meaning": "post, mail",
+        "nid": 1601827804413,
+        "part-of-speech": "verb",
+        "pinyin": "jì",
+        "tags": " chinese-in-steps-3 lesson-22 "
+    },
+    {
+        "chinese": "明白",
+        "cid": 1601827804414,
+        "guid": "Xcj3VQcJTI",
+        "meaning": "understand",
+        "nid": 1601827804415,
+        "part-of-speech": "verb/adjective",
+        "pinyin": "míngbai",
+        "tags": " chinese-in-steps-3 lesson-22 "
+    },
+    {
+        "chinese": "慢",
+        "cid": 1601827804416,
+        "guid": "Vr6qHOLIRm",
+        "meaning": "slow; slowly",
+        "nid": 1601827804417,
+        "part-of-speech": "adjective/adverb",
+        "pinyin": "màn",
+        "tags": " chinese-in-steps-3 lesson-22 "
+    },
+    {
+        "chinese": "深",
+        "cid": 1601827804418,
+        "guid": "kSpEX1l7Tk",
+        "meaning": "deep",
+        "nid": 1601827804419,
+        "part-of-speech": "adjective",
+        "pinyin": "shēn",
+        "tags": " chinese-in-steps-3 lesson-22 "
+    },
+    {
+        "chinese": "清楚",
+        "cid": 1601827804420,
+        "guid": "IM8XZ8CqTM",
+        "meaning": "clear",
+        "nid": 1601827804421,
+        "part-of-speech": "adjective",
+        "pinyin": "qīngchǔ",
+        "tags": " chinese-in-steps-3 lesson-22 "
+    },
+    {
+        "chinese": "仔细",
+        "cid": 1601827804422,
+        "guid": "dgQXoxRfRL",
+        "meaning": "careful",
+        "nid": 1601827804423,
+        "part-of-speech": "adjective",
+        "pinyin": "zǐxì",
+        "tags": " chinese-in-steps-3 lesson-22 "
+    },
+    {
+        "chinese": "难",
+        "cid": 1601827804424,
+        "guid": "QHqfOJFURp",
+        "meaning": "difficult",
+        "nid": 1601827804425,
+        "part-of-speech": "adjective",
+        "pinyin": "nán",
+        "tags": " chinese-in-steps-3 lesson-22 "
+    },
+    {
+        "chinese": "画儿",
+        "cid": 1601827804426,
+        "guid": "x+ZzNN5BQM",
+        "meaning": "picture, drawing",
+        "nid": 1601827804427,
+        "part-of-speech": "noun",
+        "pinyin": "huàr",
+        "tags": " chinese-in-steps-3 lesson-22 "
+    },
+    {
+        "chinese": "报纸",
+        "cid": 1601827804428,
+        "guid": "+U2jm1SXQ/",
+        "meaning": "newspaper",
+        "nid": 1601827804429,
+        "part-of-speech": "noun",
+        "pinyin": "bàozhǐ",
+        "tags": " chinese-in-steps-3 lesson-22 "
+    },
+    {
+        "chinese": "学问",
+        "cid": 1601827804430,
+        "guid": "Hp49DvzjSk",
+        "meaning": "knowledge",
+        "nid": 1601827804431,
+        "part-of-speech": "noun",
+        "pinyin": "xuéwèn",
+        "tags": " chinese-in-steps-3 lesson-22 "
+    },
+    {
+        "chinese": "现代派",
+        "cid": 1601827804432,
+        "guid": "QidGSs00QA",
+        "meaning": "modernism",
+        "nid": 1601827804433,
+        "part-of-speech": "noun",
+        "pinyin": "xiàndàipài",
+        "tags": " chinese-in-steps-3 lesson-22 "
+    },
+    {
+        "chinese": "听力",
+        "cid": 1601827804434,
+        "guid": "oT0m9DltSw",
+        "meaning": "hearing",
+        "nid": 1601827804435,
+        "part-of-speech": "noun",
+        "pinyin": "tīnglì",
+        "tags": " chinese-in-steps-3 lesson-22 "
+    },
+    {
+        "chinese": "录音",
+        "cid": 1601827804436,
+        "guid": "ZSH0PEd3Tq",
+        "meaning": "recording; record",
+        "nid": 1601827804437,
+        "part-of-speech": "noun/verb-object",
+        "pinyin": "lùyīn",
+        "tags": " chinese-in-steps-3 lesson-22 "
+    },
+    {
+        "chinese": "加拿大",
+        "cid": 1601827804438,
+        "guid": "2iiKng7mS7",
+        "meaning": "Canada",
+        "nid": 1601827804439,
+        "part-of-speech": "proper noun",
+        "pinyin": "jiānádà",
+        "tags": " chinese-in-steps-3 lesson-22 "
+    },
+    {
+        "chinese": "连",
+        "cid": 1601827804440,
+        "guid": "uG43v37vRj",
+        "meaning": "even",
+        "nid": 1601827804441,
+        "part-of-speech": "adverb",
+        "pinyin": "lián",
+        "tags": " chinese-in-steps-3 lesson-22 "
+    },
+    {
+        "chinese": "倒",
+        "cid": 1601827804442,
+        "guid": "5vT4+Lu0SM",
+        "meaning": "indicating contrast; contrary to one's expectation",
+        "nid": 1601827804443,
+        "part-of-speech": "adverb",
+        "pinyin": "dào",
+        "tags": " chinese-in-steps-3 lesson-22 "
+    },
+    {
+        "chinese": "地",
+        "cid": 1601827804444,
+        "guid": "vHENtDfIS3",
+        "meaning": "adverbial marker",
+        "nid": 1601827804445,
+        "part-of-speech": "particle",
+        "pinyin": "de",
+        "tags": " chinese-in-steps-3 lesson-22 "
+    },
+    {
+        "chinese": "要是......（的话）",
+        "cid": 1601827804446,
+        "guid": "wZRIZw/STS",
+        "meaning": "if",
+        "nid": 1601827804447,
+        "part-of-speech": "conjunction",
+        "pinyin": "yàoshi (dehuà)",
+        "tags": " chinese-in-steps-3 lesson-22 "
+    },
+    {
+        "chinese": "一言为定",
+        "cid": 1601827804448,
+        "guid": "MTT3hQYFTE",
+        "meaning": "that's settled",
+        "nid": 1601827804449,
+        "part-of-speech": "",
+        "pinyin": "yī yán wéi dìng",
+        "tags": " chinese-in-steps-3 lesson-22 "
+    },
+    {
+        "chinese": "订购",
+        "cid": 1601827804450,
+        "guid": "PdAn4f6lS1",
+        "meaning": "order",
+        "nid": 1601827804451,
+        "part-of-speech": "verb",
+        "pinyin": "dìnggòu",
+        "tags": " chinese-in-steps-3 lesson-22 "
+    },
+    {
+        "chinese": "方便",
+        "cid": 1601827804452,
+        "guid": "7xhHzCwsTb",
+        "meaning": "convenient",
+        "nid": 1601827804453,
+        "part-of-speech": "adjective",
+        "pinyin": "fāngbiàn",
+        "tags": " chinese-in-steps-3 lesson-22 "
+    }
+]
