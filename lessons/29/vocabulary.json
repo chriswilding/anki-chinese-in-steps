@@ -1,0 +1,198 @@
+[
+    {
+        "chinese": "吵",
+        "meaning": "make a noise; argue",
+        "part-of-speech": "verb",
+        "pinyin": "chǎo",
+        "tags": " chinese-in-steps-3 lesson-29 "
+    },
+    {
+        "chinese": "讨厌",
+        "meaning": "detest; disagreeable",
+        "part-of-speech": "verb/adjective",
+        "pinyin": "tǎoyàn",
+        "tags": " chinese-in-steps-3 lesson-29 "
+    },
+    {
+        "chinese": "求",
+        "meaning": "plead",
+        "part-of-speech": "verb",
+        "pinyin": "qiú",
+        "tags": " chinese-in-steps-3 lesson-29 "
+    },
+    {
+        "chinese": "打扫",
+        "meaning": "sweep, clean",
+        "part-of-speech": "verb",
+        "pinyin": "dǎsǎo",
+        "tags": " chinese-in-steps-3 lesson-29 "
+    },
+    {
+        "chinese": "登记",
+        "meaning": "check in; register",
+        "part-of-speech": "verb",
+        "pinyin": "dēngjì",
+        "tags": " chinese-in-steps-3 lesson-29 "
+    },
+    {
+        "chinese": "填",
+        "meaning": "fill in (a form)",
+        "part-of-speech": "verb",
+        "pinyin": "tián",
+        "tags": " chinese-in-steps-3 lesson-29 "
+    },
+    {
+        "chinese": "包括",
+        "meaning": "include",
+        "part-of-speech": "verb",
+        "pinyin": "bāokuò",
+        "tags": " chinese-in-steps-3 lesson-29 "
+    },
+    {
+        "chinese": "付",
+        "meaning": "pay",
+        "part-of-speech": "verb",
+        "pinyin": "fù",
+        "tags": " chinese-in-steps-3 lesson-29 "
+    },
+    {
+        "chinese": "要求",
+        "meaning": "ask, demand",
+        "part-of-speech": "verb",
+        "pinyin": "yāoqiú",
+        "tags": " chinese-in-steps-3 lesson-29 "
+    },
+    {
+        "chinese": "装病",
+        "meaning": "pretend to be ill",
+        "part-of-speech": "verb-object",
+        "pinyin": "zhuāngbìng",
+        "tags": " chinese-in-steps-3 lesson-29 "
+    },
+    {
+        "chinese": "生气",
+        "meaning": "get angry",
+        "part-of-speech": "verb",
+        "pinyin": "shēngqì",
+        "tags": " chinese-in-steps-3 lesson-29 "
+    },
+    {
+        "chinese": "容易",
+        "meaning": "easy",
+        "part-of-speech": "adjective",
+        "pinyin": "róngyì",
+        "tags": " chinese-in-steps-3 lesson-29 "
+    },
+    {
+        "chinese": "登记表",
+        "meaning": "registration form",
+        "part-of-speech": "noun",
+        "pinyin": "dēngjìbiǎo",
+        "tags": " chinese-in-steps-3 lesson-29 "
+    },
+    {
+        "chinese": "护照",
+        "meaning": "passport",
+        "part-of-speech": "noun",
+        "pinyin": "hùzhào",
+        "tags": " chinese-in-steps-3 lesson-29 "
+    },
+    {
+        "chinese": "懒觉",
+        "meaning": "a late rise",
+        "part-of-speech": "noun",
+        "pinyin": "lǎnjiào",
+        "tags": " chinese-in-steps-3 lesson-29 "
+    },
+    {
+        "chinese": "周末",
+        "meaning": "weekend",
+        "part-of-speech": "noun",
+        "pinyin": "zhōumò",
+        "tags": " chinese-in-steps-3 lesson-29 "
+    },
+    {
+        "chinese": "厨房",
+        "meaning": "kitchen",
+        "part-of-speech": "noun",
+        "pinyin": "chúfáng",
+        "tags": " chinese-in-steps-3 lesson-29 "
+    },
+    {
+        "chinese": "卧室",
+        "meaning": "bedroom",
+        "part-of-speech": "noun",
+        "pinyin": "wòshì",
+        "tags": " chinese-in-steps-3 lesson-29 "
+    },
+    {
+        "chinese": "坏蛋",
+        "meaning": "bad egg, baddie",
+        "part-of-speech": "noun",
+        "pinyin": "huàidàn",
+        "tags": " chinese-in-steps-3 lesson-29 "
+    },
+    {
+        "chinese": "点子",
+        "meaning": "idea",
+        "part-of-speech": "noun",
+        "pinyin": "diǎnzi",
+        "tags": " chinese-in-steps-3 lesson-29 "
+    },
+    {
+        "chinese": "双人间",
+        "meaning": "double room",
+        "part-of-speech": "noun",
+        "pinyin": "shuāngrénjiān",
+        "tags": " chinese-in-steps-3 lesson-29 "
+    },
+    {
+        "chinese": "国籍",
+        "meaning": "nationality",
+        "part-of-speech": "noun",
+        "pinyin": "guójí",
+        "tags": " chinese-in-steps-3 lesson-29 "
+    },
+    {
+        "chinese": "职业",
+        "meaning": "occupation",
+        "part-of-speech": "noun",
+        "pinyin": "zhíyè",
+        "tags": " chinese-in-steps-3 lesson-29 "
+    },
+    {
+        "chinese": "住宿费",
+        "meaning": "accomidation fee",
+        "part-of-speech": "noun",
+        "pinyin": "zhùsùfèi",
+        "tags": " chinese-in-steps-3 lesson-29 "
+    },
+    {
+        "chinese": "借口",
+        "meaning": "excuse",
+        "part-of-speech": "noun",
+        "pinyin": "jièkǒu",
+        "tags": " chinese-in-steps-3 lesson-29 "
+    },
+    {
+        "chinese": "主动",
+        "meaning": "initiative; voluntarily",
+        "part-of-speech": "adjective/adverb",
+        "pinyin": "zhǔdòng",
+        "tags": " chinese-in-steps-3 lesson-29 "
+    },
+    {
+        "chinese": "既然",
+        "meaning": "now that; since",
+        "part-of-speech": "conjunction",
+        "pinyin": "jìrán",
+        "tags": " chinese-in-steps-3 lesson-29 "
+    },
+    {
+        "chinese": "而已",
+        "meaning": "nothing but; just, only (used at the end of a phase)",
+        "part-of-speech": "particle",
+        "pinyin": "éryǐ",
+        "tags": " chinese-in-steps-3 lesson-29 "
+    }
+]

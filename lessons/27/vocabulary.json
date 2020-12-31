@@ -1,0 +1,191 @@
+[
+    {
+        "chinese": "把",
+        "meaning": "introducing the object before the verb",
+        "part-of-speech": "preposition",
+        "pinyin": "bǎ",
+        "tags": " chinese-in-steps-3 lesson-27 "
+    },
+    {
+        "chinese": "倒",
+        "meaning": "pour; empty, throw away",
+        "part-of-speech": "verb",
+        "pinyin": "dào",
+        "tags": " chinese-in-steps-3 lesson-27 "
+    },
+    {
+        "chinese": "响",
+        "meaning": "ring, loud",
+        "part-of-speech": "verb/adjective",
+        "pinyin": "xiǎng",
+        "tags": " chinese-in-steps-3 lesson-27 "
+    },
+    {
+        "chinese": "搞",
+        "meaning": "do, make; work out",
+        "part-of-speech": "verb",
+        "pinyin": "gǎo",
+        "tags": " chinese-in-steps-3 lesson-27 "
+    },
+    {
+        "chinese": "弄",
+        "meaning": "make",
+        "part-of-speech": "verb",
+        "pinyin": "nòng",
+        "tags": " chinese-in-steps-3 lesson-27 "
+    },
+    {
+        "chinese": "罚款",
+        "meaning": "impose a fine; fine",
+        "part-of-speech": "verb/noun",
+        "pinyin": "fákuǎn",
+        "tags": " chinese-in-steps-3 lesson-27 "
+    },
+    {
+        "chinese": "冰箱",
+        "meaning": "refrigerator; freezer",
+        "part-of-speech": "noun",
+        "pinyin": "bīngxiāng",
+        "tags": " chinese-in-steps-3 lesson-27 "
+    },
+    {
+        "chinese": "铃",
+        "meaning": "bell",
+        "part-of-speech": "noun",
+        "pinyin": "líng",
+        "tags": " chinese-in-steps-3 lesson-27 "
+    },
+    {
+        "chinese": "叔叔",
+        "meaning": "uncle (father's younger brother)",
+        "part-of-speech": "noun",
+        "pinyin": "shūshu",
+        "tags": " chinese-in-steps-3 lesson-27 "
+    },
+    {
+        "chinese": "婶婶",
+        "meaning": "aunt (wife of father's younger brother)",
+        "part-of-speech": "noun",
+        "pinyin": "shěnshen",
+        "tags": " chinese-in-steps-3 lesson-27 "
+    },
+    {
+        "chinese": "航班",
+        "meaning": "scheduled flight",
+        "part-of-speech": "noun",
+        "pinyin": "hángbān",
+        "tags": " chinese-in-steps-3 lesson-27 "
+    },
+    {
+        "chinese": "号码",
+        "meaning": "number",
+        "part-of-speech": "noun",
+        "pinyin": "hàomǎ",
+        "tags": " chinese-in-steps-3 lesson-27 "
+    },
+    {
+        "chinese": "猪脑子",
+        "meaning": "pea brain",
+        "part-of-speech": "noun",
+        "pinyin": "zhūnǎozi",
+        "tags": " chinese-in-steps-3 lesson-27 "
+    },
+    {
+        "chinese": "毛裤",
+        "meaning": "woolen underpants",
+        "part-of-speech": "noun",
+        "pinyin": "máokù",
+        "tags": " chinese-in-steps-3 lesson-27 "
+    },
+    {
+        "chinese": "海关",
+        "meaning": "noun",
+        "part-of-speech": "customs",
+        "pinyin": "hǎiguān",
+        "tags": " chinese-in-steps-3 lesson-27 "
+    },
+    {
+        "chinese": "点心",
+        "meaning": "refreshments; dim sum",
+        "part-of-speech": "noun",
+        "pinyin": "diǎnxīn",
+        "tags": " chinese-in-steps-3 lesson-27 "
+    },
+    {
+        "chinese": "手提包",
+        "meaning": "handbag",
+        "part-of-speech": "noun",
+        "pinyin": "shǒutíbāo",
+        "tags": " chinese-in-steps-3 lesson-27 "
+    },
+    {
+        "chinese": "真空",
+        "meaning": "vacuum",
+        "part-of-speech": "noun",
+        "pinyin": "zhēnkōng",
+        "tags": " chinese-in-steps-3 lesson-27 "
+    },
+    {
+        "chinese": "包装",
+        "meaning": "packing; package",
+        "part-of-speech": "noun/verb",
+        "pinyin": "bāozhuāng",
+        "tags": " chinese-in-steps-3 lesson-27 "
+    },
+    {
+        "chinese": "开头",
+        "meaning": "beginning; begin, start",
+        "part-of-speech": "noun/verb",
+        "pinyin": "kāitóu",
+        "tags": " chinese-in-steps-3 lesson-27 "
+    },
+    {
+        "chinese": "它",
+        "meaning": "it",
+        "part-of-speech": "pronoun",
+        "pinyin": "tā",
+        "tags": " chinese-in-steps-3 lesson-27 "
+    },
+    {
+        "chinese": "破",
+        "meaning": "broken",
+        "part-of-speech": "adjective",
+        "pinyin": "pò",
+        "tags": " chinese-in-steps-3 lesson-27 "
+    },
+    {
+        "chinese": "可惜",
+        "meaning": "pitiful",
+        "part-of-speech": "adjective",
+        "pinyin": "kěxí",
+        "tags": " chinese-in-steps-3 lesson-27 "
+    },
+    {
+        "chinese": "馋",
+        "meaning": "greedy for food, gluttonous",
+        "part-of-speech": "adjective",
+        "pinyin": "chán",
+        "tags": " chinese-in-steps-3 lesson-27 "
+    },
+    {
+        "chinese": "简直",
+        "meaning": "simple",
+        "part-of-speech": "adverb",
+        "pinyin": "jiǎnzhí",
+        "tags": " chinese-in-steps-3 lesson-27 "
+    },
+    {
+        "chinese": "除了",
+        "meaning": "apart from",
+        "part-of-speech": "preposition",
+        "pinyin": "chúle",
+        "tags": " chinese-in-steps-3 lesson-27 "
+    },
+    {
+        "chinese": "本来",
+        "meaning": "originally",
+        "part-of-speech": "adverb",
+        "pinyin": "běnlái",
+        "tags": " chinese-in-steps-3 lesson-27 "
+    }
+]

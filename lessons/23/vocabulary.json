@@ -1,0 +1,180 @@
+[
+    {
+        "chinese": "长",
+        "meaning": "grow, develop",
+        "part-of-speech": "verb",
+        "pinyin": "zhǎng",
+        "tags": " chinese-in-steps-3 lesson-23 "
+    },
+    {
+        "chinese": "受",
+        "meaning": "bear, endure; receive, accept",
+        "part-of-speech": "verb",
+        "pinyin": "shòu",
+        "tags": " chinese-in-steps-3 lesson-23 "
+    },
+    {
+        "chinese": "上当",
+        "meaning": "be fooled",
+        "part-of-speech": "verb-object",
+        "pinyin": "shàngdàng",
+        "tags": " chinese-in-steps-3 lesson-23 "
+    },
+    {
+        "chinese": "了",
+        "meaning": "(indicating possibility) be able/unable to do",
+        "part-of-speech": "verb",
+        "pinyin": "liǎo",
+        "sentence": "小李吃得了这只烤鸭",
+        "sentence-meaning": "Xiao Li can eat this roast duck",
+        "sentence-pinyin": "Xiǎo Lǐ chī déliǎo zhè zhǐ kǎoyā",
+        "tags": " chinese-in-steps-3 lesson-23 "
+    },
+    {
+        "chinese": "葡萄",
+        "meaning": "grape",
+        "part-of-speech": "noun",
+        "pinyin": "pútao",
+        "tags": " chinese-in-steps-3 lesson-23 "
+    },
+    {
+        "chinese": "李子",
+        "meaning": "plum",
+        "part-of-speech": "noun",
+        "pinyin": "lǐzi",
+        "tags": " chinese-in-steps-3 lesson-23 "
+    },
+    {
+        "chinese": "服务",
+        "meaning": "service; serve",
+        "part-of-speech": "noun/verb",
+        "pinyin": "fúwù",
+        "tags": " chinese-in-steps-3 lesson-23 "
+    },
+    {
+        "chinese": "服务员",
+        "meaning": "waiter/waiteress",
+        "part-of-speech": "noun",
+        "pinyin": "fúwùyuán",
+        "tags": " chinese-in-steps-3 lesson-23 "
+    },
+    {
+        "chinese": "桌子",
+        "meaning": "table",
+        "part-of-speech": "noun",
+        "pinyin": "zhuōzi",
+        "tags": " chinese-in-steps-3 lesson-23 "
+    },
+    {
+        "chinese": "腿",
+        "meaning": "leg",
+        "part-of-speech": "noun",
+        "pinyin": "tuǐ",
+        "tags": " chinese-in-steps-3 lesson-23 "
+    },
+    {
+        "chinese": "金龙",
+        "meaning": "golden dragon",
+        "part-of-speech": "noun",
+        "pinyin": "jīnlóng",
+        "tags": " chinese-in-steps-3 lesson-23 "
+    },
+    {
+        "chinese": "鱼",
+        "meaning": "fish",
+        "part-of-speech": "noun",
+        "pinyin": "yú",
+        "tags": " chinese-in-steps-3 lesson-23 "
+    },
+    {
+        "chinese": "大中华",
+        "meaning": "Greater China",
+        "part-of-speech": "proper noun",
+        "pinyin": "dàzhōnghuá",
+        "tags": " chinese-in-steps-3 lesson-23 "
+    },
+    {
+        "chinese": "师傅",
+        "meaning": "master",
+        "part-of-speech": "noun",
+        "pinyin": "shīfu",
+        "tags": " chinese-in-steps-3 lesson-23 "
+    },
+    {
+        "chinese": "大师傅",
+        "meaning": "chef",
+        "part-of-speech": "noun",
+        "pinyin": "dàshīfu",
+        "tags": " chinese-in-steps-3 lesson-23 "
+    },
+    {
+        "chinese": "广东",
+        "meaning": "proper noun",
+        "part-of-speech": "Guangdong (a province)",
+        "pinyin": "guǎngdōng",
+        "tags": " chinese-in-steps-3 lesson-23 "
+    },
+    {
+        "chinese": "蔬菜",
+        "meaning": "vegetables",
+        "part-of-speech": "noun",
+        "pinyin": "shūcài",
+        "tags": " chinese-in-steps-3 lesson-23 "
+    },
+    {
+        "chinese": "豆腐",
+        "meaning": "bean curd",
+        "part-of-speech": "noun",
+        "pinyin": "dòufu",
+        "tags": " chinese-in-steps-3 lesson-23 "
+    },
+    {
+        "chinese": "素菜",
+        "meaning": "vegetarian dish",
+        "part-of-speech": "noun",
+        "pinyin": "sùcài",
+        "tags": " chinese-in-steps-3 lesson-23 "
+    },
+    {
+        "chinese": "糖醋",
+        "meaning": "sweet and sour",
+        "part-of-speech": "adjective",
+        "pinyin": "tángcù",
+        "tags": " chinese-in-steps-3 lesson-23 "
+    },
+    {
+        "chinese": "辣",
+        "meaning": "spicy",
+        "part-of-speech": "adjective",
+        "pinyin": "là",
+        "tags": " chinese-in-steps-3 lesson-23 "
+    },
+    {
+        "chinese": "饱",
+        "meaning": "full",
+        "part-of-speech": "adjective",
+        "pinyin": "bǎo",
+        "tags": " chinese-in-steps-3 lesson-23 "
+    },
+    {
+        "chinese": "虽然",
+        "meaning": "although",
+        "part-of-speech": "conjunction",
+        "pinyin": "suīrán",
+        "tags": " chinese-in-steps-3 lesson-23 "
+    },
+    {
+        "chinese": "到底",
+        "meaning": "adverb",
+        "part-of-speech": "what on earth; after all",
+        "pinyin": "dàodǐ",
+        "tags": " chinese-in-steps-3 lesson-23 "
+    },
+    {
+        "chinese": "家",
+        "meaning": "for families or enterprises",
+        "part-of-speech": "measure word",
+        "pinyin": "jiā",
+        "tags": " chinese-in-steps-3 lesson-23 "
+    }
+]
