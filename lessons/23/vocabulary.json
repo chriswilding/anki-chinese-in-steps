@@ -55,19 +55,6 @@
         "tags": " chinese-in-steps-3 lesson-23 "
     },
     {
-        "audio-begin": 26143,
-        "audio-end": 26764,
-        "audio-file": "第23课-1.mp3",
-        "chinese": "葡萄",
-        "cid": 1609453876671,
-        "guid": "IVA+jmkrQE",
-        "meaning": "grape",
-        "nid": 1609453876672,
-        "part-of-speech": "noun",
-        "pinyin": "pútao",
-        "tags": " chinese-in-steps-3 lesson-23 "
-    },
-    {
         "audio-begin": 28931,
         "audio-end": 29579,
         "audio-file": "第23课-1.mp3",
@@ -312,19 +299,6 @@
         "nid": 1609453876710,
         "part-of-speech": "what on earth; after all",
         "pinyin": "dàodǐ",
-        "tags": " chinese-in-steps-3 lesson-23 "
-    },
-    {
-        "audio-begin": 83193,
-        "audio-end": 83545,
-        "audio-file": "第23课-1.mp3",
-        "chinese": "家",
-        "cid": 1609453876711,
-        "guid": "mFuB/nPdR5",
-        "meaning": "for families or enterprises",
-        "nid": 1609453876712,
-        "part-of-speech": "measure word",
-        "pinyin": "jiā",
         "tags": " chinese-in-steps-3 lesson-23 "
     }
 ]

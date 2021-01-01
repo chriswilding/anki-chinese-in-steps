@@ -279,11 +279,11 @@
         "chinese": "睡觉",
         "cid": 1584200079409,
         "guid": "5WsRWdXAR6",
-        "meaning": "go to bed",
+        "meaning": "go to bed, sleep",
         "nid": 1584200079410,
-        "part-of-speech": "verb",
+        "part-of-speech": "verb/noun",
         "pinyin": "shuìjiào",
-        "tags": " chinese-in-steps-2 lesson-13 additional-vocabulary "
+        "tags": " chinese-in-steps-2 lesson-13 additional-vocabulary lesson-18 "
     },
     {
         "audio-begin": 16903,
@@ -292,11 +292,11 @@
         "chinese": "休息",
         "cid": 1584200079411,
         "guid": "TAv37VB4Tx",
-        "meaning": "have a break",
+        "meaning": "have a break, rest, break",
         "nid": 1584200079412,
         "part-of-speech": "verb",
-        "pinyin": "xiūxí",
-        "tags": " chinese-in-steps-2 lesson-13 additional-vocabulary "
+        "pinyin": "xiūxi",
+        "tags": " chinese-in-steps-2 lesson-13 additional-vocabulary lesson-14 "
     },
     {
         "audio-begin": 19922,
@@ -413,6 +413,6 @@
         "nid": 1584200079430,
         "part-of-speech": "noun",
         "pinyin": "pútao",
-        "tags": " chinese-in-steps-2 lesson-13 additional-vocabulary "
+        "tags": " chinese-in-steps-2 lesson-13 additional-vocabulary chinese-in-steps-3 lesson-23 "
     }
 ]

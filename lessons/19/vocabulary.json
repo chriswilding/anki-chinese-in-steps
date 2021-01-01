@@ -130,19 +130,6 @@
         "tags": " chinese-in-steps-2 lesson-19 "
     },
     {
-        "audio-begin": 47813,
-        "audio-end": 48575,
-        "audio-file": "第19课-1.mp3",
-        "chinese": "高兴",
-        "cid": 1584908957863,
-        "guid": "kkFnLlx3RR",
-        "meaning": "pleased",
-        "nid": 1584908957864,
-        "part-of-speech": "adjective",
-        "pinyin": "gāoxìng",
-        "tags": " chinese-in-steps-2 lesson-19 "
-    },
-    {
         "audio-begin": 50718,
         "audio-end": 51552,
         "audio-file": "第19课-1.mp3",
@@ -461,11 +448,11 @@
         "chinese": "冰箱",
         "cid": 1584908957911,
         "guid": "NBp4ILT5To",
-        "meaning": "fridge",
+        "meaning": "fridge, refrigerator; freezer",
         "nid": 1584908957912,
-        "part-of-speech": "",
+        "part-of-speech": "noun",
         "pinyin": "bīngxiāng",
-        "tags": " chinese-in-steps-2 lesson-19 additional-vocabulary "
+        "tags": " chinese-in-steps-2 lesson-19 additional-vocabulary chinese-in-steps-3 lesson-27 "
     },
     {
         "audio-begin": 43399,

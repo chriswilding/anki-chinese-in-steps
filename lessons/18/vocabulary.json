@@ -65,19 +65,6 @@
         "tags": " chinese-in-steps-2 lesson-18 "
     },
     {
-        "audio-begin": 29915,
-        "audio-end": 30663,
-        "audio-file": "第18课-1.mp3",
-        "chinese": "睡觉",
-        "cid": 1584908678313,
-        "guid": "lxxea+L4Qw",
-        "meaning": "sleep",
-        "nid": 1584908678314,
-        "part-of-speech": "verb/noun",
-        "pinyin": "shuìjiào",
-        "tags": " chinese-in-steps-2 lesson-18 "
-    },
-    {
         "audio-begin": 32856,
         "audio-end": 33271,
         "audio-file": "第18课-1.mp3",
@@ -448,11 +435,11 @@
         "chinese": "照相",
         "cid": 1584908678371,
         "guid": "UpNUA6gzSs",
-        "meaning": "take photos",
+        "meaning": "take photos, take a photo",
         "nid": 1584908678372,
-        "part-of-speech": "",
+        "part-of-speech": "verb-object",
         "pinyin": "zhàoxiàng",
-        "tags": " chinese-in-steps-2 lesson-18 additional-vocabulary "
+        "tags": " chinese-in-steps-2 lesson-18 additional-vocabulary chinese-in-steps-3 lesson-28 "
     },
     {
         "audio-begin": 39398,

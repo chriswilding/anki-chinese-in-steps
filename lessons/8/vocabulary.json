@@ -84,11 +84,11 @@
         "chinese": "家",
         "cid": 1579117429840,
         "guid": "evLBtQl2Qf",
-        "meaning": "home; family; house; specialist in field",
+        "meaning": "home; family; house; specialist in field/for families or enterprises",
         "nid": 1579117429841,
         "part-of-speech": "noun/measure word",
         "pinyin": "jiā",
-        "tags": " chinese-in-steps-1 lesson-8 "
+        "tags": " chinese-in-steps-1 lesson-8 chinese-in-steps-3 lesson-23 "
     },
     {
         "audio-begin": 48613,
@@ -179,7 +179,7 @@
         "nid": 1579117429855,
         "part-of-speech": "adjective",
         "pinyin": "kě'ài",
-        "tags": " chinese-in-steps-1 lesson-8 "
+        "tags": " chinese-in-steps-1 lesson-8 chinese-in-steps-2 lesson-20 "
     },
     {
         "audio-begin": 71571,
@@ -348,7 +348,7 @@
         "nid": 1579117429881,
         "part-of-speech": "adjective",
         "pinyin": "piányi",
-        "tags": " chinese-in-steps-1 lesson-8 additional-vocabulary "
+        "tags": " chinese-in-steps-1 lesson-8 additional-vocabulary chinese-in-steps-2 lesson-12 "
     },
     {
         "audio-begin": 30812,
@@ -357,11 +357,11 @@
         "chinese": "高兴",
         "cid": 1579117429882,
         "guid": "vnW9y9NPSm",
-        "meaning": "glad",
+        "meaning": "glad, pleased",
         "nid": 1579117429883,
         "part-of-speech": "adjective",
         "pinyin": "gāoxìng",
-        "tags": " chinese-in-steps-1 lesson-8 additional-vocabulary "
+        "tags": " chinese-in-steps-1 lesson-8 additional-vocabulary chinese-in-steps-2 lesson-19 "
     },
     {
         "audio-begin": 33539,
@@ -383,11 +383,11 @@
         "chinese": "漂亮",
         "cid": 1579117429886,
         "guid": "u7+IdD9PTP",
-        "meaning": "beautiful",
+        "meaning": "beautiful, pretty",
         "nid": 1579117429887,
         "part-of-speech": "adjective",
         "pinyin": "piàoliang",
-        "tags": " chinese-in-steps-1 lesson-8 additional-vocabulary "
+        "tags": " chinese-in-steps-1 lesson-8 additional-vocabulary lesson-9 "
     },
     {
         "audio-begin": 39070,
